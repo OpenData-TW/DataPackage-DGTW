@@ -65,3 +65,9 @@ DataPackage 計畫目前也提供了包含 Viewer / Validator / Manager / Packag
 4. 資料管理 : 命名，時間戳記等
 5. 資料包裝管理工具：建置服務，管理，下載
 6. 其他開放資料平台
+
+# Licence
+
+- 所有程式碼都採用 [MIT 授權](https://www.wikiwand.com/zh-hant/MIT%E8%A8%B1%E5%8F%AF%E8%AD%89)
+- 所有文字內容都採用 [CC-BY 4.0 授權](https://creativecommons.org/licenses/by/4.0/deed.zh_TW)
+- 所有資料集都採 [CC0 授權](https://creativecommons.org/publicdomain/zero/1.0/deed.zh_TW)
