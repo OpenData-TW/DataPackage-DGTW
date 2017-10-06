@@ -1,0 +1,42 @@
+{
+    "status": true,
+    "dataset": {
+        "linkable": 1,
+        "downloadable": 0,
+        "structure": 2,
+        "encoding_match": 2,
+        "desc_match": 2,
+        "csv": 2,
+        "agency": "基隆市政府社會處",
+        "pubdate": "2017/06/03 00:00"
+    },
+    "resources": {
+        "http://www.cfcf.org.tw/": {
+            "resource": {
+                "linkable": 1,
+                "downloadable": 0,
+                "structure": 2,
+                "encoding_match": 2,
+                "desc_match": 2,
+                "csv": 2,
+                "md5_file": "",
+                "md5_url": "96e9b829ff5a2bbbebb5d12cb1230043",
+                "url": "http://www.cfcf.org.tw/",
+                "desc": "基隆市兒少安置機構營運概況",
+                "fields": [],
+                "encoding": "",
+                "file_type": "",
+                "amount": 0,
+                "api_fields": [],
+                "last_update_time": "",
+                "check_time": "",
+                "ref_key": "",
+                "messages": [
+                    "[001] download_file(): cannot download directly."
+                ]
+            },
+            "files": []
+        }
+    },
+    "no_qc": []
+}
