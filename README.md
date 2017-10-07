@@ -57,6 +57,7 @@ DataPackage 計畫目前也提供了包含 Viewer / Validator / Manager / Packag
 ## 目標
 - 將 DGTW 資料轉為 DataPackage，包含 datapackage.json + resources files (structured data)
 - 建立符合其他資料平台與網站的轉換機制
+- 提供資料管理的相關工具
 
 ## 計畫執行
 
