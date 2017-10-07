@@ -73,6 +73,10 @@ DataPackage 計畫目前也提供了包含 Viewer / Validator / Manager / Packag
 2. Chrome extension (DGTW2DP)
 3. DGTW2DP to Github/jkan
 
+## 程式語言與環境
+- python 3
+- js 
+- PaaS (heroku? gcp?)
 
 # Licence
 
