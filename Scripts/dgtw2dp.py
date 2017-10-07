@@ -1,11 +1,8 @@
 # encoding: utf-8
-
 # 2017.10.06
 # node to datapackage
 #
 
-
-# import pprint
 import requests
 from bs4 import BeautifulSoup
 import json
@@ -62,9 +59,7 @@ for k in nodeList:
             labelCont.insert(keyPos + 1, '關鍵字_' + str(i))
 
     labelCont.append('統計')
-    # pp = pprint.PrettyPrinter(indent=4)
-    # print(labelCont)
-    # print('=====================================================================')
+
 
     nodeContent = r.find_all("div", class_="field-item")
     labelCont[2] = '主要欄位說明_0'
@@ -93,8 +88,6 @@ for k in nodeList:
     if '授權說明網址' in jData['備註']:
         jData['授權說明網址'] = jData['備註'][8:]
 
-    # print('=====================================================================')
-    # print(jData)
 
 
     jFile = baseURL + nodeNum + ' - ' + jData['提供機關'] + '.' + jTitle + '.json'
