@@ -12,19 +12,14 @@ import json
 from datetime import datetime, tzinfo
 from time import sleep
 
-nodeList = [10340, 10344, 11093, 11257, 11271, 14864, 14869, 15152, 15293, 23198, 23201,
-            27495, 28983, 28987, 28988, 28993, 28994, 28995, 29021, 31159, 31251, 31818,
-            31819, 31848, 31849, 31850, 31858, 31862, 36947, 38824, 42338, 42578, 44662,
-            44663, 44664, 44665, 45581, 45624, 45672, 45693, 45709, 45710, 45711, 45714,
-            45718, 45719, 45720, 45721, 45722, 45723, 45724, 45725, 45726, 45727, 45728,
-            45729, 45730, 45732, 45745, 45749, 45750, 45751, 45756, 45757, 45758, 45811,
-            46439, 46441, 46442, 46444, 46445, 46446, 46447, 46448, 48126, 48143, 48205]
+nodeList = [10340]
+baseURL = '..\\temp\\'
 
 for k in nodeList:
     # node = xxxxx / http://data.gov.tw/node/xxxxx
     nodeNum = str(k)
     node_url = "http://data.gov.tw/node/" + nodeNum
-    baseURL = 'f:\\DataSet\\@地方\\基隆市\\Datasets\\'
+
 
     r = requests.get(node_url)
     r = BeautifulSoup(r.content.decode('utf-8'), 'html.parser')
@@ -109,4 +104,46 @@ for k in nodeList:
     f.close()
 
     sleep(1)
+
+
+# encoding: utf-8
+# data quality check
+# get answer from http://quality.data.gov.tw/
+# /dq_event.php?nid=xxxx
+# ex : http://quality.data.gov.tw/dq_event.php?nid=31111
+#
+# good : 55521
+# wrong : 55523
+# bad : 45709
+
+
+for k in nodeList:
+    nodeNum = str(k)
+    dq_url = "http://quality.data.gov.tw/dq_event.php?nid=" + nodeNum
+
+    r = requests.get(dq_url)
+    f = open(baseURL + nodeNum + ' - DQ.json', 'w', encoding='utf-8')
+    print(baseURL + nodeNum + ' - DQ.json')
+
+    rContent = r.text[1:].strip()  # remove first ':' character and space
+
+    if 'event: done' in rContent:
+        rIndex = rContent.index('done')
+        rResult = rContent[rIndex + 21:-1]
+        jData = json.JSONDecoder().decode(rResult)
+
+        json.dump(jData, f, ensure_ascii=False, indent=4)
+        f.close()
+
+    else:
+        if 'event: nop' in rContent:
+            rResult = '{ "status" : "wrong node" }'
+        else:
+            rResult = "non 'event : done'\n" + rContent
+        f.write(rResult)
+        f.close()
+
+    if k % 10 == 0:
+        sleep(1)
+
 print("----------------------------- end -----------------------------------")
