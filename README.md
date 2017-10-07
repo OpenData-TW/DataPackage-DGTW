@@ -59,12 +59,19 @@ DataPackage 計畫目前也提供了包含 Viewer / Validator / Manager / Packag
 - 建立符合其他資料平台與網站的轉換機制
 
 ## 計畫執行
+
+### DGTW2DataPackage
 1. DGTW/node 轉 metadata.json
 2. 透過 Quality.data.gov.tw 將 DGTW/node 檢驗結果轉 QD_resources.json
 3. 結合 metadata.json + QD_resources.json 建立 DataPacakge 資料包裝
 4. 資料管理 : 命名，時間戳記等
-5. 資料包裝管理工具：建置服務，管理，下載
-6. 其他開放資料平台
+5. 其他開放資料平台
+
+### DataPackage API
+1. python + Flask - Restful API
+2. Chrome extension (DGTW2DP)
+3. DGTW2DP to Github/jkan
+
 
 # Licence
 
