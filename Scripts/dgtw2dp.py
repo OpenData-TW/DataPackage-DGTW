@@ -1,142 +1,177 @@
 # encoding: utf-8
-# 2017.10.06
-# node to datapackage
+#
+# 2017.10.09 v0.5
+#
+# DGTW2DP : Data.gov.tw to DataPackage
+# datasets - metadata
+# http://data.gov.tw/node/XXXXXX : XXXXXX = node number
+# datasets - resources check / download
+# http://quality.data.gov.tw/dq_event.php?nid=XXXXXX : XXXXXX = node number
+#
+# output : XXXXXX-dataPublisher_dataTitle.json
 #
 
+
+import json
 import requests
 from bs4 import BeautifulSoup
-import json
-from datetime import datetime, tzinfo
+from datetime import datetime
+import urllib.parse
 from time import sleep
 
-nodeList = [10340]
-baseURL = '..\\temp\\'
+nodeList = [45751]
 
-for k in nodeList:
-    # node = xxxxx / http://data.gov.tw/node/xxxxx
-    nodeNum = str(k)
-    node_url = "http://data.gov.tw/node/" + nodeNum
+# baseURL = 'e:\\DevSource\\Github\\DataPackage-DGTW\\Temp\\'
+baseURL = '..\\Datasets\\'
 
+for nodeKey in nodeList:
+    nodeNum = str(nodeKey)
+    nodeURL = "http://data.gov.tw/node/" + nodeNum
 
-    r = requests.get(node_url)
+    r = requests.get(nodeURL)
     r = BeautifulSoup(r.content.decode('utf-8'), 'html.parser')
 
-    # get resources Count
-    resCount = int(len(r.find_all('a', class_='dgresource')) / 2)
-    resCount1 = resCount
+    dataMeta = {}
 
-    # get keywords count
-    keyCount = r.find_all('div', class_='tag-wrapper')
+    # node dataset Title
+    nodeTitle = r.title.get_text()
 
-    # get all field label
-    nodeContent = r.find_all("div", class_="field-label")
-    nodeTitle = r.select("h1.node-title")
-
-    # set up field label list
-    labelCont = []
-
-    # remove beginning ':' and trim space
-    for i in nodeContent:
-        labelCont.append(i.get_text().strip().replace(':', ''))
-
-    # defaut resCount = 1, so remove 1 = remove default one
-    resCount -= 1
-    posAdd = 11
-
-    # if resCount > 1 - add new field label and rename field label + count number
-    while resCount != 0:
-        labelCont.insert(posAdd, '資料資源_' + str(resCount))
-        for i in range(1, 8):
-            labelCont[i + posAdd] = labelCont[i + posAdd] + '_' + str(resCount)
-        resCount -= 1
-        posAdd += 8
-
-    # if keyCount != 0
-    keyPos = [i for i, x in enumerate(labelCont) if x == '關鍵字']
-    keyPos = int(keyPos[0])
-    if len(keyCount) != 0:
-        for i in range(0, len(keyCount)):
-            labelCont.insert(keyPos + 1, '關鍵字_' + str(i))
-
-    labelCont.append('統計')
-
-
-    nodeContent = r.find_all("div", class_="field-item")
-    labelCont[2] = '主要欄位說明_0'
-    jData = {}
-    jTitle = r.title.get_text().replace(' | 政府資料開放平臺', '')
-    jData['title'] = jTitle
-    jData['node'] = str(k)
-    jData['created'] = str(datetime.now())[:-7]
-
-    for i in range(1, len(labelCont)):
-        textCont = nodeContent[i].get_text()
-        textCont.replace('\r\n', '')
-        if '資料資源' in labelCont[i]: continue
-        # print('{:2d} - {} : {}'.format(i, labelCont[i], textCont))
-        jData[labelCont[i]] = textCont.strip('\n\t\r')
-
-    # 新增欄位
-    # 資源數量 : resCount1
-    # 關鍵字數量 : keyCount[]
-    # 備註拆解 + 授權說明網址
-    jData['resource'] = resCount1
-    jData['keywords'] = int(len(keyCount))
-    if '備註' not in jData.keys():
-        jData['備註'] = ''
-    jData['授權說明網址'] = ''
-    if '授權說明網址' in jData['備註']:
-        jData['授權說明網址'] = jData['備註'][8:]
-
-
-
-    jFile = baseURL + nodeNum + ' - ' + jData['提供機關'] + '.' + jTitle + '.json'
-    print(jFile)
-    f = open(jFile, 'w', encoding='utf-8')
-    json.dump(jData, f, ensure_ascii=False, indent=4)
-    f.close()
-
-    sleep(1)
-
-
-# encoding: utf-8
-# data quality check
-# get answer from http://quality.data.gov.tw/
-# /dq_event.php?nid=xxxx
-# ex : http://quality.data.gov.tw/dq_event.php?nid=31111
-#
-# good : 55521
-# wrong : 55523
-# bad : 45709
-
-
-for k in nodeList:
-    nodeNum = str(k)
-    dq_url = "http://quality.data.gov.tw/dq_event.php?nid=" + nodeNum
-
-    r = requests.get(dq_url)
-    f = open(baseURL + nodeNum + ' - DQ.json', 'w', encoding='utf-8')
-    print(baseURL + nodeNum + ' - DQ.json')
-
-    rContent = r.text[1:].strip()  # remove first ':' character and space
-
-    if 'event: done' in rContent:
-        rIndex = rContent.index('done')
-        rResult = rContent[rIndex + 21:-1]
-        jData = json.JSONDecoder().decode(rResult)
-
-        json.dump(jData, f, ensure_ascii=False, indent=4)
-        f.close()
+    if '找不到網頁' in nodeTitle:
+        print(nodeNum, ' : 找不到網頁')
+        dataMeta = {'title': '找不到網頁'}
 
     else:
-        if 'event: nop' in rContent:
-            rResult = '{ "status" : "wrong node" }'
+        # get datasets metadata labels : nodeLabel
+        tempLabel = r.find_all("div", class_='field-label')
+        nodeLabel = []
+        for i in range(1, len(tempLabel)):
+            nodeLabel.append(tempLabel[i].get_text().replace(':\xa0', ''))
+        nodeLabel.append('stats')
+
+        # get datasets metadata content : nodeMeta
+        tempMeta = r.find_all("div", class_='field-item')
+
+        nodeMeta = []
+        for i in range(1, len(tempMeta)):
+            nodeMeta.append(tempMeta[i].get_text().strip().replace('\xa0', ''))
+
+        #
+        # get keywords count : class = "tag-wrapper" -----------------------------------
+        #
+
+        keyCont = r.find_all('div', class_='tag-wrapper')
+        keywordList = []
+
+        if len(keyCont) > 0:
+            for i in keyCont:
+                keywordList.append(i.get_text())
+
+            # keyMetaPos = nodeMeta.index(''.join(keywordList))
+            keyMetaPos = nodeLabel.index('關鍵字')
+            nodeMeta[keyMetaPos] = keywordList
+            # remove extra keywords fields
+            del nodeMeta[keyMetaPos + 1:keyMetaPos + len(keyCont) + 1]
+        keywordList.insert(0, str(len(keyCont)))
+
+        #
+        # get resources Count : class="dgresource" -------------------------------------
+        #
+
+        resCont = r.find_all('a', class_='dgresource')
+        resType = []
+        resCount = int(len(resCont) / 2)
+        for i in range(0, resCount):
+            resType.append(resCont[i * 2].get_text())
+
+        resMeta = {}
+        resPos = nodeLabel.index('資料資源')
+        resLen = resPos + resCount * 8 - 1
+        resLabel = nodeLabel[resPos:resPos + 8]
+
+        for i in range(0, resCount):
+            resMetaSub = {}
+            for j in range(1, 8):
+                resMetaSub[resLabel[j]] = nodeMeta[resPos + i * 8 + j]
+            resMeta['resource_' + str(i)] = resMetaSub
+
+        del nodeMeta[resPos:resLen]
+        del nodeLabel[resPos + 1:resPos + resCount * 7 + 1]
+        nodeMeta[resPos] = resMeta
+
+        #
+        # add title, node number, created time -----------------------------------------
+        #
+
+        dataMeta['title'] = nodeTitle.replace(' | 政府資料開放平臺', '')
+        dataMeta['node'] = nodeNum
+        dataMeta['datapackage_version'] = str(datetime.now())[:-7]
+
+        # add dataMeta body
+        for i in range(0, len(nodeLabel)):
+            dataMeta[nodeLabel[i]] = nodeMeta[i]
+
+        # add Resrource files type
+        dataMeta['resource_type'] = resType
+
+        # reformat stats
+        statsMeta = dataMeta['stats'].split(' ')
+        statsTemp = {}
+
+        for i in range(0, 3):
+            statsTemp[statsMeta[i * 2]] = statsMeta[i * 2 + 1]
+        dataMeta['stats'] = statsTemp
+
+        # -- dataMeta ------------------------------------------------------------------
+
+        dqURL = "http://quality.data.gov.tw/dq_event.php?nid=" + nodeNum
+        r = requests.get(dqURL)
+
+        dqContent = r.text[1:].strip().split('\n')  # remove first ':' character and space
+        dqTemp = []
+        dqDone = {}
+
+        resMeta = ['linkable', 'downloadable', 'structure', 'encoding_match', 'desc_match', 'csv',
+                   'fields', 'encoding', 'file_type', 'amount', 'check_time', 'messages', ]
+
+        for i in dqContent:
+            if i == '': continue
+            dqTemp.append(i)
+
+        for i in range(0, len(dqTemp)):
+            if 'event: done' in dqTemp[i]:
+                dqDone = json.JSONDecoder().decode(dqTemp[i + 1][5:])
+                break
+            else:
+                dqDone = {}
+        if dqDone == {}:
+            dataMeta['download'] = 'error'
+            print("{}-{}{} download - error".format(nodeNum, dataMeta['提供機關'], dataMeta['title']))
         else:
-            rResult = "non 'event : done'\n" + rContent
-        f.write(rResult)
+            dqRList = list(dqDone['result']['resources'].keys())
+            dqRList2 = []
+            for i in range(0, len(dqRList)):
+                dqRList2.append(urllib.parse.unquote(dqRList[i]))
+
+            for i in range(0, resCount):
+                resURL = dataMeta['資料資源']['resource_' + str(i)]['資源網址']
+                try:
+                    index_value = dqRList2.index(resURL)
+                except ValueError:
+                    index_value = -1
+                if index_value == -1:
+                    dataMeta['資料資源']['resource_' + str(i)]['dq_check'] = 'error'
+                else:
+                    dataMeta['資料資源']['resource_' + str(i)]['dq_check'] = 'checked'
+                    for j in resMeta:
+                        dataMeta['資料資源']['resource_' + str(i)][j] = \
+                            dqDone['result']['resources'][dqRList[index_value]]['resource'][j]
+
+        dataURL = baseURL + nodeNum + '-' + dataMeta['提供機關'] + '_' + dataMeta['title'] + '.json'
+        print(dataURL)
+        f = open(dataURL, 'w', encoding='utf-8')
+
+        json.dump(dataMeta, f, ensure_ascii=False, indent=4)
         f.close()
 
-    if k % 10 == 0:
-        sleep(1)
-
-print("----------------------------- end -----------------------------------")
+        if (nodeKey % 10) == 0 :
+            sleep(2)
