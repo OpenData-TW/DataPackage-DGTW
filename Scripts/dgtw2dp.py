@@ -4,13 +4,14 @@
 #
 
 import requests
-from bs4 import BeautifulSoup
 import json
-from datetime import datetime, tzinfo
+from bs4 import BeautifulSoup
+from datetime import datetime
 from time import sleep
 
 nodeList = [10340]
 baseURL = '..\\temp\\'
+
 
 for k in nodeList:
     # node = xxxxx / http://data.gov.tw/node/xxxxx
