@@ -1,0 +1,8 @@
+{
+    "node": "45745-基隆市環境保護局_基隆市應回收廢棄物回收處理業名單",
+    "res_name_0": "基隆市建檔管理公廁名稱位置資料-csv",
+    "filetype_0": "csv",
+    "encoding_0": "utf-8",
+    "resource_0_url": "http://opendata.epa.gov.tw/ws/Data/OTH01092/?$skip=0&$top=1000&format=csv",
+    "resource_0_filename": "no default"
+}

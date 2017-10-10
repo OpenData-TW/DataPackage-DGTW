@@ -1,0 +1,13 @@
+{
+    "node": "54386-行政院農業委員會_臺東區農業改良場年報",
+    "res_name_0": "提供出刊時間、期刊名稱、檔案連結等資料。",
+    "filetype_0": "json",
+    "encoding_0": "utf-8",
+    "resource_0_url": "http://data.coa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D72",
+    "resource_0_filename": "no default",
+    "res_name_1": "提供出刊時間、期刊名稱、檔案連結等資料。",
+    "filetype_1": "csv",
+    "encoding_1": "utf-8",
+    "resource_1_url": "http://data.coa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D72&FOTT=CSV",
+    "resource_1_filename": "COA_OpenData.cs"
+}

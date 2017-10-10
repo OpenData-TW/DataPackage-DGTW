@@ -1,0 +1,18 @@
+{
+    "node": "45672-基隆市環境保護局_基隆市建檔管理公廁",
+    "res_name_0": "基隆市建檔管理公廁名稱位置資料-JSON",
+    "filetype_0": "json",
+    "encoding_0": "utf-8",
+    "resource_0_url": "http://opendata.epa.gov.tw/ws/Data/OTH01092/?$skip=0&$top=1000&format=json",
+    "resource_0_filename": "no default",
+    "res_name_1": "基隆市建檔管理公廁名稱位置資料-CSV",
+    "filetype_1": "csv",
+    "encoding_1": "utf-8",
+    "resource_1_url": "http://opendata.epa.gov.tw/ws/Data/OTH01092/?$skip=0&$top=1000&format=csv",
+    "resource_1_filename": "OTH01092_20171011023733.csv",
+    "res_name_2": "基隆市建檔管理公廁名稱位置資料-XML",
+    "filetype_2": "xml",
+    "encoding_2": "utf-8",
+    "resource_2_url": "http://opendata.epa.gov.tw/ws/Data/OTH01092/?$skip=0&$top=1000&format=xml",
+    "resource_2_filename": "no default"
+}

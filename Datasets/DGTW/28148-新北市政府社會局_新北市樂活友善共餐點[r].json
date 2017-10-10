@@ -1,0 +1,18 @@
+{
+    "node": "28148-新北市政府社會局_新北市樂活友善共餐點",
+    "res_name_0": "新北市樂活友善共餐點",
+    "filetype_0": "zip",
+    "encoding_0": "utf-8",
+    "resource_0_url": "http://data.ntpc.gov.tw/od/zipfiledl?oid=E8882AA4-876D-4E4D-8CA2-F1323D026AA6&ft=zip",
+    "resource_0_filename": "E6��北市樂活友善共餐點_000.zip",
+    "res_name_1": "新北市樂活友善共餐點",
+    "filetype_1": "json",
+    "encoding_1": "utf-8",
+    "resource_1_url": "http://data.ntpc.gov.tw/api/v1/rest/datastore/382000000A-000348-001",
+    "resource_1_filename": "no default",
+    "res_name_2": "新北市樂活友善共餐點",
+    "filetype_2": "kml",
+    "encoding_2": "utf-8",
+    "resource_2_url": "http://data.ntpc.gov.tw/od/zipfiledl?oid=E8882AA4-876D-4E4D-8CA2-F1323D026AA6&ft=kml",
+    "resource_2_filename": "E6��北市樂活友善共餐點.kml"
+}
