@@ -19,7 +19,7 @@ for (dirpath, dirnames, filenames) in walk(baseURL):
 
 # get all files
 for i in fullList :
-    if '[r]' in i :
+    if '[r]' in i : 
         dirList.append(i)
 
 rData = {}

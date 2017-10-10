@@ -18,15 +18,15 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 import urllib.parse
 from time import sleep
+import nodeList
 
-nodeList = [45751]
+nodeList = nodeList.node
 
 # baseURL = 'e:\\DevSource\\Github\\DataPackage-DGTW\\Temp\\'
 baseURL = '..\\Datasets\\'
 
 for nodeKey in nodeList:
-    nodeNum = str(nodeKey)
-    nodeURL = "http://data.gov.tw/node/" + nodeNum
+    nodeURL = "http://data.gov.tw/node/" + nodeKey
 
     r = requests.get(nodeURL)
     r = BeautifulSoup(r.content.decode('utf-8'), 'html.parser')
@@ -37,7 +37,7 @@ for nodeKey in nodeList:
     nodeTitle = r.title.get_text()
 
     if '找不到網頁' in nodeTitle:
-        print(nodeNum, ' : 找不到網頁')
+        print(nodeKey, ' : 找不到網頁')
         dataMeta = {'title': '找不到網頁'}
 
     else:
@@ -103,7 +103,7 @@ for nodeKey in nodeList:
         #
 
         dataMeta['title'] = nodeTitle.replace(' | 政府資料開放平臺', '')
-        dataMeta['node'] = nodeNum
+        dataMeta['node'] = nodeKey
         dataMeta['datapackage_version'] = str(datetime.now())[:-7]
 
         # add dataMeta body
@@ -123,7 +123,7 @@ for nodeKey in nodeList:
 
         # -- dataMeta ------------------------------------------------------------------
 
-        dqURL = "http://quality.data.gov.tw/dq_event.php?nid=" + nodeNum
+        dqURL = "http://quality.data.gov.tw/dq_event.php?nid=" + nodeKey
         r = requests.get(dqURL)
 
         dqContent = r.text[1:].strip().split('\n')  # remove first ':' character and space
@@ -145,7 +145,7 @@ for nodeKey in nodeList:
                 dqDone = {}
         if dqDone == {}:
             dataMeta['download'] = 'error'
-            print("{}-{}{} download - error".format(nodeNum, dataMeta['提供機關'], dataMeta['title']))
+            print("{}-{}{} download - error".format(nodeKey, dataMeta['提供機關'], dataMeta['title']))
         else:
             dqRList = list(dqDone['result']['resources'].keys())
             dqRList2 = []
@@ -166,7 +166,7 @@ for nodeKey in nodeList:
                         dataMeta['資料資源']['resource_' + str(i)][j] = \
                             dqDone['result']['resources'][dqRList[index_value]]['resource'][j]
 
-        dataURL = baseURL + nodeNum + '-' + dataMeta['提供機關'] + '_' + dataMeta['title'] + '.json'
+        dataURL = baseURL + nodeKey + '-' + dataMeta['提供機關'] + '_' + dataMeta['title'] + '.json'
         print(dataURL)
         f = open(dataURL, 'w', encoding='utf-8')
 
