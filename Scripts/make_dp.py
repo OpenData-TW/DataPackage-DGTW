@@ -9,7 +9,8 @@ import requests
 import urllib.parse
 from os import walk
 
-nodeList = ['12639']
+nodeList = ['11271', '12639', '45672', '45745', '45751', '46448', '54386', '55259']
+
 baseURL = 'e:\\DevSource\\Github\\DataPackage-DGTW\\Temp\\'
 
 resMeta = ['資源網址', 'linkable', 'downloadable', 'structure', 'encoding', 'file_type']
@@ -44,7 +45,7 @@ for nodeKey in nodeList:
         resNum = len(jContent['資料資源'])
         for i in range(0, resNum):
             resID = 'resource_' + str(i)
-            rData['res_name_' + str(i)] = jContent['資料資源'][resID]['資源描述']
+            rData['res_name_' + str(i)] = jContent['資料資源'][resID]['資源描述'].lower()
             rData['filetype_' + str(i)] = jContent['資料資源'][resID]['file_type'].lower()
             rData['encoding_' + str(i)] = jContent['資料資源'][resID]['編碼'].lower()
 
@@ -59,7 +60,7 @@ for nodeKey in nodeList:
                 print(resR.headers)
                 try:
                     print(urllib.parse.unquote(resR.headers['content-disposition']))
-                    rData[resID + '_filename'] = urllib.parse.unquote(resR.headers['content-disposition'][21:-1])
+                    rData[resID + '_filename'] = urllib.parse.unquote(resR.headers['content-disposition'][21:])
                 except KeyError:
                     print('non default file name')
                     rData[resID + '_filename'] = 'no default'
