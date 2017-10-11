@@ -4,7 +4,6 @@
 # GET_RES : from dp[r].json - create folder + download resources
 #
 
-import requests
 import json
 from os import walk
 
@@ -19,7 +18,7 @@ for (dirpath, dirnames, filenames) in walk(baseURL):
 
 # get all files
 for i in fullList :
-    if '[r]' in i : 
+    if '[r]' in i :
         dirList.append(i)
 
 rData = {}

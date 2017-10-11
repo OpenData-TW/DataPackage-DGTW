@@ -11,7 +11,7 @@ from os import walk
 
 import nodeList
 
-nodeList = nodeList.node
+nodeList = nodeList.nodes
 
 baseURL = 'e:\\DevSource\\Github\\DataPackage-DGTW\\Temp\\'
 
