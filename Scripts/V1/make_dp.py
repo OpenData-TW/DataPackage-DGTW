@@ -9,14 +9,15 @@ import requests
 import urllib.parse
 from os import walk
 
-nodeList = ['11271', '12639', '45672', '45745', '45751', '46448', '54386', '55259']
+import nodeList
+
+nodeList = nodeList.nodes
 
 baseURL = 'e:\\DevSource\\Github\\DataPackage-DGTW\\Temp\\'
 
 resMeta = ['資源網址', 'linkable', 'downloadable', 'structure', 'encoding', 'file_type']
 
 for nodeKey in nodeList:
-    nodeNum = nodeKey
     jURL = ''
     rData = {}
     reqHeaders = {
@@ -31,7 +32,7 @@ for nodeKey in nodeList:
 
     for i in f:
         if '[r]' in i: continue
-        if nodeNum in i:
+        if nodeKey in i:
             jURL = baseURL + i
             rData['node'] = i[:-5]
             break

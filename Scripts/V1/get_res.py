@@ -4,7 +4,6 @@
 # GET_RES : from dp[r].json - create folder + download resources
 #
 
-import requests
 import json
 from os import walk
 
