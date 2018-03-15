@@ -1,0 +1,45 @@
+{
+    "TITLE": "防災資訊_水庫洩洪警戒",
+    "NODE": "5984",
+    "DESC": "經濟部水利署災害緊急應變小組，運用長期防災應變等相關經驗，進一步結合雨量、水位、水庫等即時資料，透過電腦科技的運算，提供民眾與相關單位水庫警戒。讓民眾了解居家淹水風險，及早準備，降低災害的發生。",
+    "SCHEMA": [
+        "水庫名稱",
+        "時間",
+        "水位(公尺)",
+        "洩洪量(cms)",
+        "預計洩洪區域",
+        "警戒區域"
+    ],
+    "AGENCY": "經濟部水利署",
+    "AGENCY_CONTACT": "陳翼正 先生 (02-37073100)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/09/12",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/05/22 20:28",
+    "KEYWORDS": [
+        "水情",
+        "警戒資訊",
+        "防災"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "相關網址": "https://data.wra.gov.tw/WraStandardWrisp/Query/StandardDetail.aspx?DictID=288",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 5711 下載次數: 856 意見數: 0 ",
+    "VIEWS": "5711",
+    "DOWNLOAD": "856",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "水庫名稱、時間、水位(公尺)、洩洪量(cms)、預計洩洪區域、警戒區域",
+            "RES_FILETYPE": "KML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://fhy.wra.gov.tw/Pub_Web_2011/kml/WRAWarm.kml",
+            "RES_DESC": "防災資訊_水庫洩洪警戒 - KML",
+            "RES_DATE_UPDATE_META": "2017/11/22 10:17"
+        }
+    ]
+}

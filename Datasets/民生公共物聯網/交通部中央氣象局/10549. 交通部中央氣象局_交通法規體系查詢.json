@@ -1,0 +1,33 @@
+{
+    "TITLE": "交通法規體系查詢",
+    "NODE": "10549",
+    "DESC": "交通法規體系查詢",
+    "SCHEMA": "交通法規體系查詢",
+    "AGENCY": "交通部中央氣象局",
+    "AGENCY_CONTACT": "林先生 (0223491124)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2015/12/29",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2015/01/30 17:08",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 1235 下載次數: 105 意見數: 0 ",
+    "VIEWS": "1235",
+    "DOWNLOAD": "105",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "交通法規體系查詢",
+            "RES_FILETYPE": "WEBSERVICES",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://www.motc.gov.tw/ch/home.jsp?id=35&parentpath=0,5",
+            "RES_DESC": "交通法規體系查詢",
+            "RES_DATE_UPDATE_META": "2017/05/11 14:03"
+        }
+    ]
+}

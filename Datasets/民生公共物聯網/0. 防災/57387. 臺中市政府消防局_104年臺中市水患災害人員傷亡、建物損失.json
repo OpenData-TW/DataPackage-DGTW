@@ -1,0 +1,35 @@
+{
+    "TITLE": "104年臺中市水患災害人員傷亡、建物損失",
+    "NODE": "57387",
+    "DESC": "104年臺中市水患災害人員傷亡、建物損失",
+    "SCHEMA": [
+        "104年臺中市水患災害人員傷亡",
+        "建物損失"
+    ],
+    "AGENCY": "臺中市政府消防局",
+    "AGENCY_CONTACT": "陳清忠 (04-2381119#582)",
+    "UPDATE_FREQ": "每年",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/12/30",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2018/01/23 01:09",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "Stats": "瀏覽次數: 19 下載次數: 0 意見數: 0 ",
+    "VIEWS": "19",
+    "DOWNLOAD": "0",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "104年臺中市水患災害人員傷亡、建物損失",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://210.69.115.180/collection/webpages/WebService/WSTransfer.ashx?op=GET&SN=285&key=1937516709050D1B&SAVE_TYPE=6",
+            "RES_DESC": "104年臺中市水患災害人員傷亡、建物損失",
+            "RES_DATE_UPDATE_META": "2017/12/08 17:42"
+        }
+    ]
+}

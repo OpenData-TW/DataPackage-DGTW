@@ -1,0 +1,33 @@
+{
+    "TITLE": "交通部中央氣象局有感地震報告發布作業要點",
+    "NODE": "10467",
+    "DESC": "交通部中央氣象局為提供地震資訊，加強災害防救，規範有感地震發生時，地震報告發布事宜，特訂定本要點。",
+    "SCHEMA": "本要點並非原始資料，並無欄位分類",
+    "AGENCY": "交通部中央氣象局",
+    "AGENCY_CONTACT": "劉先生 (0223491172)",
+    "UPDATE_FREQ": "每季",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2015/12/29",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2015/01/30 17:10",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "更新頻率說明: 每季檢視，視作業情況更新之授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 1004 下載次數: 82 意見數: 0 ",
+    "VIEWS": "1004",
+    "DOWNLOAD": "82",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "本要點並非原始資料，並無欄位分類",
+            "RES_FILETYPE": "PDF",
+            "RES_ENCODE": "其他",
+            "REC_COUNT": "9",
+            "RES_URL": "http://cwb.gov.tw/V7/service/notice/download/notice_20141231104524.pdf",
+            "RES_DESC": " ",
+            "RES_DATE_UPDATE_META": "2017/11/20 21:49"
+        }
+    ]
+}

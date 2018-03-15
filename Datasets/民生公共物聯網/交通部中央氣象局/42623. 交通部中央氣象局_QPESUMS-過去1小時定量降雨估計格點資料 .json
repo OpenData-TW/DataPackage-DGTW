@@ -1,0 +1,33 @@
+{
+    "TITLE": "QPESUMS-過去1小時定量降雨估計格點資料 ",
+    "NODE": "42623",
+    "DESC": "QPESUMS系統所產出資料-過去1小時雷達降水估計格點資料",
+    "SCHEMA": "過去1小時雷達降水估計格點資料",
+    "AGENCY": "交通部中央氣象局",
+    "AGENCY_CONTACT": "鄭丞衡 先生 (02-23491312)",
+    "UPDATE_FREQ": "即時",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/01/19",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/01/19 09:31",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 364 下載次數: 94 意見數: 0 ",
+    "VIEWS": "364",
+    "DOWNLOAD": "94",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "過去1小時雷達降水估計格點資料",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=O-B0045-001&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "QPESUMS過去1小時定量降雨估計格點資料",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:31"
+        }
+    ]
+}

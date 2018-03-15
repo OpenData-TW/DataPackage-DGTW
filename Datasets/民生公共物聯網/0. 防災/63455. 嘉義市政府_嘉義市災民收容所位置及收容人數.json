@@ -1,0 +1,43 @@
+{
+    "TITLE": "嘉義市災民收容所位置及收容人數",
+    "NODE": "63455",
+    "DESC": "嘉義市災民收容所位置及收容人數",
+    "SCHEMA": "主管機關,處所名稱,地 址,第一聯絡人,電話,第二聯絡人,收容人數,電話,最後更新時間",
+    "AGENCY": "嘉義市政府",
+    "AGENCY_CONTACT": "救助及身障福利科 (05-2254321#156)",
+    "UPDATE_FREQ": "每年",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/11/28",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2018/01/23 01:48",
+    "KEYWORDS": [
+        "嘉義市",
+        "收容",
+        "避難"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "相關網址": "http://data.chiayi.gov.tw",
+    "NOTES": "福利服務行動躍升計畫資料",
+    "Stats": "瀏覽次數: 95 下載次數: 7 意見數: 0 ",
+    "VIEWS": "95",
+    "DOWNLOAD": "7",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "主管機關,處所名稱,地 址,第一聯絡人,電話,第二聯絡人,收容人數,電話,最後更新時間",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://data.chiayi.gov.tw/opendata/api/getResource?oid=15da3a5a-9d1f-420b-bb01-3a94d997eea0&rid=2d5a42de-cdd2-4ca8-9dec-6bdb111aca3b",
+            "RES_DESC": "嘉義市災民收容所位置及收容人數",
+            "RES_DATE_UPDATE_META": "2017/12/10 23:03",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=63455&md5_url=1938dbf67121fdccbb15e888adf3d8fe",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=63455&md5_url=1938dbf67121fdccbb15e888adf3d8fe",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=63455&md5_url=1938dbf67121fdccbb15e888adf3d8fe",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=63455&md5_url=1938dbf67121fdccbb15e888adf3d8fe",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=63455&md5_url=1938dbf67121fdccbb15e888adf3d8fe"
+        }
+    ]
+}

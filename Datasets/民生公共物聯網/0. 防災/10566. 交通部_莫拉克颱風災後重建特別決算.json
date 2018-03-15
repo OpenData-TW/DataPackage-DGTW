@@ -1,0 +1,37 @@
+{
+    "TITLE": "莫拉克颱風災後重建特別決算",
+    "NODE": "10566",
+    "DESC": "莫拉克颱風災後重建特別預算歷年特別決算資料",
+    "SCHEMA": [
+        "總說明",
+        "主要表",
+        "附屬表"
+    ],
+    "AGENCY": "交通部",
+    "AGENCY_CONTACT": "陳小姐 (0223492296)",
+    "UPDATE_FREQ": "不更新",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2015/12/29",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2015/01/30 18:04",
+    "KEYWORDS": [],
+    "CATEGORY": "政府預算",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 969 下載次數: 37 意見數: 0 ",
+    "VIEWS": "969",
+    "DOWNLOAD": "37",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "總說明、主要表、附屬表",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "其他",
+            "REC_COUNT": "9",
+            "RES_URL": "http://event.motc.gov.tw/uploaddowndoc?file=opendata/201501301703280.zip&filedisplay=莫拉克颱風災後重建特別決算.zip&flag=doc",
+            "RES_DESC": " ",
+            "RES_DATE_UPDATE_META": "2017/11/20 16:07"
+        }
+    ]
+}

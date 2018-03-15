@@ -1,0 +1,33 @@
+{
+    "TITLE": "中央氣象局103年度單位決算",
+    "NODE": "17439",
+    "DESC": "中央氣象局103年度單位決算",
+    "SCHEMA": "中央氣象局103年度單位決算",
+    "AGENCY": "交通部中央氣象局",
+    "AGENCY_CONTACT": "何小姐 (23491068;0223491068)",
+    "UPDATE_FREQ": "每年",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2015/12/29",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2015/07/21 16:20",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 918 下載次數: 76 意見數: 0 ",
+    "VIEWS": "918",
+    "DOWNLOAD": "76",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "中央氣象局103年度單位決算",
+            "RES_FILETYPE": "PDF",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://cwb.gov.tw/V7/service/notice/download/notice_20150320115137.pdf",
+            "RES_DESC": " ",
+            "RES_DATE_UPDATE_META": "2017/10/26 16:14"
+        }
+    ]
+}

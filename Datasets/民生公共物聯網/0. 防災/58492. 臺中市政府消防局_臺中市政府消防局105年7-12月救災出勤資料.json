@@ -1,0 +1,41 @@
+{
+    "TITLE": "臺中市政府消防局105年7-12月救災出勤資料",
+    "NODE": "58492",
+    "DESC": "臺中市火災出動人員、車輛、船艇、直升機",
+    "SCHEMA": [
+        "出動人次,出動車輛",
+        "船艇",
+        "直升機"
+    ],
+    "AGENCY": "臺中市政府消防局",
+    "AGENCY_CONTACT": "黃先生 (04-23811119#289)",
+    "UPDATE_FREQ": "每半年",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/10/13",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2018/01/23 01:09",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "Stats": "瀏覽次數: 23 下載次數: 0 意見數: 0 ",
+    "VIEWS": "23",
+    "DOWNLOAD": "0",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "出動人次,出動車輛、船艇、直升機",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://data.taichung.gov.tw:80/wSite/public/data/f1507879800036.xls",
+            "RES_DESC": "臺中市火災出動人員、車輛、船艇、直升機",
+            "RES_DATE_UPDATE_META": "2017/12/08 17:43",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=58492&md5_url=e2cfb0d39a9aeae6a84fd4af6b23a48b",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=58492&md5_url=e2cfb0d39a9aeae6a84fd4af6b23a48b",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=58492&md5_url=e2cfb0d39a9aeae6a84fd4af6b23a48b",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=58492&md5_url=e2cfb0d39a9aeae6a84fd4af6b23a48b",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=58492&md5_url=e2cfb0d39a9aeae6a84fd4af6b23a48b"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "TITLE": "新竹市消防局119受理案件即時訊息",
+    "NODE": "67702",
+    "DESC": "1.新竹市消防局119受理案件即時訊息內容包含\"火災\"及\"緊急救護\"二大類，本資料集採即時更新方式。2.若本局受理案件情形為\"任務完成\"或\"任務取消\"將不再呈現資料。",
+    "SCHEMA": [
+        "序號",
+        "受理時間",
+        "案件類別",
+        "案發地點",
+        "出勤分隊",
+        "處理情形"
+    ],
+    "AGENCY": "新竹市政府",
+    "AGENCY_CONTACT": "彭美卿 先生 (03-5229508#365)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/11/10",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/12/22 01:09",
+    "KEYWORDS": [
+        "火災",
+        "緊急救護"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "1.新竹市消防局119受理案件即時訊息內容包含\"火災\"及\"緊急救護\"二大類，本資料集採即時更新方式。2.若本局受理案件情形為\"任務完成\"或\"任務取消\"將不再呈現資料。",
+    "Stats": "瀏覽次數: 203 下載次數: 15 意見數: 0 ",
+    "VIEWS": "203",
+    "DOWNLOAD": "15",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "序號、受理時間、案件類別、案發地點、出勤分隊、處理情形",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://opendata.hccg.gov.tw/dataset/37463166-a9ac-497b-9da9-3e2f17bb4994/resource/8775b5bb-1230-45e6-83d5-e8fe334cfe16/download/20171110181643214.xls",
+            "RES_DESC": "新竹市消防局119受理案件即時訊息",
+            "RES_DATE_UPDATE_META": "2017/11/10 00:00"
+        },
+        {
+            "SCHEMA": "序號、受理時間、案件類別、案發地點、出勤分隊、處理情形",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://opendata.hccg.gov.tw/dataset/37463166-a9ac-497b-9da9-3e2f17bb4994/resource/9256f63b-2097-49b9-b733-ca5288b7c87b/download/20171110181643214.csv",
+            "RES_DESC": "新竹市消防局119受理案件即時訊息",
+            "RES_DATE_UPDATE_META": "2017/11/10 00:00",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=67702&md5_url=3644c2e0be285655ad4e92f0ef579ee7",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=67702&md5_url=3644c2e0be285655ad4e92f0ef579ee7",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=67702&md5_url=3644c2e0be285655ad4e92f0ef579ee7",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=67702&md5_url=3644c2e0be285655ad4e92f0ef579ee7",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=67702&md5_url=3644c2e0be285655ad4e92f0ef579ee7"
+        },
+        {
+            "SCHEMA": "序號、受理時間、案件類別、案發地點、出勤分隊、處理情形",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://opendata.hccg.gov.tw/dataset/37463166-a9ac-497b-9da9-3e2f17bb4994/resource/ebfb68f6-97ae-4e05-98a1-1c47ebf0c3cb/download/20171110181643214.json",
+            "RES_DESC": "新竹市消防局119受理案件即時訊息",
+            "RES_DATE_UPDATE_META": "2017/11/10 00:00",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=67702&md5_url=dbf396288f955066b09efa3d98813d9c",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=67702&md5_url=dbf396288f955066b09efa3d98813d9c",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=67702&md5_url=dbf396288f955066b09efa3d98813d9c",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=67702&md5_url=dbf396288f955066b09efa3d98813d9c",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=67702&md5_url=dbf396288f955066b09efa3d98813d9c"
+        },
+        {
+            "SCHEMA": "序號、受理時間、案件類別、案發地點、出勤分隊、處理情形",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://opendata.hccg.gov.tw/dataset/37463166-a9ac-497b-9da9-3e2f17bb4994/resource/148cd0b0-fb3f-428f-b32a-2c4aad7797da/download/20171110181643214.xml",
+            "RES_DESC": "新竹市消防局119受理案件即時訊息",
+            "RES_DATE_UPDATE_META": "2017/11/10 00:00"
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "TITLE": "桃園市火災出動人員統計",
+    "NODE": "45552",
+    "DESC": "提供桃園市各消防分隊每月火災次數及出動人員數統計",
+    "SCHEMA": [
+        "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊。)",
+        "受理火災件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。)",
+        "消防人員出動人次(桃園市政府消防局所屬消防人員。)",
+        "義消人員出動人次(義勇消防隊人員。)",
+        "其他出動人次(包括醫療人員_動員民間團體等。)",
+        "救出人數(救災時實際以消防力協助民眾疏散_引導避難及救助之人數。)"
+    ],
+    "AGENCY": "桃園市政府消防局",
+    "AGENCY_CONTACT": "羅先生 (03-3379119-698)",
+    "UPDATE_FREQ": "每月",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/05/15",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2018/03/12 14:37",
+    "KEYWORDS": [
+        "火災",
+        "消防"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 147 下載次數: 5 意見數: 0 ",
+    "VIEWS": "147",
+    "DOWNLOAD": "5",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊。)、受理火災件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。)、消防人員出動人次(桃園市政府消防局所屬消防人員。)、義消人員出動人次(義勇消防隊人員。)、其他出動人次(包括醫療人員_動員民間團體等。)、救出人數(救災時實際以消防力協助民眾疏散_引導避難及救助之人數。)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=3c678b48-f4fe-456b-9a4c-fcc42ac2feda&rid=5140b060-88c0-4655-9649-3cd94ac89051",
+            "RES_DESC": "106.12.11版本",
+            "RES_DATE_UPDATE_META": "2017/12/11 13:34"
+        },
+        {
+            "SCHEMA": "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊。)、受理火災件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。)、消防人員出動人次(桃園市政府消防局所屬消防人員。)、義消人員出動人次(義勇消防隊人員。)、其他出動人次(包括醫療人員_動員民間團體等。)、救出人數(救災時實際以消防力協助民眾疏散_引導避難及救助之人數。)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=3c678b48-f4fe-456b-9a4c-fcc42ac2feda&rid=efe1c558-ed2a-43a5-a906-379696368580",
+            "RES_DESC": "106.12.11更新版本",
+            "RES_DATE_UPDATE_META": "2017/12/11 13:42"
+        },
+        {
+            "SCHEMA": "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊。)、受理火災件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。)、消防人員出動人次(桃園市政府消防局所屬消防人員。)、義消人員出動人次(義勇消防隊人員。)、其他出動人次(包括醫療人員_動員民間團體等。)、救出人數(救災時實際以消防力協助民眾疏散_引導避難及救助之人數。)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=3c678b48-f4fe-456b-9a4c-fcc42ac2feda&rid=4606caa0-76df-433a-b20f-3fea13ffcf03",
+            "RES_DESC": "106.12.11更新版本",
+            "RES_DATE_UPDATE_META": "2017/12/11 13:42"
+        },
+        {
+            "SCHEMA": "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊。)、受理火災件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。)、消防人員出動人次(桃園市政府消防局所屬消防人員。)、義消人員出動人次(義勇消防隊人員。)、其他出動人次(包括醫療人員_動員民間團體等。)、救出人數(救災時實際以消防力協助民眾疏散_引導避難及救助之人數。)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=3c678b48-f4fe-456b-9a4c-fcc42ac2feda&rid=4e467554-27ae-45f8-b5c6-2d9e33b62125",
+            "RES_DESC": "107.01.25版本",
+            "RES_DATE_UPDATE_META": "2018/01/25 16:21"
+        },
+        {
+            "SCHEMA": "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊。)、受理火災件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。)、消防人員出動人次(桃園市政府消防局所屬消防人員。)、義消人員出動人次(義勇消防隊人員。)、其他出動人次(包括醫療人員_動員民間團體等。)、救出人數(救災時實際以消防力協助民眾疏散_引導避難及救助之人數。)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=3c678b48-f4fe-456b-9a4c-fcc42ac2feda&rid=66acc459-07a4-4834-af0e-ac949d7e16b7",
+            "RES_DESC": "106.12.11更新版本",
+            "RES_DATE_UPDATE_META": "2017/12/11 13:42"
+        },
+        {
+            "SCHEMA": "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊。)、受理火災件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。)、消防人員出動人次(桃園市政府消防局所屬消防人員。)、義消人員出動人次(義勇消防隊人員。)、其他出動人次(包括醫療人員_動員民間團體等。)、救出人數(救災時實際以消防力協助民眾疏散_引導避難及救助之人數。)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=3c678b48-f4fe-456b-9a4c-fcc42ac2feda&rid=42f03cf5-69fd-4d9a-805b-99fc10aec8d6",
+            "RES_DESC": "107.03.01版本",
+            "RES_DATE_UPDATE_META": "2018/03/01 13:15"
+        },
+        {
+            "SCHEMA": "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊。)、受理火災件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。)、消防人員出動人次(桃園市政府消防局所屬消防人員。)、義消人員出動人次(義勇消防隊人員。)、其他出動人次(包括醫療人員_動員民間團體等。)、救出人數(救災時實際以消防力協助民眾疏散_引導避難及救助之人數。)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=3c678b48-f4fe-456b-9a4c-fcc42ac2feda&rid=2c69b82d-6ac6-45c8-bbcf-31e55ca27ea5",
+            "RES_DESC": "107.03.12版本",
+            "RES_DATE_UPDATE_META": "2018/03/12 14:37"
+        },
+        {
+            "SCHEMA": "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊。)、受理火災件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。)、消防人員出動人次(桃園市政府消防局所屬消防人員。)、義消人員出動人次(義勇消防隊人員。)、其他出動人次(包括醫療人員_動員民間團體等。)、救出人數(救災時實際以消防力協助民眾疏散_引導避難及救助之人數。)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=3c678b48-f4fe-456b-9a4c-fcc42ac2feda&rid=361d3e8c-9b2a-45a3-af14-0313d928f2a0",
+            "RES_DESC": "106.12.11更新版本",
+            "RES_DATE_UPDATE_META": "2017/12/11 13:43"
+        },
+        {
+            "SCHEMA": "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊。)、受理火災件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。)、消防人員出動人次(桃園市政府消防局所屬消防人員。)、義消人員出動人次(義勇消防隊人員。)、其他出動人次(包括醫療人員_動員民間團體等。)、救出人數(救災時實際以消防力協助民眾疏散_引導避難及救助之人數。)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=3c678b48-f4fe-456b-9a4c-fcc42ac2feda&rid=6bdc913a-508c-4bce-aad7-1679cb34045b",
+            "RES_DESC": "106.12.11更新版本",
+            "RES_DATE_UPDATE_META": "2017/12/11 13:43"
+        },
+        {
+            "SCHEMA": "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊。)、受理火災件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。)、消防人員出動人次(桃園市政府消防局所屬消防人員。)、義消人員出動人次(義勇消防隊人員。)、其他出動人次(包括醫療人員_動員民間團體等。)、救出人數(救災時實際以消防力協助民眾疏散_引導避難及救助之人數。)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=3c678b48-f4fe-456b-9a4c-fcc42ac2feda&rid=d49da23d-0bb5-472e-8533-cea1a5c8d4a7",
+            "RES_DESC": "106.12.11更新版本",
+            "RES_DATE_UPDATE_META": "2017/12/11 13:44"
+        },
+        {
+            "SCHEMA": "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊。)、受理火災件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。)、消防人員出動人次(桃園市政府消防局所屬消防人員。)、義消人員出動人次(義勇消防隊人員。)、其他出動人次(包括醫療人員_動員民間團體等。)、救出人數(救災時實際以消防力協助民眾疏散_引導避難及救助之人數。)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=3c678b48-f4fe-456b-9a4c-fcc42ac2feda&rid=dbc649ef-d363-47bc-a3fb-7205e81de672",
+            "RES_DESC": "106.12.11更新版本",
+            "RES_DATE_UPDATE_META": "2017/12/11 13:44"
+        },
+        {
+            "SCHEMA": "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊。)、受理火災件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。)、消防人員出動人次(桃園市政府消防局所屬消防人員。)、義消人員出動人次(義勇消防隊人員。)、其他出動人次(包括醫療人員_動員民間團體等。)、救出人數(救災時實際以消防力協助民眾疏散_引導避難及救助之人數。)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=3c678b48-f4fe-456b-9a4c-fcc42ac2feda&rid=eafe059c-d79f-440e-9707-361da1252e3c",
+            "RES_DESC": "106.12.11更新版本",
+            "RES_DATE_UPDATE_META": "2017/12/11 13:45"
+        }
+    ]
+}

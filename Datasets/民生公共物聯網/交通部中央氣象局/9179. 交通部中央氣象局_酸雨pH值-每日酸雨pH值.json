@@ -1,0 +1,39 @@
+{
+    "TITLE": "酸雨pH值-每日酸雨pH值",
+    "NODE": "9179",
+    "DESC": "氣象站每日酸雨pH值",
+    "SCHEMA": [
+        "年",
+        "月",
+        "日",
+        "氣象站",
+        "pH值"
+    ],
+    "AGENCY": "交通部中央氣象局",
+    "AGENCY_CONTACT": "蔡立夫 先生 (02-23497970)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2015/12/29",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2014/09/30 14:44",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 1581 下載次數: 170 意見數: 1 ",
+    "VIEWS": "1581",
+    "DOWNLOAD": "170",
+    "COMMENTS": "1",
+    "RESOURCE": [
+        {
+            "SCHEMA": "年、月、日、氣象站、pH值",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=O-A0004-001&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": " ",
+            "RES_DATE_UPDATE_META": "2018/03/08 03:35"
+        }
+    ]
+}

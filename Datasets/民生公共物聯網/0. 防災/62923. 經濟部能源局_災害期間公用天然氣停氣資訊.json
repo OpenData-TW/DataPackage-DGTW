@@ -1,0 +1,34 @@
+{
+    "TITLE": "災害期間公用天然氣停氣資訊",
+    "NODE": "62923",
+    "DESC": "本資料為各公用天然氣事業於災害期間提供之公用天然氣停氣災情資訊。",
+    "SCHEMA": "",
+    "AGENCY": "經濟部能源局",
+    "AGENCY_CONTACT": "周明輝 (02-27757621)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/11/23",
+    "DATA_TYPE": "原始資料",
+    "DATE_UPDATE_META": "2018/03/12 09:55",
+    "KEYWORDS": [
+        "天然氣、NG、停氣、停氣戶數、停氣地區"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "Stats": "瀏覽次數: 51 下載次數: 9 意見數: 0 ",
+    "VIEWS": "51",
+    "DOWNLOAD": "9",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "",
+            "RES_FILETYPE": "KML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://moeaboe.eric.org.tw/opendata/NGinformation.kml",
+            "RES_DESC": "",
+            "RES_DATE_UPDATE_META": "2017/12/26 20:20"
+        }
+    ]
+}

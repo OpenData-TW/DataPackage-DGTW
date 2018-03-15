@@ -1,0 +1,69 @@
+{
+    "TITLE": "火災統計分析",
+    "NODE": "53427",
+    "DESC": "本資料集提供火災統計分析資訊。\r",
+    "SCHEMA": [
+        "區域別,總計,人為縱火,自殺,燈燭,爐火烹調,敬神掃墓祭祖,菸蒂,電器設備,機械設備,玩火,烤火,施工不慎,易燃品自(復)",
+        "燃,瓦斯漏氣或爆炸,化學物品,燃放爆竹,交通事故,天然災害,原因不明,其他"
+    ],
+    "AGENCY": "臺南市政府",
+    "AGENCY_CONTACT": "李先生 ( 06-2975119#1112)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/02/06",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/11/28 11:32",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "相關網址": "http://data.tainan.gov.tw/dataset/statis-analysis-fire",
+    "Stats": "瀏覽次數: 64 下載次數: 11 意見數: 0 ",
+    "VIEWS": "64",
+    "DOWNLOAD": "11",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "區域別,總計,人為縱火,自殺,燈燭,爐火烹調,敬神掃墓祭祖,菸蒂,電器設備,機械設備,玩火,烤火,施工不慎,易燃品自(復)、燃,瓦斯漏氣或爆炸,化學物品,燃放爆竹,交通事故,天然災害,原因不明,其他",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "其他",
+            "REC_COUNT": "0",
+            "RES_URL": "http://data.tainan.gov.tw/dataset/aed16ea5-9147-4667-abb8-7e6f4ae48c93/resource/6edc63d0-d862-41a5-90b0-db7fedd0868b/download/105.csv",
+            "RES_DESC": "105年火災原因及分區",
+            "RES_DATE_UPDATE_META": "2017/11/23 14:44",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=53427&md5_url=9d8bbb5b3b44b2db1bd4d88ac7b8c373",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=53427&md5_url=9d8bbb5b3b44b2db1bd4d88ac7b8c373",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=53427&md5_url=9d8bbb5b3b44b2db1bd4d88ac7b8c373",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=53427&md5_url=9d8bbb5b3b44b2db1bd4d88ac7b8c373",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=53427&md5_url=9d8bbb5b3b44b2db1bd4d88ac7b8c373"
+        },
+        {
+            "SCHEMA": "區域別,總計,人為縱火,自殺,燈燭,爐火烹調,敬神掃墓祭祖,菸蒂,電器設備,機械設備,玩火,烤火,施工不慎,易燃品自(復)、燃,瓦斯漏氣或爆炸,化學物品,燃放爆竹,交通事故,天然災害,原因不明,其他",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "其他",
+            "REC_COUNT": "0",
+            "RES_URL": "http://data.tainan.gov.tw/dataset/aed16ea5-9147-4667-abb8-7e6f4ae48c93/resource/0b7680f8-a56d-42ca-b389-9035f7eede3f/download/103.csv",
+            "RES_DESC": "103年火災原因及分區",
+            "RES_DATE_UPDATE_META": "2017/11/23 14:44",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=53427&md5_url=47c4164231065a54a128184f5c716f74",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=53427&md5_url=47c4164231065a54a128184f5c716f74",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=53427&md5_url=47c4164231065a54a128184f5c716f74",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=53427&md5_url=47c4164231065a54a128184f5c716f74",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=53427&md5_url=47c4164231065a54a128184f5c716f74"
+        },
+        {
+            "SCHEMA": "區域別,總計,人為縱火,自殺,燈燭,爐火烹調,敬神掃墓祭祖,菸蒂,電器設備,機械設備,玩火,烤火,施工不慎,易燃品自(復)、燃,瓦斯漏氣或爆炸,化學物品,燃放爆竹,交通事故,天然災害,原因不明,其他",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "其他",
+            "REC_COUNT": "0",
+            "RES_URL": "http://data.tainan.gov.tw/dataset/aed16ea5-9147-4667-abb8-7e6f4ae48c93/resource/fb159c20-36a9-4007-a607-69b5e59a3986/download/104.csv",
+            "RES_DESC": "104年火災原因及分區",
+            "RES_DATE_UPDATE_META": "2017/11/23 14:44",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=53427&md5_url=2223e720e4dc0720ff0b75b46e954f20",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=53427&md5_url=2223e720e4dc0720ff0b75b46e954f20",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=53427&md5_url=2223e720e4dc0720ff0b75b46e954f20",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=53427&md5_url=2223e720e4dc0720ff0b75b46e954f20",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=53427&md5_url=2223e720e4dc0720ff0b75b46e954f20"
+        }
+    ]
+}

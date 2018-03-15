@@ -1,0 +1,49 @@
+{
+    "TITLE": "海面天氣預報",
+    "NODE": "7776",
+    "DESC": "臺灣鄰近及遠洋漁業海面天氣預報資料",
+    "SCHEMA": [
+        "發布時間(IssueTime)",
+        "起始時間(StartValidTime)",
+        "結束時間(EndValidTime)",
+        "預報區域(AreaForecastData area)",
+        "天氣描述(Weather)",
+        "風向風速(Wind)",
+        "風浪(Wave)"
+    ],
+    "AGENCY": "交通部中央氣象局",
+    "AGENCY_CONTACT": "賴先生 (0223491217)",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2015/12/29",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/06/21 16:40",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "更新頻率說明: 每6小時授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 5201 下載次數: 962 意見數: 1 ",
+    "VIEWS": "5201",
+    "DOWNLOAD": "962",
+    "COMMENTS": "1",
+    "RESOURCE": [
+        {
+            "SCHEMA": "發布時間(IssueTime)、起始時間(StartValidTime)、結束時間(EndValidTime)、預報區域(AreaForecastData area)、天氣描述(Weather)、風向風速(Wind)、風浪(Wave)",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "76100",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=F-A0012-001&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": " ",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:09"
+        },
+        {
+            "SCHEMA": "發布時間(IssueTime)、起始時間(StartValidTime)、結束時間(EndValidTime)、預報區域(AreaForecastData area)、天氣描述(Weather)、風向風速(Wind)、風浪(Wave)",
+            "RES_FILETYPE": "PDF",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "76100",
+            "RES_URL": "http://opendata.cwb.gov.tw/opendatadoc/MFC/A0012-001.pdf",
+            "RES_DESC": " ",
+            "RES_DATE_UPDATE_META": "2017/11/20 21:21"
+        }
+    ]
+}

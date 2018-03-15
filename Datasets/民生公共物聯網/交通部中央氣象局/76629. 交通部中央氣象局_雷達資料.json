@@ -1,0 +1,39 @@
+{
+    "TITLE": "雷達資料",
+    "NODE": "76629",
+    "DESC": "QPESUMS產出之雷達整合回波資料",
+    "SCHEMA": [
+        "經緯度",
+        "解析度",
+        "0.0125",
+        "時間",
+        "維度(nx*ny)",
+        "單位(dBZ)"
+    ],
+    "AGENCY": "交通部中央氣象局",
+    "AGENCY_CONTACT": "鄭 先生 (02-23491312)",
+    "UPDATE_FREQ": "即時",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2018/02/22",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2018/02/22 13:43",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "Stats": "瀏覽次數: 31 下載次數: 6 意見數: 0 ",
+    "VIEWS": "31",
+    "DOWNLOAD": "6",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "經緯度、解析度、0.0125、時間、維度(nx*ny)、單位(dBZ)",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=O-A0059-001&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "QPESUMS產出之雷達整合回波格點資料-解析度為1.25公里",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:41"
+        }
+    ]
+}

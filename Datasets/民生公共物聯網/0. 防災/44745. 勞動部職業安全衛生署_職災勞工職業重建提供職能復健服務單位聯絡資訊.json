@@ -1,0 +1,38 @@
+{
+    "TITLE": "職災勞工職業重建提供職能復健服務單位聯絡資訊",
+    "NODE": "44745",
+    "DESC": "職災勞工職業重建提供職能復健服務單位聯絡資訊",
+    "SCHEMA": [
+        "地區",
+        "提供服務單位",
+        "聯絡資訊",
+        "服務項目"
+    ],
+    "AGENCY": "勞動部職業安全衛生署",
+    "AGENCY_CONTACT": "林宏勳 先生 (02-89956666#8160)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/04/05",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/06/15 16:50",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "求職及就業",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 144 下載次數: 24 意見數: 0 ",
+    "VIEWS": "144",
+    "DOWNLOAD": "24",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "地區、提供服務單位、聯絡資訊、服務項目",
+            "RES_FILETYPE": "DOC",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/download/A17000000J-030081-SrV",
+            "RES_DESC": "職災勞工職業重建提供職能復健服務單位聯絡資訊",
+            "RES_DATE_UPDATE_META": "2017/12/23 18:41"
+        }
+    ]
+}

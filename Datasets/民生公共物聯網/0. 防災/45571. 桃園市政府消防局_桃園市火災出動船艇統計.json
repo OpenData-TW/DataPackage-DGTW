@@ -1,0 +1,139 @@
+{
+    "TITLE": "桃園市火災出動船艇統計",
+    "NODE": "45571",
+    "DESC": "提供桃園市各消防分隊每月火災次數及出動船艇數統計",
+    "SCHEMA": [
+        "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊)",
+        "受理火災件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。 )",
+        "救生艇(救災時出動救生艇，依據「直轄市縣市消防車輛裝備及其人力配置標準」第3條規定。)"
+    ],
+    "AGENCY": "桃園市政府消防局",
+    "AGENCY_CONTACT": "羅先生 (03-3379119-698)",
+    "UPDATE_FREQ": "每月",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/05/15",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2018/03/12 14:45",
+    "KEYWORDS": [
+        "火災",
+        "消防"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 95 下載次數: 4 意見數: 0 ",
+    "VIEWS": "95",
+    "DOWNLOAD": "4",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊)、受理火災件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。 )、救生艇(救災時出動救生艇，依據「直轄市縣市消防車輛裝備及其人力配置標準」第3條規定。)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=7fe25c47-2a15-4506-b247-733b10266041&rid=55b621e2-2d78-49b9-8510-8861ac84942a",
+            "RES_DESC": "106.12.11版本",
+            "RES_DATE_UPDATE_META": "2017/12/11 13:57"
+        },
+        {
+            "SCHEMA": "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊)、受理火災件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。 )、救生艇(救災時出動救生艇，依據「直轄市縣市消防車輛裝備及其人力配置標準」第3條規定。)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=7fe25c47-2a15-4506-b247-733b10266041&rid=b515508d-37b5-4914-a0ef-0c1a135890f5",
+            "RES_DESC": "桃園市火災出動船艇統計106年4月",
+            "RES_DATE_UPDATE_META": "2017/12/05 10:34"
+        },
+        {
+            "SCHEMA": "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊)、受理火災件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。 )、救生艇(救災時出動救生艇，依據「直轄市縣市消防車輛裝備及其人力配置標準」第3條規定。)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=7fe25c47-2a15-4506-b247-733b10266041&rid=b96d685f-2c28-4ae2-bd85-9451e1c5bcb7",
+            "RES_DESC": "106.12.11更新版本",
+            "RES_DATE_UPDATE_META": "2017/12/11 14:02"
+        },
+        {
+            "SCHEMA": "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊)、受理火災件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。 )、救生艇(救災時出動救生艇，依據「直轄市縣市消防車輛裝備及其人力配置標準」第3條規定。)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=7fe25c47-2a15-4506-b247-733b10266041&rid=c5f48284-90f3-4b1c-a610-f22fb404fba0",
+            "RES_DESC": "107.01.25版本",
+            "RES_DATE_UPDATE_META": "2018/01/25 15:58"
+        },
+        {
+            "SCHEMA": "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊)、受理火災件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。 )、救生艇(救災時出動救生艇，依據「直轄市縣市消防車輛裝備及其人力配置標準」第3條規定。)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=7fe25c47-2a15-4506-b247-733b10266041&rid=b92745e8-4dc7-46e1-aaa4-6a2a356b744d",
+            "RES_DESC": "107.03.01版本",
+            "RES_DATE_UPDATE_META": "2018/03/01 12:05"
+        },
+        {
+            "SCHEMA": "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊)、受理火災件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。 )、救生艇(救災時出動救生艇，依據「直轄市縣市消防車輛裝備及其人力配置標準」第3條規定。)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=7fe25c47-2a15-4506-b247-733b10266041&rid=1d826aae-cdb0-40cb-86cb-01ff7b86d992",
+            "RES_DESC": "桃園市火災出動船艇統計106年5月",
+            "RES_DATE_UPDATE_META": "2017/12/05 10:34"
+        },
+        {
+            "SCHEMA": "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊)、受理火災件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。 )、救生艇(救災時出動救生艇，依據「直轄市縣市消防車輛裝備及其人力配置標準」第3條規定。)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=7fe25c47-2a15-4506-b247-733b10266041&rid=1e967ca0-3cc2-4139-bfbb-af85a4ea09f2",
+            "RES_DESC": "桃園市火災出動船艇統計106年6月",
+            "RES_DATE_UPDATE_META": "2017/12/05 10:35"
+        },
+        {
+            "SCHEMA": "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊)、受理火災件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。 )、救生艇(救災時出動救生艇，依據「直轄市縣市消防車輛裝備及其人力配置標準」第3條規定。)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=7fe25c47-2a15-4506-b247-733b10266041&rid=a34f6756-2809-4f5c-a635-cc8a7049dcb0",
+            "RES_DESC": "107.03.12版本",
+            "RES_DATE_UPDATE_META": "2018/03/12 14:45"
+        },
+        {
+            "SCHEMA": "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊)、受理火災件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。 )、救生艇(救災時出動救生艇，依據「直轄市縣市消防車輛裝備及其人力配置標準」第3條規定。)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=7fe25c47-2a15-4506-b247-733b10266041&rid=a818e6ba-7192-4be6-bcf3-63561867b5cc",
+            "RES_DESC": "桃園市火災出動船艇統計106年7月",
+            "RES_DATE_UPDATE_META": "2017/12/05 10:35"
+        },
+        {
+            "SCHEMA": "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊)、受理火災件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。 )、救生艇(救災時出動救生艇，依據「直轄市縣市消防車輛裝備及其人力配置標準」第3條規定。)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=7fe25c47-2a15-4506-b247-733b10266041&rid=06df4000-ff29-4edf-9af9-27a92177d1d3",
+            "RES_DESC": "桃園市火災出動船艇統計106年8月",
+            "RES_DATE_UPDATE_META": "2017/12/05 10:36"
+        },
+        {
+            "SCHEMA": "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊)、受理火災件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。 )、救生艇(救災時出動救生艇，依據「直轄市縣市消防車輛裝備及其人力配置標準」第3條規定。)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=7fe25c47-2a15-4506-b247-733b10266041&rid=582215e0-157c-451b-adf7-04de5e25161c",
+            "RES_DESC": "桃園市火災出動船艇統計106年9月",
+            "RES_DATE_UPDATE_META": "2017/12/05 10:37"
+        },
+        {
+            "SCHEMA": "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊)、受理火災件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。 )、救生艇(救災時出動救生艇，依據「直轄市縣市消防車輛裝備及其人力配置標準」第3條規定。)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=7fe25c47-2a15-4506-b247-733b10266041&rid=ba2e6aab-2ff8-47c8-9f88-ab9cfe13ec82",
+            "RES_DESC": "桃園市火災出動船艇統計106年10月",
+            "RES_DATE_UPDATE_META": "2017/12/05 10:37"
+        }
+    ]
+}

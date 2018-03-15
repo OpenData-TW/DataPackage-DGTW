@@ -1,0 +1,35 @@
+{
+    "TITLE": "臺北市土石流防災地圖",
+    "NODE": "73855",
+    "DESC": "臺北市土石流防災地圖9幅",
+    "SCHEMA": [
+        "類別",
+        "編號"
+    ],
+    "AGENCY": "臺北市政府工務局大地工程處",
+    "AGENCY_CONTACT": "陳貞樺 (02-27593001#3432)",
+    "UPDATE_FREQ": "每年",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2012/01/13",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/07/07 18:09",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "Stats": "瀏覽次數: 14 下載次數: 0 意見數: 0",
+    "VIEWS": "14",
+    "DOWNLOAD": "0",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "類別、編號",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "其他",
+            "REC_COUNT": "0",
+            "RES_URL": "http://www.geo.gov.taipei/lp.asp?ctNode=30639&CtUnit=14307&BaseDSD=7&mp=105041",
+            "RES_DESC": "土石流防災地圖 (山坡地防災系統-防災地圖)",
+            "RES_DATE_UPDATE_META": "2017/07/07 10:09"
+        }
+    ]
+}

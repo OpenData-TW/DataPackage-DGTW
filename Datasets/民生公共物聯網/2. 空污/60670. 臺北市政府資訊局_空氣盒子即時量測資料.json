@@ -1,0 +1,73 @@
+{
+    "TITLE": "空氣盒子即時量測資料",
+    "NODE": "60670",
+    "DESC": "於106年12月14日改版，\r由原先提供之「空氣盒子設備資料」、「即時監測資料」及「歷史偵測資料」，改版為「即時監測資料」及「歷史偵測資料」，「空氣盒子設備資料」與「即時監測資料」合併，歷史偵測資料維持不變。\r即時偵測資料:一小時內各地空氣盒子所蒐集的資料及地理位置資料。\r歷史偵測資料:七天內的歷史資料。\r(檔案為gz格式壓縮，原始檔案為json格式)\r",
+    "SCHEMA": [
+        "新版空氣盒子即時監測資料(含經緯度資訊)",
+        ":id:機器編號,\rname:機器名稱,\rlat: 經度,\rlon: 緯度,\rpm25: PM2.5數值,\rpm10: PM10數值,\rco2:暫無數值,\rhcho: 暫無數值,\rtvoc: 暫無數值,\rco: 暫無數值,\rt: 攝氏溫度,\rh: 相對溼度,\rtime: 資料產生時間(UTC+8)",
+        ",\rutc_time: 資料產生時間(UTC+0)",
+        ",\rorg: 暫無數值,\rarea: 所在區域,\rtype: 類型(ex.airbox,lass-airbox..)",
+        "\r歷史監測資料:\rtime：資料產生時間\rdevice_id：AirBox ID\rs_0：Message sequence number\rs_1：Battery power(0 ~ 100)",
+        "\rs_2：Battery or Plug(0: Battery 1: Plug)",
+        "\rs_3：Moving speed(Should be 0)",
+        "\rs_d0：PM2.5\rs_t0：Temperature\rs_h0：Humidity"
+    ],
+    "AGENCY": "臺北市政府資訊局",
+    "AGENCY_CONTACT": "李正賢 (27208889#2858)",
+    "UPDATE_FREQ": "即時",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/03/22",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/12/15 02:56",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "Stats": "瀏覽次數: 325 下載次數: 91 意見數: 0 ",
+    "VIEWS": "325",
+    "DOWNLOAD": "91",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "新版空氣盒子即時監測資料(含經緯度資訊)、:id:機器編號,\rname:機器名稱,\rlat: 經度,\rlon: 緯度,\rpm25: PM2.5數值,\rpm10: PM10數值,\rco2:暫無數值,\rhcho: 暫無數值,\rtvoc: 暫無數值,\rco: 暫無數值,\rt: 攝氏溫度,\rh: 相對溼度,\rtime: 資料產生時間(UTC+8)、,\rutc_time: 資料產生時間(UTC+0)、,\rorg: 暫無數值,\rarea: 所在區域,\rtype: 類型(ex.airbox,lass-airbox..)、\r歷史監測資料:\rtime：資料產生時間\rdevice_id：AirBox ID\rs_0：Message sequence number\rs_1：Battery power(0 ~ 100)、\rs_2：Battery or Plug(0: Battery 1: Plug)、\rs_3：Moving speed(Should be 0)、\rs_d0：PM2.5\rs_t0：Temperature\rs_h0：Humidity",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=4ba06157-3854-4111-9383-3b8a188c962a&rid=121311db-55f0-4bf3-908c-5456d8491d43",
+            "RES_DESC": "空氣盒子設備ID與學校對照表",
+            "RES_DATE_UPDATE_META": "2016/09/07 16:05",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=60670&md5_url=5f15244e4d8026f3b8a57a498b688388",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=60670&md5_url=5f15244e4d8026f3b8a57a498b688388",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=60670&md5_url=5f15244e4d8026f3b8a57a498b688388",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=60670&md5_url=5f15244e4d8026f3b8a57a498b688388",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=60670&md5_url=5f15244e4d8026f3b8a57a498b688388"
+        },
+        {
+            "SCHEMA": "新版空氣盒子即時監測資料(含經緯度資訊)、:id:機器編號,\rname:機器名稱,\rlat: 經度,\rlon: 緯度,\rpm25: PM2.5數值,\rpm10: PM10數值,\rco2:暫無數值,\rhcho: 暫無數值,\rtvoc: 暫無數值,\rco: 暫無數值,\rt: 攝氏溫度,\rh: 相對溼度,\rtime: 資料產生時間(UTC+8)、,\rutc_time: 資料產生時間(UTC+0)、,\rorg: 暫無數值,\rarea: 所在區域,\rtype: 類型(ex.airbox,lass-airbox..)、\r歷史監測資料:\rtime：資料產生時間\rdevice_id：AirBox ID\rs_0：Message sequence number\rs_1：Battery power(0 ~ 100)、\rs_2：Battery or Plug(0: Battery 1: Plug)、\rs_3：Moving speed(Should be 0)、\rs_d0：PM2.5\rs_t0：Temperature\rs_h0：Humidity",
+            "RES_FILETYPE": "TXT",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=4ba06157-3854-4111-9383-3b8a188c962a&rid=c046e1bb-0457-4d6b-8a53-a63e69250005",
+            "RES_DESC": "106年5月12日~13日監測資料(因API未傳送，故補上本資料)",
+            "RES_DATE_UPDATE_META": "2017/05/24 18:49"
+        },
+        {
+            "SCHEMA": "新版空氣盒子即時監測資料(含經緯度資訊)、:id:機器編號,\rname:機器名稱,\rlat: 經度,\rlon: 緯度,\rpm25: PM2.5數值,\rpm10: PM10數值,\rco2:暫無數值,\rhcho: 暫無數值,\rtvoc: 暫無數值,\rco: 暫無數值,\rt: 攝氏溫度,\rh: 相對溼度,\rtime: 資料產生時間(UTC+8)、,\rutc_time: 資料產生時間(UTC+0)、,\rorg: 暫無數值,\rarea: 所在區域,\rtype: 類型(ex.airbox,lass-airbox..)、\r歷史監測資料:\rtime：資料產生時間\rdevice_id：AirBox ID\rs_0：Message sequence number\rs_1：Battery power(0 ~ 100)、\rs_2：Battery or Plug(0: Battery 1: Plug)、\rs_3：Moving speed(Should be 0)、\rs_d0：PM2.5\rs_t0：Temperature\rs_h0：Humidity",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "其他",
+            "REC_COUNT": "0",
+            "RES_URL": "https://tpairbox.blob.core.windows.net/blobfs/AirBoxData_V3.gz",
+            "RES_DESC": "AirBox即時偵測資料_V3(含設備經緯度)",
+            "RES_DATE_UPDATE_META": "2017/12/14 18:57"
+        },
+        {
+            "SCHEMA": "新版空氣盒子即時監測資料(含經緯度資訊)、:id:機器編號,\rname:機器名稱,\rlat: 經度,\rlon: 緯度,\rpm25: PM2.5數值,\rpm10: PM10數值,\rco2:暫無數值,\rhcho: 暫無數值,\rtvoc: 暫無數值,\rco: 暫無數值,\rt: 攝氏溫度,\rh: 相對溼度,\rtime: 資料產生時間(UTC+8)、,\rutc_time: 資料產生時間(UTC+0)、,\rorg: 暫無數值,\rarea: 所在區域,\rtype: 類型(ex.airbox,lass-airbox..)、\r歷史監測資料:\rtime：資料產生時間\rdevice_id：AirBox ID\rs_0：Message sequence number\rs_1：Battery power(0 ~ 100)、\rs_2：Battery or Plug(0: Battery 1: Plug)、\rs_3：Moving speed(Should be 0)、\rs_d0：PM2.5\rs_t0：Temperature\rs_h0：Humidity",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "其他",
+            "REC_COUNT": "0",
+            "RES_URL": "https://tpairbox.blob.core.windows.net/blobfs/AirBoxData_history_V2.gz",
+            "RES_DESC": "空氣盒子歷史偵測資料(範圍為上一周七天)",
+            "RES_DATE_UPDATE_META": "2017/12/14 18:41"
+        }
+    ]
+}

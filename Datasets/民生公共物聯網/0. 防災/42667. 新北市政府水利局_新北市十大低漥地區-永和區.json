@@ -1,0 +1,49 @@
+{
+    "TITLE": "新北市十大低漥地區-永和區",
+    "NODE": "42667",
+    "DESC": "依據近3年發生積淹水紀錄統計結果，屬天然地形及地勢低漥，雖經本局採各種改善工程，如包含側溝或下水道擴大、瓶頸段打通、增設低地排水設施…等，仍無法免除豪大雨或颱風期間易發生積淹水情形，請周邊市民加強預防措施將易因水災受損物品墊高，如有需使用砂包阻隔需求者，可至各公所領取砂包備用。",
+    "SCHEMA": "district：所屬行政區flooding zone：易淹水區域地點flooding causes：積淹原因",
+    "AGENCY": "新北市政府水利局",
+    "AGENCY_CONTACT": "賴先生 (4832)",
+    "UPDATE_FREQ": "每年",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/01/19",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/06/01 08:00",
+    "KEYWORDS": [
+        "防災"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 138 下載次數: 17 意見數: 0 ",
+    "VIEWS": "138",
+    "DOWNLOAD": "17",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "district：所屬行政區flooding zone：易淹水區域地點flooding causes：積淹原因",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://data.ntpc.gov.tw/od/zipfiledl?oid=7DAC6E7D-A31A-4352-98E4-D2B669B041EE&ft=zip",
+            "RES_DESC": "新北市十大低漥地區-永和區",
+            "RES_DATE_UPDATE_META": "2017/11/26 15:25",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=42667&md5_url=cd5e98a2c76f0cbf4a389d1a6d66930b",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=42667&md5_url=cd5e98a2c76f0cbf4a389d1a6d66930b",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=42667&md5_url=cd5e98a2c76f0cbf4a389d1a6d66930b",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=42667&md5_url=cd5e98a2c76f0cbf4a389d1a6d66930b",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=42667&md5_url=cd5e98a2c76f0cbf4a389d1a6d66930b"
+        },
+        {
+            "SCHEMA": "district：所屬行政區flooding zone：易淹水區域地點flooding causes：積淹原因",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://data.ntpc.gov.tw/api/v1/rest/datastore/382000000A-002229-001",
+            "RES_DESC": "新北市十大低漥地區-永和區",
+            "RES_DATE_UPDATE_META": "2017/11/26 15:25"
+        }
+    ]
+}

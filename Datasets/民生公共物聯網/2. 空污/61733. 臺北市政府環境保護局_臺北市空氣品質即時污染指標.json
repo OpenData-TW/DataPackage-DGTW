@@ -1,0 +1,63 @@
+{
+    "TITLE": "臺北市空氣品質即時污染指標",
+    "NODE": "61733",
+    "DESC": "提供臺北市環境保護局空氣品質監測站之即時監測值(檔案為gz格式壓縮，原始檔案為json格式)",
+    "SCHEMA": [
+        "站名",
+        "空氣污染指標",
+        "細懸浮微粒(PM2.5)",
+        "濃度",
+        "懸浮微粒(PM10)",
+        "濃度",
+        "二氧化氮濃度",
+        "二氧化硫濃度",
+        "一氧化碳濃度",
+        "臭氧濃度",
+        "氮氧化物",
+        "一氧化氮",
+        "發布時間"
+    ],
+    "AGENCY": "臺北市政府環境保護局",
+    "AGENCY_CONTACT": "卓昕岑 (02-28237026)",
+    "UPDATE_FREQ": "每小時",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2018/01/18 20:50",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "Stats": "瀏覽次數: 131 下載次數: 29 意見數: 0 ",
+    "VIEWS": "131",
+    "DOWNLOAD": "29",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "站名、空氣污染指標、細懸浮微粒(PM2.5)、濃度、懸浮微粒(PM10)、濃度、二氧化氮濃度、二氧化硫濃度、一氧化碳濃度、臭氧濃度、氮氧化物、一氧化氮、發布時間",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "其他",
+            "REC_COUNT": "0",
+            "RES_URL": "https://tpdep.blob.core.windows.net/techdep/techdep_PSI_Log_Report.gz",
+            "RES_DESC": "AQI指標(七天內)",
+            "RES_DATE_UPDATE_META": "2017/03/23 12:09"
+        },
+        {
+            "SCHEMA": "站名、空氣污染指標、細懸浮微粒(PM2.5)、濃度、懸浮微粒(PM10)、濃度、二氧化氮濃度、二氧化硫濃度、一氧化碳濃度、臭氧濃度、氮氧化物、一氧化氮、發布時間",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "其他",
+            "REC_COUNT": "0",
+            "RES_URL": "https://tpdep.blob.core.windows.net/techdep/techdep_Station_Daily_Report.gz",
+            "RES_DESC": "空品測站日報表",
+            "RES_DATE_UPDATE_META": "2016/06/04 18:49"
+        },
+        {
+            "SCHEMA": "站名、空氣污染指標、細懸浮微粒(PM2.5)、濃度、懸浮微粒(PM10)、濃度、二氧化氮濃度、二氧化硫濃度、一氧化碳濃度、臭氧濃度、氮氧化物、一氧化氮、發布時間",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "其他",
+            "REC_COUNT": "0",
+            "RES_URL": "https://tpdep.blob.core.windows.net/techdep/techdep_PSI_Log_Report_hourly.gz",
+            "RES_DESC": "AQI指標(1小時內)",
+            "RES_DATE_UPDATE_META": "2017/03/23 12:09"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "TITLE": "生物源網格空氣污染排放量(TWD97)",
+    "NODE": "47244",
+    "DESC": "生物源空氣污染物網格排放量資料，推估基準年為民國102年，網格涵蓋範圍為臺灣本島地區，以TWD97-TM2 121中央經線為該網格點左下角座標，空氣污染物包括Total NMHC、Isoprene、Monoterpenes、Other NMHC與MBO。",
+    "SCHEMA": [
+        "UTM-E座標(UTME)",
+        "UTM-N座標(UTMN)",
+        "Total_NMHC(Total_nmhc)",
+        "Isoprene(Iso)",
+        "Monoterpenes(Mono)",
+        "Other NMHC(Onmhc)",
+        "MBO(Mbo)"
+    ],
+    "AGENCY": "行政院環境保護署",
+    "AGENCY_CONTACT": "簡先生 (0223712121#6103;0223117722#6103)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/06/26",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/08/10 14:12",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "授權說明網址: http://data.gov.tw/opendata/principle",
+    "Stats": "瀏覽次數: 121 下載次數: 12 意見數: 0 ",
+    "VIEWS": "121",
+    "DOWNLOAD": "12",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "UTM-E座標(UTME)、UTM-N座標(UTMN)、Total_NMHC(Total_nmhc)、Isoprene(Iso)、Monoterpenes(Mono)、Other NMHC(Onmhc)、MBO(Mbo)",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "35881",
+            "RES_URL": "http://opendata.epa.gov.tw/ws/Data/ATM00733/?$format=json",
+            "RES_DESC": "生物源網格空氣污染排放量(TWD97)-JSON",
+            "RES_DATE_UPDATE_META": "2018/01/17 15:31"
+        },
+        {
+            "SCHEMA": "UTM-E座標(UTME)、UTM-N座標(UTMN)、Total_NMHC(Total_nmhc)、Isoprene(Iso)、Monoterpenes(Mono)、Other NMHC(Onmhc)、MBO(Mbo)",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "35881",
+            "RES_URL": "http://opendata.epa.gov.tw/ws/Data/ATM00733/?$format=xml",
+            "RES_DESC": "生物源網格空氣污染排放量(TWD97)-XML",
+            "RES_DATE_UPDATE_META": "2018/01/18 15:58"
+        },
+        {
+            "SCHEMA": "UTM-E座標(UTME)、UTM-N座標(UTMN)、Total_NMHC(Total_nmhc)、Isoprene(Iso)、Monoterpenes(Mono)、Other NMHC(Onmhc)、MBO(Mbo)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "35881",
+            "RES_URL": "http://opendata.epa.gov.tw/ws/Data/ATM00733/?$format=csv",
+            "RES_DESC": "生物源網格空氣污染排放量(TWD97)-CSV",
+            "RES_DATE_UPDATE_META": "2018/01/17 15:32"
+        }
+    ]
+}

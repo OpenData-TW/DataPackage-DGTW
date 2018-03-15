@@ -1,0 +1,39 @@
+{
+    "TITLE": "南投縣機車排放空氣污染物檢驗站",
+    "NODE": "38384",
+    "DESC": "南投縣機車排放空氣污染物檢驗站",
+    "SCHEMA": "機車排放空氣污染物檢驗站",
+    "AGENCY": "南投縣政府",
+    "AGENCY_CONTACT": "劉 (0492237530#2219)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2016/11/09 10:03",
+    "KEYWORDS": [
+        "機車排放空氣污染物檢驗站"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 287 下載次數: 38 意見數: 0 ",
+    "VIEWS": "287",
+    "DOWNLOAD": "38",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "機車排放空氣污染物檢驗站",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://data.nantou.gov.tw/dataset/312427a1-381c-4f99-8c1b-dcdd9f5be7a0/resource/dd9a6058-a702-4a23-88c6-fa82191806b0/download/microsoftexcel2.csv",
+            "RES_DESC": "機車排放空氣污染物檢驗站",
+            "RES_DATE_UPDATE_META": "2018/01/26 16:14",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=38384&md5_url=a80087d209433bf9309e3d0a54ec7962",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=38384&md5_url=a80087d209433bf9309e3d0a54ec7962",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=38384&md5_url=a80087d209433bf9309e3d0a54ec7962",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=38384&md5_url=a80087d209433bf9309e3d0a54ec7962",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=38384&md5_url=a80087d209433bf9309e3d0a54ec7962"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "TITLE": "顯著有感地震報告資料-顯著有感地震報告",
+    "NODE": "6068",
+    "DESC": "顯著有感地震報告",
+    "SCHEMA": [
+        "地震編號",
+        "地震日期",
+        "地震時間",
+        "地震位置",
+        "地震深度",
+        "地震規模",
+        "縣市名稱",
+        "縣市最大震度",
+        "測站",
+        "測站名稱",
+        "震度"
+    ],
+    "AGENCY": "交通部中央氣象局",
+    "AGENCY_CONTACT": "廖 先生 (02-23491171)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/02/14",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2015/01/23 15:51",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "相關網址": "",
+    "NOTES": "更新頻率說明：有感地震發生時",
+    "Stats": "瀏覽次數: 96823 下載次數: 1134275 意見數: 9 ",
+    "VIEWS": "96823",
+    "DOWNLOAD": "1134275",
+    "COMMENTS": "9",
+    "RESOURCE": [
+        {
+            "SCHEMA": "地震編號、地震日期、地震時間、地震位置、地震深度、地震規模、縣市名稱、縣市最大震度、測站、測站名稱、震度",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=E-A0015-001R&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": " ",
+            "RES_DATE_UPDATE_META": "2018/03/07 02:08"
+        },
+        {
+            "SCHEMA": "地震編號、地震日期、地震時間、地震位置、地震深度、地震規模、縣市名稱、縣市最大震度、測站、測站名稱、震度",
+            "RES_FILETYPE": "PDF",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://opendata.cwb.gov.tw/opendatadoc/SC/A0015-001-1.pdf",
+            "RES_DESC": "XML格式說明",
+            "RES_DATE_UPDATE_META": "2017/10/05 11:21"
+        }
+    ]
+}

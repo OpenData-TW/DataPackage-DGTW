@@ -1,0 +1,33 @@
+{
+    "TITLE": "交通部中央氣象局研究發展實施要點",
+    "NODE": "10290",
+    "DESC": "有關氣象局研究發展相關原則性目的及規範。",
+    "SCHEMA": "書面",
+    "AGENCY": "交通部中央氣象局",
+    "AGENCY_CONTACT": "莊先生 (0223491012)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2015/12/29",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2015/01/30 17:12",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 911 下載次數: 36 意見數: 0 ",
+    "VIEWS": "911",
+    "DOWNLOAD": "36",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "書面",
+            "RES_FILETYPE": "PDF",
+            "RES_ENCODE": "其他",
+            "REC_COUNT": "9",
+            "RES_URL": "http://cwb.gov.tw/V7/service/notice/download/notice_20150909125314.pdf",
+            "RES_DESC": "交通部中央氣象局研究發展實施要點",
+            "RES_DATE_UPDATE_META": "2017/10/25 23:11"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "TITLE": "中央氣象局核發從事氣象海象預報業務許可證之有效證照",
+    "NODE": "10315",
+    "DESC": "中央氣象局核發從事氣象海象預報業務許可證之有效證照",
+    "SCHEMA": "中央氣象局核發從事氣象海象預報業務許可證之有效證照",
+    "AGENCY": "交通部中央氣象局",
+    "AGENCY_CONTACT": "艾小姐 (0223491018)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2015/12/29",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2015/01/30 17:17",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 1440 下載次數: 128 意見數: 0 ",
+    "VIEWS": "1440",
+    "DOWNLOAD": "128",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "中央氣象局核發從事氣象海象預報業務許可證之有效證照",
+            "RES_FILETYPE": "PDF",
+            "RES_ENCODE": "其他",
+            "REC_COUNT": "9",
+            "RES_URL": "http://cwb.gov.tw/V7/service/notice/download/notice_20161222165315.pdf",
+            "RES_DESC": "中央氣象局核發從事氣象海象預報業務許可證之有效證照",
+            "RES_DATE_UPDATE_META": "2017/10/25 23:12"
+        }
+    ]
+}

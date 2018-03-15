@@ -1,0 +1,38 @@
+{
+    "TITLE": "104年臺中市火災出動人員、車輛、船艇、直升機",
+    "NODE": "41920",
+    "DESC": "104年臺中市火災出動人員、車輛、船艇、直升機",
+    "SCHEMA": [
+        "臺中市火災出動人員",
+        "車輛",
+        "船艇",
+        "直升機"
+    ],
+    "AGENCY": "臺中市政府",
+    "AGENCY_CONTACT": "陳 (042381119#582)",
+    "UPDATE_FREQ": "每年",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/12/29",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/01/17 05:36",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 110 下載次數: 9 意見數: 0 ",
+    "VIEWS": "110",
+    "DOWNLOAD": "9",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "臺中市火災出動人員、車輛、船艇、直升機",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://210.69.115.180/collection/webpages/WebService/WSTransfer.ashx?op=GET&SN=253&key=C933362BF793B254&SAVE_TYPE=6",
+            "RES_DESC": "104年臺中市火災出動人員、車輛、船艇、直升機",
+            "RES_DATE_UPDATE_META": "2017/12/08 16:51"
+        }
+    ]
+}

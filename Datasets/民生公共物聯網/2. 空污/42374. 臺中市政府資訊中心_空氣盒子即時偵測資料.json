@@ -1,0 +1,62 @@
+{
+    "TITLE": "空氣盒子即時偵測資料",
+    "NODE": "42374",
+    "DESC": "即時偵測資料:一小時內各地空氣盒子所蒐集的資料。",
+    "SCHEMA": [
+        "1",
+        "偵測資料device_id：AirBox ID",
+        "time：資料產生時間",
+        "s_0：Message sequence number",
+        "s_1：Battery power(0 ~ 100)",
+        "s_2：Battery or Plug(0: Battery 1: Plug)",
+        "s_3：Moving speed(Should be 0)",
+        "s_d0：PM2.5",
+        "s_t0：Temperature",
+        "s_h0：Humidity(2)",
+        "設備資料行政區",
+        "學校名稱",
+        "地址",
+        "device_id：AirBox ID"
+    ],
+    "AGENCY": "臺中市政府資訊中心",
+    "AGENCY_CONTACT": "蘭小姐 (04-22289111#22104)",
+    "UPDATE_FREQ": "每小時",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/10/28",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/04/11 05:30",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 2778 下載次數: 423 意見數: 3 ",
+    "VIEWS": "2778",
+    "DOWNLOAD": "423",
+    "COMMENTS": "3",
+    "RESOURCE": [
+        {
+            "SCHEMA": "1、偵測資料device_id：AirBox ID、time：資料產生時間、s_0：Message sequence number、s_1：Battery power(0 ~ 100)、s_2：Battery or Plug(0: Battery 1: Plug)、s_3：Moving speed(Should be 0)、s_d0：PM2.5、s_t0：Temperature、s_h0：Humidity(2)、設備資料行政區、學校名稱、地址、device_id：AirBox ID",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://210.69.115.180/collection/webpages/WebService/WSTransfer.ashx?op=GET&SN=26&key=C063E3968AF5458B&SAVE_TYPE=6",
+            "RES_DESC": "空氣盒子即時量測資料:一小時內各地空氣盒子所蒐集的資料。",
+            "RES_DATE_UPDATE_META": "2018/01/16 12:56"
+        },
+        {
+            "SCHEMA": "1、偵測資料device_id：AirBox ID、time：資料產生時間、s_0：Message sequence number、s_1：Battery power(0 ~ 100)、s_2：Battery or Plug(0: Battery 1: Plug)、s_3：Moving speed(Should be 0)、s_d0：PM2.5、s_t0：Temperature、s_h0：Humidity(2)、設備資料行政區、學校名稱、地址、device_id：AirBox ID",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://data.taichung.gov.tw:80/wSite/public/data/f1507260210321.csv",
+            "RES_DESC": "空氣盒設備與學校對照表",
+            "RES_DATE_UPDATE_META": "2017/12/08 17:52",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=42374&md5_url=412eba2db92181148b6466af9a8879a6",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=42374&md5_url=412eba2db92181148b6466af9a8879a6",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=42374&md5_url=412eba2db92181148b6466af9a8879a6",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=42374&md5_url=412eba2db92181148b6466af9a8879a6",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=42374&md5_url=412eba2db92181148b6466af9a8879a6"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "TITLE": "基隆市消防局各單位通訊錄",
+    "NODE": "45624",
+    "DESC": "基隆市消防局各單位通訊錄資料(單位名稱、地址、電話)",
+    "SCHEMA": [
+        "據點",
+        "地點",
+        "聯絡電話"
+    ],
+    "AGENCY": "基隆市消防局",
+    "AGENCY_CONTACT": "林先生 (0224302691#456)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/05/26",
+    "DATA_TYPE": "原始資料",
+    "DATE_UPDATE_META": "2018/03/13 18:18",
+    "KEYWORDS": [
+        "消防局",
+        "救火",
+        "救災",
+        "通訊錄"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 336 下載次數: 55 意見數: 0 ",
+    "VIEWS": "336",
+    "DOWNLOAD": "55",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "據點、地點、聯絡電話",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "10",
+            "RES_URL": "http://www.klfd.gov.tw/wSite/public/Attachment/f1060518.csv",
+            "RES_DESC": "基隆市消防局各單位通訊錄",
+            "RES_DATE_UPDATE_META": "2018/02/02 16:58",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=45624&md5_url=2985a25950e4d9a395d22672fd2078ad",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=45624&md5_url=2985a25950e4d9a395d22672fd2078ad",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=45624&md5_url=2985a25950e4d9a395d22672fd2078ad",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=45624&md5_url=2985a25950e4d9a395d22672fd2078ad",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=45624&md5_url=2985a25950e4d9a395d22672fd2078ad"
+        }
+    ]
+}

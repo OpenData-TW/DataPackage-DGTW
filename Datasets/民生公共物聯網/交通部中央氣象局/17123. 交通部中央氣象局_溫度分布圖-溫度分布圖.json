@@ -1,0 +1,37 @@
+{
+    "TITLE": "溫度分布圖-溫度分布圖",
+    "NODE": "17123",
+    "DESC": "溫度分布圖",
+    "SCHEMA": [
+        "溫度分布圖",
+        "月日時",
+        "400x400"
+    ],
+    "AGENCY": "交通部中央氣象局",
+    "AGENCY_CONTACT": "蔡 先生 (02-23491222)",
+    "UPDATE_FREQ": "不更新",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2015/12/29",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2015/07/06 09:36",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 3317 下載次數: 704 意見數: 2 ",
+    "VIEWS": "3317",
+    "DOWNLOAD": "704",
+    "COMMENTS": "2",
+    "RESOURCE": [
+        {
+            "SCHEMA": "溫度分布圖、月日時、400x400",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=O-A0038-001&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": " ",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:14"
+        }
+    ]
+}

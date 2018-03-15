@@ -1,0 +1,33 @@
+{
+    "TITLE": "交通部中央氣象局公務出國報告",
+    "NODE": "10235",
+    "DESC": "交通部中央氣象局公務出國報告",
+    "SCHEMA": "交通部中央氣象局公務出國報告已上傳至公務出國報告資訊網，請直接點選『下載』開啟『公務出國報告資訊網』新視窗，即可查詢",
+    "AGENCY": "交通部中央氣象局",
+    "AGENCY_CONTACT": "趙小姐 (0223491016)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2015/12/29",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2015/01/30 17:20",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 1598 下載次數: 65 意見數: 0 ",
+    "VIEWS": "1598",
+    "DOWNLOAD": "65",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "交通部中央氣象局公務出國報告已上傳至公務出國報告資訊網，請直接點選『下載』開啟『公務出國報告資訊網』新視窗，即可查詢",
+            "RES_FILETYPE": "WEBSERVICES",
+            "RES_ENCODE": "其他",
+            "REC_COUNT": "121",
+            "RES_URL": "http://report.nat.gov.tw/ReportFront/rpt_search_group.jspx?action=search&sort=1&page_size=15&orgId=315070000H&reportStartDate=20010101&reportEndDate=21111231&begSearch=true",
+            "RES_DESC": " ",
+            "RES_DATE_UPDATE_META": "2017/05/11 14:08"
+        }
+    ]
+}

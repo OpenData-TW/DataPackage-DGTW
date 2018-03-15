@@ -1,0 +1,33 @@
+{
+    "TITLE": "地震的等震圖",
+    "NODE": "35248",
+    "DESC": "地震的等震圖檔案資料",
+    "SCHEMA": "地震的等震圖gif檔案",
+    "AGENCY": "行政院環境保護署",
+    "AGENCY_CONTACT": "蕭先生 (0223491350)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/09/02",
+    "DATA_TYPE": "原始資料",
+    "DATE_UPDATE_META": "2016/09/02 15:05",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 497 下載次數: 87 意見數: 0 ",
+    "VIEWS": "497",
+    "DOWNLOAD": "87",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "地震的等震圖gif檔案",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.epa.gov.tw/Data/DownloadFile/SOIL00059/?file=\\SOIL00059\\地震的等震圖_1050901_004620.gif",
+            "RES_DESC": "地震的等震圖_1050901_004620",
+            "RES_DATE_UPDATE_META": "2018/01/15 10:42"
+        }
+    ]
+}

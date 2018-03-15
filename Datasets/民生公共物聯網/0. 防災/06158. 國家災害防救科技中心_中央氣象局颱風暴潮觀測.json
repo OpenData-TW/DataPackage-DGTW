@@ -1,0 +1,33 @@
+{
+    "TITLE": "中央氣象局颱風暴潮觀測",
+    "NODE": "6158",
+    "DESC": "於颱風警報發布期間顯示暴潮觀測資料",
+    "SCHEMA": "颱風期間之海象暴潮觀測",
+    "AGENCY": "國家災害防救科技中心",
+    "AGENCY_CONTACT": "蔡先生 (0223491000)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2013/04/26",
+    "DATA_TYPE": "原始資料",
+    "DATE_UPDATE_META": "2013/04/24 08:00",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "更新頻率說明: 不定期(颱風期間才有資料)授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 5040 下載次數: 696 意見數: 0",
+    "VIEWS": "5040",
+    "DOWNLOAD": "696",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "颱風期間之海象暴潮觀測",
+            "RES_FILETYPE": "KMZ",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "https://alerts.ncdr.nat.gov.tw/DownLoadNewAssistData.ashx/4",
+            "RES_DESC": "",
+            "RES_DATE_UPDATE_META": "2018/03/10 02:13"
+        }
+    ]
+}

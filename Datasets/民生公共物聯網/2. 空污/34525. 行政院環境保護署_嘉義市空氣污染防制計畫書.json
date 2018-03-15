@@ -1,0 +1,33 @@
+{
+    "TITLE": "嘉義市空氣污染防制計畫書",
+    "NODE": "34525",
+    "DESC": "嘉義市空氣污染防制計畫書(104~109年版)",
+    "SCHEMA": "提供嘉義市空氣污染防制計畫書資料",
+    "AGENCY": "行政院環境保護署",
+    "AGENCY_CONTACT": "李小姐 (052251775#220)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/09/01",
+    "DATA_TYPE": "原始資料",
+    "DATE_UPDATE_META": "2016/09/01 16:28",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 351 下載次數: 51 意見數: 0 ",
+    "VIEWS": "351",
+    "DOWNLOAD": "51",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "提供嘉義市空氣污染防制計畫書資料",
+            "RES_FILETYPE": "PDF",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.epa.gov.tw/Data/DownloadFile/ATM00648/?file=\\\\ATM00648\\2016\\嘉義市空氣污染防制計畫書.pdf",
+            "RES_DESC": "嘉義市空氣污染防制計畫書",
+            "RES_DATE_UPDATE_META": "2018/01/15 08:57"
+        }
+    ]
+}

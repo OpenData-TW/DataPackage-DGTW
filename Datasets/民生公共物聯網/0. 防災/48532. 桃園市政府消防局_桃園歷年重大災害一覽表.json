@@ -1,0 +1,39 @@
+{
+    "TITLE": "桃園歷年重大災害一覽表",
+    "NODE": "48532",
+    "DESC": "提供民國96年起桃園地區發生之重大災害",
+    "SCHEMA": [
+        "災害(重大災害事件)",
+        "發生時間(重大災害事件發生時間)"
+    ],
+    "AGENCY": "桃園市政府消防局",
+    "AGENCY_CONTACT": "鍾先生 (03-3379119-660)",
+    "UPDATE_FREQ": "每年",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/07/18",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2018/03/08 10:48",
+    "KEYWORDS": [
+        "重大災害",
+        "桃園"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 97 下載次數: 12 意見數: 0 ",
+    "VIEWS": "97",
+    "DOWNLOAD": "12",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "災害(重大災害事件)、發生時間(重大災害事件發生時間)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=39031e7a-ea21-46b6-ac27-2dd4e6d927ca&rid=b4fb91ed-2cb1-4f48-ab38-1672b0a45091",
+            "RES_DESC": "桃園歷年重大災害一覽表",
+            "RES_DATE_UPDATE_META": "2017/12/04 15:03"
+        }
+    ]
+}

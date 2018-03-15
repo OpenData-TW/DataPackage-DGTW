@@ -1,0 +1,33 @@
+{
+    "TITLE": "全解析可見光衛星雲圖-全景11000x11000",
+    "NODE": "49975",
+    "DESC": "全解析可見光衛星雲圖-全景11000x11000",
+    "SCHEMA": "可見光衛星雲圖之解析度為11000x11000",
+    "AGENCY": "交通部中央氣象局",
+    "AGENCY_CONTACT": "王 小姐 (02-23491310)",
+    "UPDATE_FREQ": "即時",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/08/10",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/08/10 14:56",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 94 下載次數: 9 意見數: 0 ",
+    "VIEWS": "94",
+    "DOWNLOAD": "9",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "可見光衛星雲圖之解析度為11000x11000",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=O-B0033-005&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "全解析可見光衛星雲圖-全景11000x11000",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:34"
+        }
+    ]
+}

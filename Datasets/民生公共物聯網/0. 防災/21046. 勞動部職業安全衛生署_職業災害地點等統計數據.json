@@ -1,0 +1,124 @@
+{
+    "TITLE": "職業災害地點等統計數據",
+    "NODE": "21046",
+    "DESC": "提供重大職業災害傷亡、發生區域(轄區)及災害人數等數據資料",
+    "SCHEMA": [
+        "重大職業災害傷亡情形",
+        "發生區域(轄區)",
+        "災害人數"
+    ],
+    "AGENCY": "勞動部職業安全衛生署",
+    "AGENCY_CONTACT": "林敬育 先生 (02-89956666#8115)",
+    "UPDATE_FREQ": "每年",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2015/09/03",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2015/09/03 17:51",
+    "KEYWORDS": [],
+    "CATEGORY": "政府統計",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 1503 下載次數: 386 意見數: 1 ",
+    "VIEWS": "1503",
+    "DOWNLOAD": "386",
+    "COMMENTS": "1",
+    "RESOURCE": [
+        {
+            "SCHEMA": "重大職業災害傷亡情形、發生區域(轄區)、災害人數",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/download/A17040000J-000004-CLX",
+            "RES_DESC": "102年職業災害地點等統計數據",
+            "RES_DATE_UPDATE_META": "2018/02/12 17:16",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=21046&md5_url=90d5453d9d147472f6fcc8664b248ada",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=21046&md5_url=90d5453d9d147472f6fcc8664b248ada",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=21046&md5_url=90d5453d9d147472f6fcc8664b248ada",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=21046&md5_url=90d5453d9d147472f6fcc8664b248ada",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=21046&md5_url=90d5453d9d147472f6fcc8664b248ada"
+        },
+        {
+            "SCHEMA": "重大職業災害傷亡情形、發生區域(轄區)、災害人數",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/download/A17040000J-000004-QRL",
+            "RES_DESC": "102年職業災害地點等統計數據",
+            "RES_DATE_UPDATE_META": "2018/02/12 17:16"
+        },
+        {
+            "SCHEMA": "重大職業災害傷亡情形、發生區域(轄區)、災害人數",
+            "RES_FILETYPE": "WEBSERVICES",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/rest/datastore/A17040000J-000004-59T",
+            "RES_DESC": "102年職業災害地點等統計數據",
+            "RES_DATE_UPDATE_META": "2018/02/12 17:16"
+        },
+        {
+            "SCHEMA": "重大職業災害傷亡情形、發生區域(轄區)、災害人數",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/download/A17040000J-000004-ZJY",
+            "RES_DESC": "103年職業災害地點等統計數據",
+            "RES_DATE_UPDATE_META": "2018/02/12 17:16",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=21046&md5_url=0d73500c0c5a2428c3dac389ccfd0dc5",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=21046&md5_url=0d73500c0c5a2428c3dac389ccfd0dc5",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=21046&md5_url=0d73500c0c5a2428c3dac389ccfd0dc5",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=21046&md5_url=0d73500c0c5a2428c3dac389ccfd0dc5",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=21046&md5_url=0d73500c0c5a2428c3dac389ccfd0dc5"
+        },
+        {
+            "SCHEMA": "重大職業災害傷亡情形、發生區域(轄區)、災害人數",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/download/A17040000J-000004-LB5",
+            "RES_DESC": "103年職業災害地點等統計數據",
+            "RES_DATE_UPDATE_META": "2018/02/12 17:16"
+        },
+        {
+            "SCHEMA": "重大職業災害傷亡情形、發生區域(轄區)、災害人數",
+            "RES_FILETYPE": "WEBSERVICES",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/rest/datastore/A17040000J-000004-XqL",
+            "RES_DESC": "103年職業災害地點等統計數據",
+            "RES_DATE_UPDATE_META": "2018/02/12 17:16"
+        },
+        {
+            "SCHEMA": "重大職業災害傷亡情形、發生區域(轄區)、災害人數",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/download/A17040000J-000004-OB9",
+            "RES_DESC": "104年職業災害地點等統計數據",
+            "RES_DATE_UPDATE_META": "2018/02/12 17:16",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=21046&md5_url=f6ebdaf3682bd68d4ddb6931cfc11990",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=21046&md5_url=f6ebdaf3682bd68d4ddb6931cfc11990",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=21046&md5_url=f6ebdaf3682bd68d4ddb6931cfc11990",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=21046&md5_url=f6ebdaf3682bd68d4ddb6931cfc11990",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=21046&md5_url=f6ebdaf3682bd68d4ddb6931cfc11990"
+        },
+        {
+            "SCHEMA": "重大職業災害傷亡情形、發生區域(轄區)、災害人數",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/download/A17040000J-000004-2Q2",
+            "RES_DESC": "104年職業災害地點等統計數據",
+            "RES_DATE_UPDATE_META": "2018/02/12 17:16"
+        },
+        {
+            "SCHEMA": "重大職業災害傷亡情形、發生區域(轄區)、災害人數",
+            "RES_FILETYPE": "WEBSERVICES",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/rest/datastore/A17040000J-000004-ftX",
+            "RES_DESC": "104年職業災害地點等統計數據",
+            "RES_DATE_UPDATE_META": "2018/02/12 17:16"
+        }
+    ]
+}

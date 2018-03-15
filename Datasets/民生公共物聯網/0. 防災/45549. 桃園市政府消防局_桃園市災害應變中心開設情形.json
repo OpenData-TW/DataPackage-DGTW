@@ -1,0 +1,42 @@
+{
+    "TITLE": "桃園市災害應變中心開設情形",
+    "NODE": "45549",
+    "DESC": "提供桃園市歷年災害應變中心開設內容及時間",
+    "SCHEMA": [
+        "年度(統計年度，以民國紀年。)",
+        "開設工作(災害防救任務。)",
+        "開設日期_起(起始開設日期。)",
+        "開設日期_迄(結束日期。)"
+    ],
+    "AGENCY": "桃園市政府消防局",
+    "AGENCY_CONTACT": "鍾先生 (03-3379119-660)",
+    "UPDATE_FREQ": "每年",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/05/15",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2018/02/01 16:47",
+    "KEYWORDS": [
+        "消防",
+        "應變中心",
+        "颱風"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 169 下載次數: 11 意見數: 0 ",
+    "VIEWS": "169",
+    "DOWNLOAD": "11",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "年度(統計年度，以民國紀年。)、開設工作(災害防救任務。)、開設日期_起(起始開設日期。)、開設日期_迄(結束日期。)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=3a8f6eff-e33f-40a8-8fe4-02e14bc48400&rid=405c11c8-9f59-4560-8af4-a5fb9171f125",
+            "RES_DESC": "桃園市災害應變中心開設情形",
+            "RES_DATE_UPDATE_META": "2017/07/26 15:59"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "TITLE": "天然災害停止上班、停止上課情形-CAP 檔",
+    "NODE": "20457",
+    "DESC": "各縣市停班停課訊息之CAP檔。",
+    "SCHEMA": [
+        "縣市名稱",
+        "停止上班上課情形"
+    ],
+    "AGENCY": "行政院人事行政總處",
+    "AGENCY_CONTACT": "李先生 (0223979298#842;23979298#842)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2015/08/20",
+    "DATA_TYPE": "原始資料",
+    "DATE_UPDATE_META": "2015/08/20 11:31",
+    "KEYWORDS": [
+        "停班停課",
+        "颱風",
+        "CAP",
+        "人事總處"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "相關網址": "https://alerts.ncdr.nat.gov.tw/RssAtomFeed.ashx?AlertType=33",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 4273 下載次數: 441 意見數: 3 ",
+    "VIEWS": "4273",
+    "DOWNLOAD": "441",
+    "COMMENTS": "3",
+    "RESOURCE": [
+        {
+            "SCHEMA": "縣市名稱、停止上班上課情形",
+            "RES_FILETYPE": "CAP",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "26",
+            "RES_URL": "https://alerts.ncdr.nat.gov.tw/RssAtomFeed.ashx?AlertType=33",
+            "RES_DESC": "各縣市停班停課訊息之CAP檔。",
+            "RES_DATE_UPDATE_META": "2018/02/08 10:00"
+        }
+    ]
+}

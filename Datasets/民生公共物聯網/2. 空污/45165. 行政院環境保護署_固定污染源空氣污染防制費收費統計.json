@@ -1,0 +1,66 @@
+{
+    "TITLE": "固定污染源空氣污染防制費收費統計",
+    "NODE": "45165",
+    "DESC": "固定污染源空氣污染防制費收費金額統計",
+    "SCHEMA": [
+        "年度(Year)",
+        "縣市(County)",
+        "空污費金額(Income)",
+        "單位(Unit)"
+    ],
+    "AGENCY": "行政院環境保護署",
+    "AGENCY_CONTACT": "何先生 (0223712121#6207;6207)",
+    "UPDATE_FREQ": "每年",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/04/20",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/04/27 17:54",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "授權說明網址: http://data.gov.tw/opendata/principle",
+    "Stats": "瀏覽次數: 172 下載次數: 43 意見數: 0 ",
+    "VIEWS": "172",
+    "DOWNLOAD": "43",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "年度(Year)、縣市(County)、空污費金額(Income)、單位(Unit)",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "23",
+            "RES_URL": "http://opendata.epa.gov.tw/ws/Data/POP00042/?$format=json",
+            "RES_DESC": "固定污染源空氣污染防制費收費統計-JSON",
+            "RES_DATE_UPDATE_META": "2017/11/18 09:26",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=45165&md5_url=ce243fcb498e889cfab41cf4220ec9f5",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=45165&md5_url=ce243fcb498e889cfab41cf4220ec9f5",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=45165&md5_url=ce243fcb498e889cfab41cf4220ec9f5",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=45165&md5_url=ce243fcb498e889cfab41cf4220ec9f5",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=45165&md5_url=ce243fcb498e889cfab41cf4220ec9f5"
+        },
+        {
+            "SCHEMA": "年度(Year)、縣市(County)、空污費金額(Income)、單位(Unit)",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "23",
+            "RES_URL": "http://opendata.epa.gov.tw/ws/Data/POP00042/?$format=xml",
+            "RES_DESC": "固定污染源空氣污染防制費收費統計-XML",
+            "RES_DATE_UPDATE_META": "2017/11/18 09:26"
+        },
+        {
+            "SCHEMA": "年度(Year)、縣市(County)、空污費金額(Income)、單位(Unit)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "23",
+            "RES_URL": "http://opendata.epa.gov.tw/ws/Data/POP00042/?$format=csv",
+            "RES_DESC": "固定污染源空氣污染防制費收費統計-CSV",
+            "RES_DATE_UPDATE_META": "2017/11/18 09:26",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=45165&md5_url=7ee49d98847dd5ff3270c8a14e2bf976",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=45165&md5_url=7ee49d98847dd5ff3270c8a14e2bf976",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=45165&md5_url=7ee49d98847dd5ff3270c8a14e2bf976",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=45165&md5_url=7ee49d98847dd5ff3270c8a14e2bf976",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=45165&md5_url=7ee49d98847dd5ff3270c8a14e2bf976"
+        }
+    ]
+}

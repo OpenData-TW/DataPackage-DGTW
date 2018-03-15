@@ -1,0 +1,64 @@
+{
+    "TITLE": "中央災害防救會報-災防週報",
+    "NODE": "25439",
+    "DESC": "每週提供行政院災害防救會報之災防週報",
+    "SCHEMA": [
+        "主題",
+        "內容",
+        "連結"
+    ],
+    "AGENCY": "行政院",
+    "AGENCY_CONTACT": "黃先生 (81959022;0281959022)",
+    "UPDATE_FREQ": "每周",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2015/12/18",
+    "DATA_TYPE": "原始資料",
+    "DATE_UPDATE_META": "2015/12/18 17:41",
+    "KEYWORDS": [
+        "中央災害防救會報災防週報",
+        "災防週報"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "相關網址": "http://www.cdprc.ey.gov.tw/News.aspx?n=DE11525F5E6F3240&sms=348A76B6B4BCF95E",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 597 下載次數: 208 意見數: 0 ",
+    "VIEWS": "597",
+    "DOWNLOAD": "208",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "主題、內容、連結",
+            "RES_FILETYPE": "RSS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "49",
+            "RES_URL": "http://www.cdprc.ey.gov.tw//Rss_Content.aspx?sms=348A76B6B4BCF95E",
+            "RES_DESC": "RSS資料集清單",
+            "RES_DATE_UPDATE_META": "2018/03/09 10:27"
+        },
+        {
+            "SCHEMA": "主題、內容、連結",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "49",
+            "RES_URL": "http://www.cdprc.ey.gov.tw//CSV_Content.aspx?sms=348A76B6B4BCF95E",
+            "RES_DESC": "CSV資料集清單",
+            "RES_DATE_UPDATE_META": "2018/03/09 10:27",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=25439&md5_url=501552ea19064bbc3ca120fa7d830d57",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=25439&md5_url=501552ea19064bbc3ca120fa7d830d57",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=25439&md5_url=501552ea19064bbc3ca120fa7d830d57",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=25439&md5_url=501552ea19064bbc3ca120fa7d830d57",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=25439&md5_url=501552ea19064bbc3ca120fa7d830d57"
+        },
+        {
+            "SCHEMA": "主題、內容、連結",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "49",
+            "RES_URL": "http://www.cdprc.ey.gov.tw//JSON_Content.aspx?sms=348A76B6B4BCF95E",
+            "RES_DESC": "JSON資料集",
+            "RES_DATE_UPDATE_META": "2018/03/09 10:27"
+        }
+    ]
+}

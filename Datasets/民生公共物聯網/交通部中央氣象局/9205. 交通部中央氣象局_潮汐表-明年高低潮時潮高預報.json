@@ -1,0 +1,38 @@
+{
+    "TITLE": "潮汐表-明年高低潮時潮高預報",
+    "NODE": "9205",
+    "DESC": "每年10月提供明年高低潮時潮高預報，地點、潮位、時間、潮高",
+    "SCHEMA": [
+        "預報港口",
+        "年月日時分",
+        "滿乾潮",
+        "潮高"
+    ],
+    "AGENCY": "交通部中央氣象局",
+    "AGENCY_CONTACT": "陳小姐 (0223491196)",
+    "UPDATE_FREQ": "每年",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2015/12/29",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2014/09/30 14:47",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 2974 下載次數: 170 意見數: 1 ",
+    "VIEWS": "2974",
+    "DOWNLOAD": "170",
+    "COMMENTS": "1",
+    "RESOURCE": [
+        {
+            "SCHEMA": "預報港口、年月日時分、滿乾潮、潮高",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=F-A0023-001&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": " ",
+            "RES_DATE_UPDATE_META": "2018/02/12 14:37"
+        }
+    ]
+}

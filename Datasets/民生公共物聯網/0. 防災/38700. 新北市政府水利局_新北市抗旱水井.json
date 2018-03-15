@@ -1,0 +1,50 @@
+{
+    "TITLE": "新北市抗旱水井",
+    "NODE": "38700",
+    "DESC": "本市目前計有7口抗旱水井(管徑400mm)，為水利署91年度於本市樹林區所施作，有5口位於樹林省民公園，現由本府教育局體育處及水利署第十河川局管理，另有2口位於樹林河濱公園，為本府高灘地管理處管轄範圍。",
+    "SCHEMA": "name=水井名稱address=井址deep=井深discharge=抽水量",
+    "AGENCY": "新北市政府水利局",
+    "AGENCY_CONTACT": "沈先生 (0229603456#4976)",
+    "UPDATE_FREQ": "每年",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/11/06",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/06/01 08:00",
+    "KEYWORDS": [
+        "設施",
+        "防災"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 293 下載次數: 30 意見數: 0 ",
+    "VIEWS": "293",
+    "DOWNLOAD": "30",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "name=水井名稱address=井址deep=井深discharge=抽水量",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://data.ntpc.gov.tw/od/zipfiledl?oid=C9DA5174-4582-4B96-A5C6-20D78642C34A&ft=zip",
+            "RES_DESC": "新北市抗旱水井",
+            "RES_DATE_UPDATE_META": "2017/11/26 15:22",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=38700&md5_url=51dc5ed08924e6c7445e819fa3e4b3f2",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=38700&md5_url=51dc5ed08924e6c7445e819fa3e4b3f2",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=38700&md5_url=51dc5ed08924e6c7445e819fa3e4b3f2",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=38700&md5_url=51dc5ed08924e6c7445e819fa3e4b3f2",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=38700&md5_url=51dc5ed08924e6c7445e819fa3e4b3f2"
+        },
+        {
+            "SCHEMA": "name=水井名稱address=井址deep=井深discharge=抽水量",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://data.ntpc.gov.tw/api/v1/rest/datastore/382000000A-001830-001",
+            "RES_DESC": "新北市抗旱水井",
+            "RES_DATE_UPDATE_META": "2017/11/26 15:22"
+        }
+    ]
+}

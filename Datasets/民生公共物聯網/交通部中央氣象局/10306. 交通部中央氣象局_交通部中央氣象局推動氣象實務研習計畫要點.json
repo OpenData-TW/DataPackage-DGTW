@@ -1,0 +1,33 @@
+{
+    "TITLE": "交通部中央氣象局推動氣象實務研習計畫要點",
+    "NODE": "10306",
+    "DESC": "交通部中央氣象局推動氣象實務研習計畫要點",
+    "SCHEMA": "氣象實務研習",
+    "AGENCY": "交通部中央氣象局",
+    "AGENCY_CONTACT": "艾小姐 (0223491018)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2015/12/29",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2015/01/30 17:15",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 1351 下載次數: 33 意見數: 0 ",
+    "VIEWS": "1351",
+    "DOWNLOAD": "33",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "氣象實務研習",
+            "RES_FILETYPE": "PDF",
+            "RES_ENCODE": "其他",
+            "REC_COUNT": "9",
+            "RES_URL": "http://cwb.gov.tw/V7/service/notice/download/notice_20151014101114.pdf",
+            "RES_DESC": "交通部中央氣象局推動氣象實務研習計畫要點",
+            "RES_DATE_UPDATE_META": "2017/10/25 23:11"
+        }
+    ]
+}

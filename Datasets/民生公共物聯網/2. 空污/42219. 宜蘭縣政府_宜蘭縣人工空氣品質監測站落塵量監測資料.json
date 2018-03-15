@@ -1,0 +1,51 @@
+{
+    "TITLE": "宜蘭縣人工空氣品質監測站落塵量監測資料",
+    "NODE": "42219",
+    "DESC": "宜蘭縣人工空氣品質監測站落塵量監測資料",
+    "SCHEMA": "",
+    "AGENCY": "宜蘭縣政府",
+    "AGENCY_CONTACT": "江先生 (039907755#208)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/06/12",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/06/12 12:57",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 242 下載次數: 108 意見數: 0 ",
+    "VIEWS": "242",
+    "DOWNLOAD": "108",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://www.ilepb.gov.tw/api/ILEPB02006/format/CSV",
+            "RES_DESC": "宜蘭縣人工空氣品質監測站落塵量監測資料",
+            "RES_DATE_UPDATE_META": "2018/01/23 13:24"
+        },
+        {
+            "SCHEMA": "",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://www.ilepb.gov.tw/api/ILEPB02006/format/XML",
+            "RES_DESC": "宜蘭縣人工空氣品質監測站落塵量監測資料",
+            "RES_DATE_UPDATE_META": "2018/01/23 13:24"
+        },
+        {
+            "SCHEMA": "",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://www.ilepb.gov.tw/api/ILEPB02006/format/JSON",
+            "RES_DESC": "宜蘭縣人工空氣品質監測站落塵量監測資料",
+            "RES_DATE_UPDATE_META": "2018/01/23 13:24"
+        }
+    ]
+}

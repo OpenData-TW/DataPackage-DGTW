@@ -1,0 +1,40 @@
+{
+    "TITLE": "雲林縣火災出動人員、車輛、船艇、直升機資料",
+    "NODE": "33570",
+    "DESC": "雲林縣火災出動人員、車輛、船艇、直升機資料",
+    "SCHEMA": [
+        "受理火災件數",
+        "出動人次",
+        "救出人數",
+        "出動車輛",
+        "船艇",
+        "直升機"
+    ],
+    "AGENCY": "雲林縣消防局",
+    "AGENCY_CONTACT": "林先生 (055325707#212)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/08/02",
+    "DATA_TYPE": "原始資料",
+    "DATE_UPDATE_META": "2016/08/02 11:38",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 364 下載次數: 16 意見數: 0 ",
+    "VIEWS": "364",
+    "DOWNLOAD": "16",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "受理火災件數、出動人次、救出人數、出動車輛、船艇、直升機",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://www.ylfire.gov.tw/upload/dload201307230000001/20160802093035034.xls",
+            "RES_DESC": "雲林縣火災出動人員、車輛、船艇、直升機資料",
+            "RES_DATE_UPDATE_META": "2017/12/06 00:12"
+        }
+    ]
+}

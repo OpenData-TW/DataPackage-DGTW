@@ -1,0 +1,45 @@
+{
+    "TITLE": "桃園市轄內空氣品質監測站設置概況與測定項目",
+    "NODE": "46791",
+    "DESC": "提供桃園市政府環境保護局所轄空氣品質監測站設置概況與測定項目等基本資料",
+    "SCHEMA": [
+        "測站名稱：空氣品質自動監測站及人工監測站名稱\r地點：監測站地址\r測定項目：人工監測站(TSP",
+        "鉛",
+        "落塵)",
+        "\r                自動監測站(PM10",
+        "二氧化硫",
+        "氮氧化物",
+        "一氧化碳",
+        "非甲烷碳氫化合物",
+        "臭氧)"
+    ],
+    "AGENCY": "桃園市政府環境保護局",
+    "AGENCY_CONTACT": "楊子君 (03-4331718#681)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/06/27",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/06/27 14:49",
+    "KEYWORDS": [
+        "空氣品質監測站設置概況與測定項目"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 115 下載次數: 11 意見數: 0 ",
+    "VIEWS": "115",
+    "DOWNLOAD": "11",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "測站名稱：空氣品質自動監測站及人工監測站名稱\r地點：監測站地址\r測定項目：人工監測站(TSP、鉛、落塵)、\r                自動監測站(PM10、二氧化硫、氮氧化物、一氧化碳、非甲烷碳氫化合物、臭氧)",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=89dea47a-380c-4be0-86cc-97b04562646e&rid=283f64b5-6fee-432f-a560-fdc1692144b6",
+            "RES_DESC": "空氣品質監測站設置概況與測定項目.xls",
+            "RES_DATE_UPDATE_META": "2017/06/20 11:38"
+        }
+    ]
+}

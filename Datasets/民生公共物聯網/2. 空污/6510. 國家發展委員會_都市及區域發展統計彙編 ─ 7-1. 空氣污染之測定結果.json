@@ -1,0 +1,57 @@
+{
+    "TITLE": "都市及區域發展統計彙編 ─ 7-1. 空氣污染之測定結果",
+    "NODE": "6510",
+    "DESC": "空氣污染之測定結果",
+    "SCHEMA": [
+        "地區",
+        "總懸浮微粒2010",
+        "總懸浮微粒2011",
+        "總懸浮微粒2012",
+        "總懸浮微粒2013",
+        "總懸浮微粒2014",
+        "總懸浮微粒2015",
+        "落塵量2010",
+        "落塵量2011",
+        "落塵量2012",
+        "落塵量2013",
+        "落塵量2014",
+        "落塵量2015"
+    ],
+    "AGENCY": "國家發展委員會",
+    "AGENCY_CONTACT": "曾小姐 (0223165352)",
+    "UPDATE_FREQ": "每年",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2013/10/29",
+    "DATA_TYPE": "原始資料",
+    "DATE_UPDATE_META": "2018/01/08 15:40",
+    "KEYWORDS": [
+        "都市",
+        "區域",
+        "統計"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "相關網址": "http://www.ndc.gov.tw/News_Content.aspx?n=8A33013523400F35&sms=F8268BD0430ADC36&...",
+    "NOTES": "http://statistic.ngis.org.tw/",
+    "Stats": "授權說明網址: http://data.gov.tw/license",
+    "VIEWS": "瀏覽次數: 2356 下載次數: 232 意見數: 0",
+    "DOWNLOAD": "2356",
+    "COMMENTS": "232",
+    "RESOURCE": [
+        {
+            "SCHEMA": "地區、總懸浮微粒2010、總懸浮微粒2011、總懸浮微粒2012、總懸浮微粒2013、總懸浮微粒2014、總懸浮微粒2015、落塵量2010、落塵量2011、落塵量2012、落塵量2013、落塵量2014、落塵量2015",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "23",
+            "RES_URL": "http://ws.ndc.gov.tw/001/administrator/10/relfile/5781/6396/0019828_82.csv",
+            "RES_DESC": "都市及區域發展統計彙編，原則以前一年底資料為主，如無前一年底資料則採用最新一期資料",
+            "RES_DATE_UPDATE_META": "2017/11/15 18:25",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=6510&md5_url=ec1a3ce566d7f7b50d5a559a614a5fb3",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=6510&md5_url=ec1a3ce566d7f7b50d5a559a614a5fb3",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=6510&md5_url=ec1a3ce566d7f7b50d5a559a614a5fb3",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=6510&md5_url=ec1a3ce566d7f7b50d5a559a614a5fb3",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=6510&md5_url=ec1a3ce566d7f7b50d5a559a614a5fb3"
+        }
+    ]
+}

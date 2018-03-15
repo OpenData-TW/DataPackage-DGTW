@@ -1,0 +1,41 @@
+{
+    "TITLE": "鄉鎮天氣預報-臺中市未來2天天氣預報",
+    "NODE": "9299",
+    "DESC": "臺灣各鄉鎮市區預報資料",
+    "SCHEMA": "臺灣各鄉鎮市區未來2天及未來1週天氣預報(逐3小時)",
+    "AGENCY": "交通部中央氣象局",
+    "AGENCY_CONTACT": "賴先生 (0223491217)",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2015/12/29",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2014/09/30 14:54",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "更新頻率說明: 每6小時授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 842 下載次數: 286 意見數: 0 ",
+    "VIEWS": "842",
+    "DOWNLOAD": "286",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "臺灣各鄉鎮市區未來2天及未來1週天氣預報(逐3小時)",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=F-D0047-073&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": " ",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:12"
+        },
+        {
+            "SCHEMA": "臺灣各鄉鎮市區未來2天及未來1週天氣預報(逐3小時)",
+            "RES_FILETYPE": "PDF",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/opendatadoc/MFC/A0012-001.pdf",
+            "RES_DESC": " ",
+            "RES_DATE_UPDATE_META": "2017/11/20 21:34"
+        }
+    ]
+}

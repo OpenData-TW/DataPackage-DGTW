@@ -1,0 +1,38 @@
+{
+    "TITLE": "高雄市大寮區因應各項災害避難收容處所一覽表",
+    "NODE": "47100",
+    "DESC": "高雄市大寮區因應各項災害避難收容處所一覽表",
+    "SCHEMA": "高雄市大寮區因應各項災害避難收容處所",
+    "AGENCY": "高雄市政府",
+    "AGENCY_CONTACT": "葉 (077813041#130)",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/04/26",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/06/01 08:00",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "相關網址": "http://data.kcg.gov.tw/dataset/daliaoharbour-of-refuge",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 94 下載次數: 2 意見數: 0 ",
+    "VIEWS": "94",
+    "DOWNLOAD": "2",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "高雄市大寮區因應各項災害避難收容處所",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "1",
+            "RES_URL": "http://data.kcg.gov.tw/dataset/59f36669-1b90-46ab-9b4d-c278543c9682/resource/e823bd94-cd09-4387-8d3b-47593b1d77de/download/.csv",
+            "RES_DESC": "高雄市大寮區因應各項災害避難收容處所一覽表",
+            "RES_DATE_UPDATE_META": "2017/11/22 17:07",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=47100&md5_url=3118780a6c1e701eabaf6f48afeb4dc6",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=47100&md5_url=3118780a6c1e701eabaf6f48afeb4dc6",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=47100&md5_url=3118780a6c1e701eabaf6f48afeb4dc6",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=47100&md5_url=3118780a6c1e701eabaf6f48afeb4dc6",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=47100&md5_url=3118780a6c1e701eabaf6f48afeb4dc6"
+        }
+    ]
+}

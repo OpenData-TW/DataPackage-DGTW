@@ -1,0 +1,47 @@
+{
+    "TITLE": "災害救助物資庫存",
+    "NODE": "32899",
+    "DESC": "提供本市災害救助物資庫存數量",
+    "SCHEMA": [
+        "縣市鄉鎮",
+        "物資存放點",
+        "主/次分類",
+        "條碼號",
+        "品名",
+        "最小單位規格",
+        "庫存數量",
+        "單位"
+    ],
+    "AGENCY": "臺中市政府社會局‧長青福利科",
+    "AGENCY_CONTACT": "藍 (0422289111#37229;0422289111#37227)",
+    "UPDATE_FREQ": "每季",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/06/28",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/07/18 05:30",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 407 下載次數: 36 意見數: 0 ",
+    "VIEWS": "407",
+    "DOWNLOAD": "36",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "縣市鄉鎮、物資存放點、主/次分類、條碼號、品名、最小單位規格、庫存數量、單位",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://data.taichung.gov.tw/GipOpenAdmin/gipadmin/site/public/Data/f1467097766376.csv",
+            "RES_DESC": "提供民眾備災民生物資庫存數量",
+            "RES_DATE_UPDATE_META": "2017/12/08 17:45",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=32899&md5_url=17c878f56645ad090a61513c9f45aecf",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=32899&md5_url=17c878f56645ad090a61513c9f45aecf",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=32899&md5_url=17c878f56645ad090a61513c9f45aecf",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=32899&md5_url=17c878f56645ad090a61513c9f45aecf",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=32899&md5_url=17c878f56645ad090a61513c9f45aecf"
+        }
+    ]
+}

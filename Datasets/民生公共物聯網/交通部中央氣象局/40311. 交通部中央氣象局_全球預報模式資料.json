@@ -1,0 +1,401 @@
+{
+    "TITLE": "全球預報模式資料",
+    "NODE": "40311",
+    "DESC": "全球預報模式(GFS)，第000小時至380小時預報",
+    "SCHEMA": "全球預報模式(GFS)",
+    "AGENCY": "交通部中央氣象局",
+    "AGENCY_CONTACT": "吳小姐 (0223491270)",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/11/29",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2016/11/29 16:17",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "更新頻率說明: 每6小時授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 440 下載次數: 71 意見數: 0 ",
+    "VIEWS": "440",
+    "DOWNLOAD": "71",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "PDF",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/opendatadoc/MIC/A0060.pdf",
+            "RES_DESC": "資料說明",
+            "RES_DATE_UPDATE_META": "2017/10/26 16:15"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-000&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第000小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:16"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-006&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第006小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:17"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-012&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第012小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:17"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-018&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第018小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:17"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-024&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第024小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:18"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-030&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第030小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:18"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-036&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第036小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:18"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-042&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第042小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:19"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-048&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第048小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:19"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-054&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第054小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:20"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-060&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第060小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:20"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-066&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第066小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:20"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-072&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第072小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:21"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-078&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第078小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:21"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-084&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第084小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:21"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-090&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第090小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:22"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-096&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第096小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:22"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-108&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第108小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:22"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-120&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第120小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:23"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-132&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第132小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:23"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-144&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第144小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:23"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-156&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第156小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:24"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-168&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第168小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:24"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-180&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第180小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:24"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-192&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第192小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:25"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-204&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第204小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:25"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-216&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第216小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:26"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-228&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第228小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:26"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-240&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第240小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:26"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-252&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第252小時",
+            "RES_DATE_UPDATE_META": "2018/02/12 15:05"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-264&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第264小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:27"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-276&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第276小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:27"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-288&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第288小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:27"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-300&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第300小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:27"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-312&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第312小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:27"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-324&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第324小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:27"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-336&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第336小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:28"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-348&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第348小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:28"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-360&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第360小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:28"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-372&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第372小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:28"
+        },
+        {
+            "SCHEMA": "全球預報模式(GFS)",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=M-A0060-384&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "第384小時",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:29"
+        }
+    ]
+}

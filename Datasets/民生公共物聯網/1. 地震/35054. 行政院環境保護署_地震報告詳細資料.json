@@ -1,0 +1,474 @@
+{
+    "TITLE": "地震報告詳細資料",
+    "NODE": "35054",
+    "DESC": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+    "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+    "AGENCY": "行政院環境保護署",
+    "AGENCY_CONTACT": "蕭先生 (0223491350)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/03/10",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2016/09/02 15:15",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "授權說明網址: http://data.gov.tw/opendata/principle",
+    "Stats": "瀏覽次數: 297 下載次數: 40 意見數: 0 ",
+    "VIEWS": "297",
+    "DOWNLOAD": "40",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.epa.gov.tw/ws/Data/SOIL00058/?$format=zip",
+            "RES_DESC": "地震報告詳細資料-ZIP",
+            "RES_DATE_UPDATE_META": "2016/08/10 09:15"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.epa.gov.tw/Files/SOIL00058/地震報告詳細資料_1050825_152554.zip",
+            "RES_DESC": "地震報告詳細資料_1050825_152554.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.epa.gov.tw/Files/SOIL00058/地震報告詳細資料_1050901_004620.zip",
+            "RES_DESC": "地震報告詳細資料_1050901_004620.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.epa.gov.tw/Files/SOIL00058/地震報告詳細資料_1050905_135701.zip",
+            "RES_DESC": "地震報告詳細資料_1050905_135701.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.epa.gov.tw/Files/SOIL00058/地震報告詳細資料_1050924_175311.zip",
+            "RES_DESC": "地震報告詳細資料_1050924_175311.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/03/07 14:51"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.epa.gov.tw/Files/SOIL00058/地震報告詳細資料_1050928_175734.zip",
+            "RES_DESC": "地震報告詳細資料_1050928_175734.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/03/07 14:51"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.epa.gov.tw/Files/SOIL00058/地震報告詳細資料_1050930_194807.zip",
+            "RES_DESC": "地震報告詳細資料_1050930_194807.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/03/09 14:34"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.epa.gov.tw/Files/SOIL00058/地震報告詳細資料_1051004_144350.zip",
+            "RES_DESC": "地震報告詳細資料_1051004_144350.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/03/07 14:51"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1051006_000705.zip",
+            "RES_DESC": "地震報告詳細資料_1051006_000705.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1051112_152640.zip",
+            "RES_DESC": "地震報告詳細資料_1051112_152640.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1051121_152642.zip",
+            "RES_DESC": "地震報告詳細資料_1051121_152642.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1051125_152642.zip",
+            "RES_DESC": "地震報告詳細資料_1051125_152642.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1051128_152643.zip",
+            "RES_DESC": "地震報告詳細資料_1051128_152643.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1051130_152643.zip",
+            "RES_DESC": "地震報告詳細資料_1051130_152643.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1051204_152643.zip",
+            "RES_DESC": "地震報告詳細資料_1051204_152643.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1051209_152643.zip",
+            "RES_DESC": "地震報告詳細資料_1051209_152643.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1051215_222721.zip",
+            "RES_DESC": "地震報告詳細資料_1051215_222721.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1051216_042422.zip",
+            "RES_DESC": "地震報告詳細資料_1051216_042422.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1051225_045658.zip",
+            "RES_DESC": "地震報告詳細資料_1051225_045658.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1051230_084548.zip",
+            "RES_DESC": "地震報告詳細資料_1051230_084548.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1060103_034040.zip",
+            "RES_DESC": "地震報告詳細資料_1060103_034040.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1060104_051648.zip",
+            "RES_DESC": "地震報告詳細資料_1060104_051648.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1060104_151957.zip",
+            "RES_DESC": "地震報告詳細資料_1060104_151957.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1060108_040910.zip",
+            "RES_DESC": "地震報告詳細資料_1060108_040910.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1060112_014311.zip",
+            "RES_DESC": "地震報告詳細資料_1060112_014311.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1060113_015835.zip",
+            "RES_DESC": "地震報告詳細資料_1060113_015835.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1060125_154619.zip",
+            "RES_DESC": "地震報告詳細資料_1060125_154619.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1060211_015826.zip",
+            "RES_DESC": "地震報告詳細資料_1060211_015826.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1060212_124428.zip",
+            "RES_DESC": "地震報告詳細資料_1060212_124428.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1060222_111120.zip",
+            "RES_DESC": "地震報告詳細資料_1060222_111120.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1060228_003911.zip",
+            "RES_DESC": "地震報告詳細資料_1060228_003911.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1060304_184351.zip",
+            "RES_DESC": "地震報告詳細資料_1060304_184351.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1060308_062728.zip",
+            "RES_DESC": "地震報告詳細資料_1060308_062728.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1060320_081102.zip",
+            "RES_DESC": "地震報告詳細資料_1060320_081102.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1060324_013131.zip",
+            "RES_DESC": "地震報告詳細資料_1060324_013131.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1060325_231703.zip",
+            "RES_DESC": "地震報告詳細資料_1060325_231703.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1060330_004557.zip",
+            "RES_DESC": "地震報告詳細資料_1060330_004557.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1060417_025125.zip",
+            "RES_DESC": "地震報告詳細資料_1060417_025125.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1060430_101427.zip",
+            "RES_DESC": "地震報告詳細資料_1060430_101427.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1060505_131925.zip",
+            "RES_DESC": "地震報告詳細資料_1060505_131925.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1060516_072611.zip",
+            "RES_DESC": "地震報告詳細資料_1060516_072611.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1060524_180841.zip",
+            "RES_DESC": "地震報告詳細資料_1060524_180841.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1060524_212923.zip",
+            "RES_DESC": "地震報告詳細資料_1060524_212923.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1060525_141326.zip",
+            "RES_DESC": "地震報告詳細資料_1060525_141326.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1060604_213834.zip",
+            "RES_DESC": "地震報告詳細資料_1060604_213834.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1060611_011038.zip",
+            "RES_DESC": "地震報告詳細資料_1060611_011038.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1060616_054600.zip",
+            "RES_DESC": "地震報告詳細資料_1060616_054600.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1060621_153852.zip",
+            "RES_DESC": "地震報告詳細資料_1060621_153852.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata2.epa.gov.tw/SOIL00058/地震報告詳細資料_1060622_081412.zip",
+            "RES_DESC": "地震報告詳細資料_1060622_081412.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2018/01/15 09:39"
+        },
+        {
+            "SCHEMA": "地震報告詳細資料(含地震測站之即時強地動震波圖)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://210.59.250.183/Files/SOIL00058/地震報告詳細資料_1060702_150659.zip",
+            "RES_DESC": "地震報告詳細資料_1060702_150659.zip-ZIP",
+            "RES_DATE_UPDATE_META": "2017/07/02 15:06"
+        }
+    ]
+}

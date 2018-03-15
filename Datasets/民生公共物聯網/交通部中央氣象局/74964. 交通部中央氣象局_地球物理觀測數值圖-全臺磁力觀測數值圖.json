@@ -1,0 +1,42 @@
+{
+    "TITLE": "地球物理觀測數值圖-全臺磁力觀測數值圖",
+    "NODE": "74964",
+    "DESC": "各種地球物理觀測數值圖-全臺磁力觀測數值圖",
+    "SCHEMA": "全臺灣共12站磁力觀測數值圖",
+    "AGENCY": "交通部中央氣象局",
+    "AGENCY_CONTACT": "林 先生 (02-23491330)",
+    "UPDATE_FREQ": "即時",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2018/01/16",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2018/01/19 14:05",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "相關網址": "http://opendata.cwb.gov.tw/opendatadoc/SC/B0057.pdf",
+    "Stats": "瀏覽次數: 5460 下載次數: 874 意見數: 3 ",
+    "VIEWS": "5460",
+    "DOWNLOAD": "874",
+    "COMMENTS": "3",
+    "RESOURCE": [
+        {
+            "SCHEMA": "全臺灣共12站磁力觀測數值圖",
+            "RES_FILETYPE": "PDF",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://opendata.cwb.gov.tw/opendatadoc/SC/B0057.pdf",
+            "RES_DESC": "全臺磁力觀測數值圖說明檔",
+            "RES_DATE_UPDATE_META": "2018/02/12 15:12"
+        },
+        {
+            "SCHEMA": "全臺灣共12站磁力觀測數值圖",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=O-B0057-001&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "全臺磁力觀測數值圖",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:39"
+        }
+    ]
+}

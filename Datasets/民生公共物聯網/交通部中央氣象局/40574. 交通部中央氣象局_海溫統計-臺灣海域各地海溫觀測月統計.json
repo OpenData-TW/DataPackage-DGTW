@@ -1,0 +1,43 @@
+{
+    "TITLE": "海溫統計-臺灣海域各地海溫觀測月統計",
+    "NODE": "40574",
+    "DESC": "臺灣海域各地海溫觀測月統計",
+    "SCHEMA": [
+        "測站名稱",
+        "測站代碼",
+        "經緯度",
+        "西元年月",
+        "月均溫(°C)",
+        "月最高溫(°C)",
+        "月最高溫發生時間",
+        "月最低溫(°C)",
+        "月最低溫發生時間"
+    ],
+    "AGENCY": "交通部中央氣象局",
+    "AGENCY_CONTACT": "陳先生 (0223491316)",
+    "UPDATE_FREQ": "每年",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/12/05",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2016/12/05 15:19",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 282 下載次數: 32 意見數: 0 ",
+    "VIEWS": "282",
+    "DOWNLOAD": "32",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "測站名稱、測站代碼、經緯度、西元年月、月均溫(°C)、月最高溫(°C)、月最高溫發生時間、月最低溫(°C)、月最低溫發生時間",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "1600",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=C-B0050-001&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "海溫統計-臺灣海域各地海溫觀測月統計",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:31"
+        }
+    ]
+}

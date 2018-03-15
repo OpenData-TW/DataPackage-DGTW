@@ -1,0 +1,44 @@
+{
+    "TITLE": "桃園市政府消防局防火宣導資訊",
+    "NODE": "46277",
+    "DESC": "提供火災預防、報案須知及火災搶救等相關宣導資訊。",
+    "SCHEMA": [
+        "項目(宣導項目主題)",
+        "採取措施(應採取措施)"
+    ],
+    "AGENCY": "桃園市政府消防局",
+    "AGENCY_CONTACT": "王先生 (03-3379119-643)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/05/18",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2018/03/09 13:42",
+    "KEYWORDS": [
+        "火災預防",
+        "消防"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 107 下載次數: 3 意見數: 0 ",
+    "VIEWS": "107",
+    "DOWNLOAD": "3",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "項目(宣導項目主題)、採取措施(應採取措施)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=34354a8f-5107-45ec-b1b4-c711580b8ea8&rid=858898a5-0ebf-4ddf-9230-e7a22f3e276e",
+            "RES_DESC": "107.03.09版本",
+            "RES_DATE_UPDATE_META": "2018/03/09 13:42",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=46277&md5_url=569ea8f9d1a8fe3f003627af14652506",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=46277&md5_url=569ea8f9d1a8fe3f003627af14652506",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=46277&md5_url=569ea8f9d1a8fe3f003627af14652506",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=46277&md5_url=569ea8f9d1a8fe3f003627af14652506",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=46277&md5_url=569ea8f9d1a8fe3f003627af14652506"
+        }
+    ]
+}

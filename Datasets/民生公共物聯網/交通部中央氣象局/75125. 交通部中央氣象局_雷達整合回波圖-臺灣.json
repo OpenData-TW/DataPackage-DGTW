@@ -1,0 +1,68 @@
+{
+    "TITLE": "雷達整合回波圖-臺灣",
+    "NODE": "75125",
+    "DESC": "雷達整合回波圖-臺灣",
+    "SCHEMA": "雷達整合回波圖-臺灣",
+    "AGENCY": "交通部中央氣象局",
+    "AGENCY_CONTACT": "鄭 先生 (02-23491312)",
+    "UPDATE_FREQ": "即時",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2018/01/18",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2018/01/19 14:08",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "Stats": "瀏覽次數: 67 下載次數: 17 意見數: 0 ",
+    "VIEWS": "67",
+    "DOWNLOAD": "17",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "雷達整合回波圖-臺灣",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=O-A0058-004&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "臺灣(鄰近區域)_有地形",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:39"
+        },
+        {
+            "SCHEMA": "雷達整合回波圖-臺灣",
+            "RES_FILETYPE": "PDF",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://opendata.cwb.gov.tw/opendatadoc/MSC/A0058.pdf",
+            "RES_DESC": "雷達整合回波圖說明",
+            "RES_DATE_UPDATE_META": "2018/01/23 19:31"
+        },
+        {
+            "SCHEMA": "雷達整合回波圖-臺灣",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=O-A0058-001&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "臺灣(較大範圍)_無地形",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:39"
+        },
+        {
+            "SCHEMA": "雷達整合回波圖-臺灣",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=O-A0058-002&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "臺灣(較大範圍)_有地形",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:39"
+        },
+        {
+            "SCHEMA": "雷達整合回波圖-臺灣",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=O-A0058-003&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "臺灣(鄰近區域)_無地形",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:39"
+        }
+    ]
+}

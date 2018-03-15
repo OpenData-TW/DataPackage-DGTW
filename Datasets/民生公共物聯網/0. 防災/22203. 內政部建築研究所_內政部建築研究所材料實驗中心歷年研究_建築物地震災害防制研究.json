@@ -1,0 +1,50 @@
+{
+    "TITLE": "內政部建築研究所材料實驗中心歷年研究_建築物地震災害防制研究",
+    "NODE": "22203",
+    "DESC": "歷年研究_建築物地震災害防制研究",
+    "SCHEMA": [
+        "DATA_ID：資料ID",
+        "TYPE :類型",
+        "CAPTION：標題",
+        "UNIT：權責單位",
+        "PUB_DATE_E:西元年日期",
+        "PUB_DATE_C:民國年日期",
+        "CONTENT_TYPE：內容類型",
+        "CONTENT：本文",
+        "URL：連結",
+        "LINKS ：相關連結",
+        " FILES ：相關附件",
+        "CONTACT_NAME1：發表人",
+        " CONTACT_TEL1：發表人電話",
+        " CONTACT_NAME2：聯絡人",
+        " CONTACT_TEL2：聯絡電話",
+        " CONTACT_UNIT：發稿單位"
+    ],
+    "AGENCY": "內政部建築研究所",
+    "AGENCY_CONTACT": "嚴偉倫 先生 (89127890#322)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2015/09/22",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2015/09/25 13:55",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 524 下載次數: 41 意見數: 0 ",
+    "VIEWS": "524",
+    "DOWNLOAD": "41",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "DATA_ID：資料ID、TYPE :類型、CAPTION：標題、UNIT：權責單位、PUB_DATE_E:西元年日期、PUB_DATE_C:民國年日期、CONTENT_TYPE：內容類型、CONTENT：本文、URL：連結、LINKS ：相關連結、 FILES ：相關附件、CONTACT_NAME1：發表人、 CONTACT_TEL1：發表人電話、 CONTACT_NAME2：聯絡人、 CONTACT_TEL2：聯絡電話、 CONTACT_UNIT：發稿單位",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://data.moi.gov.tw/MoiOD/System/DownloadFile.aspx?DATA=4274E0A2-647A-4A9A-95AA-35526DAB269A",
+            "RES_DESC": "歷年研究_建築物地震災害防制研究",
+            "RES_DATE_UPDATE_META": "2018/02/21 11:58"
+        }
+    ]
+}

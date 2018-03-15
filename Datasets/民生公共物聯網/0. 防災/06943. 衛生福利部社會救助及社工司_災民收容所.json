@@ -1,0 +1,53 @@
+{
+    "TITLE": "災民收容所",
+    "NODE": "6943",
+    "DESC": "本資料主要提供災民收容所名稱、地址及座標(TWD97_X、TWD97_Y)。",
+    "SCHEMA": [
+        "災民收容所編號",
+        "災民收容所名稱",
+        "收容所縣市",
+        "收容所鄉鎮",
+        "收容所村里",
+        "收容所地址",
+        "經度",
+        "緯度",
+        "TWD97X軸",
+        "TWD97Y軸"
+    ],
+    "AGENCY": "衛生福利部社會救助及社工司",
+    "AGENCY_CONTACT": "楊小姐 (0285906622)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2013/12/05",
+    "DATA_TYPE": "原始資料",
+    "DATE_UPDATE_META": "2017/10/16 18:32",
+    "KEYWORDS": [
+        "衛生福利部",
+        "社工司",
+        "災民收容"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "http://www.mohw.gov.tw/files/災民收容所.xlsx",
+    "Stats": "瀏覽次數: 26206 下載次數: 2523 意見數: 5",
+    "VIEWS": "26206",
+    "DOWNLOAD": "2523",
+    "COMMENTS": "5",
+    "RESOURCE": [
+        {
+            "SCHEMA": "災民收容所編號、災民收容所名稱、收容所縣市、收容所鄉鎮、收容所村里、收容所地址、經度、緯度、TWD97X軸、TWD97Y軸",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "1000",
+            "RES_URL": "https://drive.google.com/uc?export=download&confirm=jeak&id=0B21MNCHGeP-gS1pfTmFPQjRSdjA",
+            "RES_DESC": "災民收容所",
+            "RES_DATE_UPDATE_META": "2017/11/30 22:47",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=6943&md5_url=316ca88625069564b8ea892733dacd7b",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=6943&md5_url=316ca88625069564b8ea892733dacd7b",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=6943&md5_url=316ca88625069564b8ea892733dacd7b",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=6943&md5_url=316ca88625069564b8ea892733dacd7b",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=6943&md5_url=316ca88625069564b8ea892733dacd7b"
+        }
+    ]
+}

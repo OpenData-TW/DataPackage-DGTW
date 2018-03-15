@@ -1,0 +1,39 @@
+{
+    "TITLE": "桃園市狹小巷弄列管清冊",
+    "NODE": "26074",
+    "DESC": "桃園市政府消防局搶救不易地區-狹小巷弄列管清冊，總計399處",
+    "SCHEMA": [
+        "行政區(桃園市十三個行政區)",
+        "狹小巷弄地址(狹小巷弄所在地址)"
+    ],
+    "AGENCY": "桃園市政府消防局",
+    "AGENCY_CONTACT": "彭先生 (03-3379119-302)",
+    "UPDATE_FREQ": "每季",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2015/10/07",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2018/03/08 11:02",
+    "KEYWORDS": [
+        "狹小巷弄",
+        "消防"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "說明:一、「紅區」係指巷道消防搶救「最困難」之地區。二、「狹小巷弄地址」係指道路寬度小於4公尺以下者。三、「受影響建築物地址」係指需利用此巷道進出救災，因而受影響之建築物。",
+    "Stats": "瀏覽次數: 1272 下載次數: 109 意見數: 1 ",
+    "VIEWS": "1272",
+    "DOWNLOAD": "109",
+    "COMMENTS": "1",
+    "RESOURCE": [
+        {
+            "SCHEMA": "行政區(桃園市十三個行政區)、狹小巷弄地址(狹小巷弄所在地址)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=65c58683-220f-4075-a555-f80c7e580e5e&rid=62b2e0f2-c19a-47ef-950e-1f30580b1b12",
+            "RES_DESC": "桃園市狹小巷弄列管清冊106年第4季",
+            "RES_DATE_UPDATE_META": "2018/03/01 13:49"
+        }
+    ]
+}

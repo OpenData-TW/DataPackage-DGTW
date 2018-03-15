@@ -1,0 +1,35 @@
+{
+    "TITLE": "106年12月火災出動人員、車輛、船艇、直升機",
+    "NODE": "75916",
+    "DESC": "106年12月火災出動人員、車輛、船艇、直升機",
+    "SCHEMA": "",
+    "AGENCY": "苗栗縣政府消防局",
+    "AGENCY_CONTACT": "陳小姐 (037-558119#1713)",
+    "UPDATE_FREQ": "每月",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2018/02/06",
+    "DATA_TYPE": "原始資料",
+    "DATE_UPDATE_META": "2018/02/07 11:50",
+    "KEYWORDS": [
+        "火災出動人員、車輛、船艇、直升機"
+    ],
+    "CATEGORY": "政府統計",
+    "SERVICE_TYPE": "公共資訊",
+    "相關網址": "https://www.mlfd.gov.tw/upload",
+    "Stats": "瀏覽次數: 11 下載次數: 0 意見數: 0 ",
+    "VIEWS": "11",
+    "DOWNLOAD": "0",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "",
+            "RES_FILETYPE": "PDF",
+            "RES_ENCODE": "其他",
+            "REC_COUNT": "0",
+            "RES_URL": "https://www.mlfd.gov.tw/upload/火災出動人員、車輛、船艇、直升機10612.pdf",
+            "RES_DESC": "火災出動人員、車輛、船艇、直升機10612",
+            "RES_DATE_UPDATE_META": "2018/02/06 17:16"
+        }
+    ]
+}

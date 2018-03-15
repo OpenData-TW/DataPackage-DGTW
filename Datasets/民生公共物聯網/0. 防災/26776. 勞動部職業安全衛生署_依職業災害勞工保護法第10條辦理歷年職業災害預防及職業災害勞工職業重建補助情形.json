@@ -1,0 +1,42 @@
+{
+    "TITLE": "依職業災害勞工保護法第10條辦理歷年職業災害預防及職業災害勞工職業重建補助情形",
+    "NODE": "26776",
+    "DESC": "依職業災害勞工保護法第10條歷年（91-104年）辦理職業災害預防及職業災害勞工職業重建補助情形",
+    "SCHEMA": [
+        "計畫名稱",
+        "計畫類別",
+        "單位名稱",
+        "主持人",
+        "辦理期間",
+        "補助金額"
+    ],
+    "AGENCY": "勞動部職業安全衛生署",
+    "AGENCY_CONTACT": "林宏勳 先生 (02-89956666-8160)",
+    "UPDATE_FREQ": "每年",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/01/30",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2016/01/20 12:38",
+    "KEYWORDS": [
+        "職業災害勞工保護法,職業災害預防,職業災害勞工職業重建,補助"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 661 下載次數: 45 意見數: 0 ",
+    "VIEWS": "661",
+    "DOWNLOAD": "45",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "計畫名稱、計畫類別、單位名稱、主持人、辦理期間、補助金額",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/download/A17040000J-000019-ovg",
+            "RES_DESC": "91-106年補助情形",
+            "RES_DATE_UPDATE_META": "2017/12/25 14:04"
+        }
+    ]
+}

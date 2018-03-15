@@ -1,0 +1,41 @@
+{
+    "TITLE": "臺北市職業災害資訊",
+    "NODE": "73831",
+    "DESC": "臺北市職業災害資訊",
+    "SCHEMA": [
+        "編號",
+        "案號",
+        "罹災狀況",
+        "災害類型",
+        "行業別(原事業單位)",
+        "罹災時作業類別",
+        "教育訓練",
+        "投保情形"
+    ],
+    "AGENCY": "臺北市勞動檢查處",
+    "AGENCY_CONTACT": "蘇鵬楠 (2596998)",
+    "UPDATE_FREQ": "每年",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2014/03/26",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2015/03/13 03:56",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "Stats": "瀏覽次數: 15 下載次數: 0 意見數: 0",
+    "VIEWS": "15",
+    "DOWNLOAD": "0",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "編號、案號、罹災狀況、災害類型、行業別(原事業單位)、罹災時作業類別、教育訓練、投保情形",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "其他",
+            "REC_COUNT": "0",
+            "RES_URL": "http://www.doli.taipei.gov.tw/lp.asp?ctNode=43068&CtUnit=7300&BaseDSD=7&mp=116021",
+            "RES_DESC": "臺北市職業災害資訊",
+            "RES_DATE_UPDATE_META": "2015/03/12 19:56"
+        }
+    ]
+}

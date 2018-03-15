@@ -1,0 +1,334 @@
+{
+    "TITLE": "臺北市空氣中總懸浮微粒及落塵量檢驗結果統計",
+    "NODE": "61887",
+    "DESC": "提供臺北市空氣中總懸浮微粒及落塵量檢驗結果統計",
+    "SCHEMA": [
+        "測站名稱",
+        "測站編號",
+        "總懸浮微粒(起訖時間",
+        "天候",
+        "TSP",
+        "PM10",
+        "正己烷抽出物",
+        "氯鹽",
+        "硝酸鹽",
+        "鉛)",
+        "落塵量(起訖日期",
+        "數據)",
+        " "
+    ],
+    "AGENCY": "臺北市政府環境保護局",
+    "AGENCY_CONTACT": "卓昕岑 (02-28237026)",
+    "UPDATE_FREQ": "每季",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2015/05/12",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2018/01/18 21:09",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "Stats": "瀏覽次數: 53 下載次數: 60 意見數: 0 ",
+    "VIEWS": "53",
+    "DOWNLOAD": "60",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "測站名稱、測站編號、總懸浮微粒(起訖時間、天候、TSP、PM10、正己烷抽出物、氯鹽、硝酸鹽、鉛)、落塵量(起訖日期、數據)、 ",
+            "RES_FILETYPE": "ODS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=6f25323a-15f6-4e8e-a625-646e3c8d9e97&rid=a4b4779f-a978-4250-aa01-689f7e4d4958",
+            "RES_DESC": "104年1月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計",
+            "RES_DATE_UPDATE_META": "2016/08/04 10:50"
+        },
+        {
+            "SCHEMA": "測站名稱、測站編號、總懸浮微粒(起訖時間、天候、TSP、PM10、正己烷抽出物、氯鹽、硝酸鹽、鉛)、落塵量(起訖日期、數據)、 ",
+            "RES_FILETYPE": "ODS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=6f25323a-15f6-4e8e-a625-646e3c8d9e97&rid=f45585e6-8844-4bcd-99c8-e7bed6592ca8",
+            "RES_DESC": "104年2月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計",
+            "RES_DATE_UPDATE_META": "2016/08/04 10:50"
+        },
+        {
+            "SCHEMA": "測站名稱、測站編號、總懸浮微粒(起訖時間、天候、TSP、PM10、正己烷抽出物、氯鹽、硝酸鹽、鉛)、落塵量(起訖日期、數據)、 ",
+            "RES_FILETYPE": "ODS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=6f25323a-15f6-4e8e-a625-646e3c8d9e97&rid=653d2046-0f05-4b9e-b1d5-3dec93ac08d6",
+            "RES_DESC": "104年3月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計",
+            "RES_DATE_UPDATE_META": "2016/08/04 10:51"
+        },
+        {
+            "SCHEMA": "測站名稱、測站編號、總懸浮微粒(起訖時間、天候、TSP、PM10、正己烷抽出物、氯鹽、硝酸鹽、鉛)、落塵量(起訖日期、數據)、 ",
+            "RES_FILETYPE": "ODS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=6f25323a-15f6-4e8e-a625-646e3c8d9e97&rid=24d7aed0-42d0-41be-b85e-951832e5ba52",
+            "RES_DESC": "104年4月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計",
+            "RES_DATE_UPDATE_META": "2016/08/04 10:51"
+        },
+        {
+            "SCHEMA": "測站名稱、測站編號、總懸浮微粒(起訖時間、天候、TSP、PM10、正己烷抽出物、氯鹽、硝酸鹽、鉛)、落塵量(起訖日期、數據)、 ",
+            "RES_FILETYPE": "ODS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=6f25323a-15f6-4e8e-a625-646e3c8d9e97&rid=2c33bcf4-f5b8-4a84-a6c3-5138423b7457",
+            "RES_DESC": "104年5月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計",
+            "RES_DATE_UPDATE_META": "2016/08/04 10:51"
+        },
+        {
+            "SCHEMA": "測站名稱、測站編號、總懸浮微粒(起訖時間、天候、TSP、PM10、正己烷抽出物、氯鹽、硝酸鹽、鉛)、落塵量(起訖日期、數據)、 ",
+            "RES_FILETYPE": "ODS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=6f25323a-15f6-4e8e-a625-646e3c8d9e97&rid=4456565b-1347-4cb4-bbfe-0184b1985430",
+            "RES_DESC": "104年6月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計",
+            "RES_DATE_UPDATE_META": "2016/08/04 10:51"
+        },
+        {
+            "SCHEMA": "測站名稱、測站編號、總懸浮微粒(起訖時間、天候、TSP、PM10、正己烷抽出物、氯鹽、硝酸鹽、鉛)、落塵量(起訖日期、數據)、 ",
+            "RES_FILETYPE": "ODS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=6f25323a-15f6-4e8e-a625-646e3c8d9e97&rid=1f2193c1-7c22-465e-88af-4875336b02fa",
+            "RES_DESC": "104年7月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計",
+            "RES_DATE_UPDATE_META": "2016/08/04 10:51"
+        },
+        {
+            "SCHEMA": "測站名稱、測站編號、總懸浮微粒(起訖時間、天候、TSP、PM10、正己烷抽出物、氯鹽、硝酸鹽、鉛)、落塵量(起訖日期、數據)、 ",
+            "RES_FILETYPE": "ODS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=6f25323a-15f6-4e8e-a625-646e3c8d9e97&rid=450bf86f-ec70-4dd7-b793-aabc25e76347",
+            "RES_DESC": "104年8月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計",
+            "RES_DATE_UPDATE_META": "2016/08/04 10:51"
+        },
+        {
+            "SCHEMA": "測站名稱、測站編號、總懸浮微粒(起訖時間、天候、TSP、PM10、正己烷抽出物、氯鹽、硝酸鹽、鉛)、落塵量(起訖日期、數據)、 ",
+            "RES_FILETYPE": "ODS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=6f25323a-15f6-4e8e-a625-646e3c8d9e97&rid=ac581800-dc8b-4a55-9337-0b1fb2de2916",
+            "RES_DESC": "104年9月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計",
+            "RES_DATE_UPDATE_META": "2016/08/04 10:51"
+        },
+        {
+            "SCHEMA": "測站名稱、測站編號、總懸浮微粒(起訖時間、天候、TSP、PM10、正己烷抽出物、氯鹽、硝酸鹽、鉛)、落塵量(起訖日期、數據)、 ",
+            "RES_FILETYPE": "ODS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=6f25323a-15f6-4e8e-a625-646e3c8d9e97&rid=1426ac69-855c-430f-8e8e-1ea00ab0d1b0",
+            "RES_DESC": "104年10月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計",
+            "RES_DATE_UPDATE_META": "2016/08/04 10:52"
+        },
+        {
+            "SCHEMA": "測站名稱、測站編號、總懸浮微粒(起訖時間、天候、TSP、PM10、正己烷抽出物、氯鹽、硝酸鹽、鉛)、落塵量(起訖日期、數據)、 ",
+            "RES_FILETYPE": "ODS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=6f25323a-15f6-4e8e-a625-646e3c8d9e97&rid=00335fa9-051d-4ed5-8ebc-805ed12024ef",
+            "RES_DESC": "104年11月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計",
+            "RES_DATE_UPDATE_META": "2016/08/04 10:52"
+        },
+        {
+            "SCHEMA": "測站名稱、測站編號、總懸浮微粒(起訖時間、天候、TSP、PM10、正己烷抽出物、氯鹽、硝酸鹽、鉛)、落塵量(起訖日期、數據)、 ",
+            "RES_FILETYPE": "ODS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=6f25323a-15f6-4e8e-a625-646e3c8d9e97&rid=d0e1e35a-fdb9-427b-b8c1-55e25883ae53",
+            "RES_DESC": "104年12月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計",
+            "RES_DATE_UPDATE_META": "2016/08/04 10:52"
+        },
+        {
+            "SCHEMA": "測站名稱、測站編號、總懸浮微粒(起訖時間、天候、TSP、PM10、正己烷抽出物、氯鹽、硝酸鹽、鉛)、落塵量(起訖日期、數據)、 ",
+            "RES_FILETYPE": "ODS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=6f25323a-15f6-4e8e-a625-646e3c8d9e97&rid=bdc894d3-bf4d-4f9e-bf82-20dce3846afc",
+            "RES_DESC": "105年1月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計",
+            "RES_DATE_UPDATE_META": "2016/08/04 10:52"
+        },
+        {
+            "SCHEMA": "測站名稱、測站編號、總懸浮微粒(起訖時間、天候、TSP、PM10、正己烷抽出物、氯鹽、硝酸鹽、鉛)、落塵量(起訖日期、數據)、 ",
+            "RES_FILETYPE": "ODS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=6f25323a-15f6-4e8e-a625-646e3c8d9e97&rid=b3082036-7fd0-44d4-af4e-1fef199875e6",
+            "RES_DESC": "105年2月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計",
+            "RES_DATE_UPDATE_META": "2016/08/04 10:52"
+        },
+        {
+            "SCHEMA": "測站名稱、測站編號、總懸浮微粒(起訖時間、天候、TSP、PM10、正己烷抽出物、氯鹽、硝酸鹽、鉛)、落塵量(起訖日期、數據)、 ",
+            "RES_FILETYPE": "ODS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=6f25323a-15f6-4e8e-a625-646e3c8d9e97&rid=0c5969a3-efd6-4864-a9bc-12816627c0f4",
+            "RES_DESC": "105年3月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計",
+            "RES_DATE_UPDATE_META": "2016/08/04 10:52"
+        },
+        {
+            "SCHEMA": "測站名稱、測站編號、總懸浮微粒(起訖時間、天候、TSP、PM10、正己烷抽出物、氯鹽、硝酸鹽、鉛)、落塵量(起訖日期、數據)、 ",
+            "RES_FILETYPE": "ODS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=6f25323a-15f6-4e8e-a625-646e3c8d9e97&rid=2ac7e2b1-3063-4c96-abec-c93a5edaf33a",
+            "RES_DESC": "105年4月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計",
+            "RES_DATE_UPDATE_META": "2016/08/04 10:52"
+        },
+        {
+            "SCHEMA": "測站名稱、測站編號、總懸浮微粒(起訖時間、天候、TSP、PM10、正己烷抽出物、氯鹽、硝酸鹽、鉛)、落塵量(起訖日期、數據)、 ",
+            "RES_FILETYPE": "ODS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=6f25323a-15f6-4e8e-a625-646e3c8d9e97&rid=d82dcb6f-b04b-42c8-a393-09ea8f8f9a5f",
+            "RES_DESC": "105年5月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計",
+            "RES_DATE_UPDATE_META": "2016/08/04 10:52"
+        },
+        {
+            "SCHEMA": "測站名稱、測站編號、總懸浮微粒(起訖時間、天候、TSP、PM10、正己烷抽出物、氯鹽、硝酸鹽、鉛)、落塵量(起訖日期、數據)、 ",
+            "RES_FILETYPE": "ODS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=6f25323a-15f6-4e8e-a625-646e3c8d9e97&rid=7af3fa5a-34d2-485d-b34c-94c17940779b",
+            "RES_DESC": "105年6月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計",
+            "RES_DATE_UPDATE_META": "2016/08/18 14:23"
+        },
+        {
+            "SCHEMA": "測站名稱、測站編號、總懸浮微粒(起訖時間、天候、TSP、PM10、正己烷抽出物、氯鹽、硝酸鹽、鉛)、落塵量(起訖日期、數據)、 ",
+            "RES_FILETYPE": "ODS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=6f25323a-15f6-4e8e-a625-646e3c8d9e97&rid=0b08d8fa-a98f-4317-b7dd-913070608890",
+            "RES_DESC": "105年7月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計",
+            "RES_DATE_UPDATE_META": "2016/08/18 14:23"
+        },
+        {
+            "SCHEMA": "測站名稱、測站編號、總懸浮微粒(起訖時間、天候、TSP、PM10、正己烷抽出物、氯鹽、硝酸鹽、鉛)、落塵量(起訖日期、數據)、 ",
+            "RES_FILETYPE": "ODS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=6f25323a-15f6-4e8e-a625-646e3c8d9e97&rid=9c011fa2-858c-4e4f-b89b-e18e16b02b79",
+            "RES_DESC": "105年8月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計",
+            "RES_DATE_UPDATE_META": "2016/09/19 14:42"
+        },
+        {
+            "SCHEMA": "測站名稱、測站編號、總懸浮微粒(起訖時間、天候、TSP、PM10、正己烷抽出物、氯鹽、硝酸鹽、鉛)、落塵量(起訖日期、數據)、 ",
+            "RES_FILETYPE": "ODS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=6f25323a-15f6-4e8e-a625-646e3c8d9e97&rid=3a1da780-8087-4477-8fa9-55544946b7fd",
+            "RES_DESC": "105年9月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計",
+            "RES_DATE_UPDATE_META": "2016/10/18 08:58"
+        },
+        {
+            "SCHEMA": "測站名稱、測站編號、總懸浮微粒(起訖時間、天候、TSP、PM10、正己烷抽出物、氯鹽、硝酸鹽、鉛)、落塵量(起訖日期、數據)、 ",
+            "RES_FILETYPE": "ODS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=6f25323a-15f6-4e8e-a625-646e3c8d9e97&rid=6af8e612-8c8f-498e-b658-63c178c76758",
+            "RES_DESC": "105年10月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計",
+            "RES_DATE_UPDATE_META": "2016/11/23 08:42"
+        },
+        {
+            "SCHEMA": "測站名稱、測站編號、總懸浮微粒(起訖時間、天候、TSP、PM10、正己烷抽出物、氯鹽、硝酸鹽、鉛)、落塵量(起訖日期、數據)、 ",
+            "RES_FILETYPE": "ODS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=6f25323a-15f6-4e8e-a625-646e3c8d9e97&rid=153e69fb-2151-4026-9868-6e9ec564e936",
+            "RES_DESC": "105年11月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計",
+            "RES_DATE_UPDATE_META": "2016/12/16 11:26"
+        },
+        {
+            "SCHEMA": "測站名稱、測站編號、總懸浮微粒(起訖時間、天候、TSP、PM10、正己烷抽出物、氯鹽、硝酸鹽、鉛)、落塵量(起訖日期、數據)、 ",
+            "RES_FILETYPE": "ODS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=6f25323a-15f6-4e8e-a625-646e3c8d9e97&rid=df52d4a1-117b-4955-863c-43c75f941364",
+            "RES_DESC": "105年12月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計",
+            "RES_DATE_UPDATE_META": "2017/01/16 14:40"
+        },
+        {
+            "SCHEMA": "測站名稱、測站編號、總懸浮微粒(起訖時間、天候、TSP、PM10、正己烷抽出物、氯鹽、硝酸鹽、鉛)、落塵量(起訖日期、數據)、 ",
+            "RES_FILETYPE": "ODS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=6f25323a-15f6-4e8e-a625-646e3c8d9e97&rid=e65b993b-154c-463f-9f7a-c0adf48a5512",
+            "RES_DESC": "106年1月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計 ",
+            "RES_DATE_UPDATE_META": "2017/02/14 11:04"
+        },
+        {
+            "SCHEMA": "測站名稱、測站編號、總懸浮微粒(起訖時間、天候、TSP、PM10、正己烷抽出物、氯鹽、硝酸鹽、鉛)、落塵量(起訖日期、數據)、 ",
+            "RES_FILETYPE": "ODS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=6f25323a-15f6-4e8e-a625-646e3c8d9e97&rid=2b6cef30-d453-41bd-a69b-4ebde3177294",
+            "RES_DESC": "106年2月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計   ",
+            "RES_DATE_UPDATE_META": "2017/03/17 16:20"
+        },
+        {
+            "SCHEMA": "測站名稱、測站編號、總懸浮微粒(起訖時間、天候、TSP、PM10、正己烷抽出物、氯鹽、硝酸鹽、鉛)、落塵量(起訖日期、數據)、 ",
+            "RES_FILETYPE": "ODS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=6f25323a-15f6-4e8e-a625-646e3c8d9e97&rid=dc471ae7-5a53-4d5b-a537-7e0e8b74309c",
+            "RES_DESC": "106年3月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計",
+            "RES_DATE_UPDATE_META": "2017/04/20 09:28"
+        },
+        {
+            "SCHEMA": "測站名稱、測站編號、總懸浮微粒(起訖時間、天候、TSP、PM10、正己烷抽出物、氯鹽、硝酸鹽、鉛)、落塵量(起訖日期、數據)、 ",
+            "RES_FILETYPE": "ODS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=6f25323a-15f6-4e8e-a625-646e3c8d9e97&rid=ffc8735d-337a-4abd-a063-e27067308eaa",
+            "RES_DESC": "106年4月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計 ",
+            "RES_DATE_UPDATE_META": "2017/05/22 11:06"
+        },
+        {
+            "SCHEMA": "測站名稱、測站編號、總懸浮微粒(起訖時間、天候、TSP、PM10、正己烷抽出物、氯鹽、硝酸鹽、鉛)、落塵量(起訖日期、數據)、 ",
+            "RES_FILETYPE": "ODS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=6f25323a-15f6-4e8e-a625-646e3c8d9e97&rid=3f57e4b6-a5e4-4e26-9d0f-e31de1cfdd54",
+            "RES_DESC": "106年5月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計",
+            "RES_DATE_UPDATE_META": "2017/06/20 09:38"
+        },
+        {
+            "SCHEMA": "測站名稱、測站編號、總懸浮微粒(起訖時間、天候、TSP、PM10、正己烷抽出物、氯鹽、硝酸鹽、鉛)、落塵量(起訖日期、數據)、 ",
+            "RES_FILETYPE": "ODS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=6f25323a-15f6-4e8e-a625-646e3c8d9e97&rid=22bbb2ef-b65e-462d-b713-817b1753e6ea",
+            "RES_DESC": "106年6月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計",
+            "RES_DATE_UPDATE_META": "2017/11/14 14:10"
+        },
+        {
+            "SCHEMA": "測站名稱、測站編號、總懸浮微粒(起訖時間、天候、TSP、PM10、正己烷抽出物、氯鹽、硝酸鹽、鉛)、落塵量(起訖日期、數據)、 ",
+            "RES_FILETYPE": "ODS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=6f25323a-15f6-4e8e-a625-646e3c8d9e97&rid=8cdc690b-296a-4a6e-acbf-67771c843935",
+            "RES_DESC": "106年7月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計",
+            "RES_DATE_UPDATE_META": "2017/11/14 14:10"
+        },
+        {
+            "SCHEMA": "測站名稱、測站編號、總懸浮微粒(起訖時間、天候、TSP、PM10、正己烷抽出物、氯鹽、硝酸鹽、鉛)、落塵量(起訖日期、數據)、 ",
+            "RES_FILETYPE": "ODS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=6f25323a-15f6-4e8e-a625-646e3c8d9e97&rid=eb2fbab0-a4a6-43f0-b42f-cf81fffae2cc",
+            "RES_DESC": "106年8月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計",
+            "RES_DATE_UPDATE_META": "2017/11/14 14:11"
+        },
+        {
+            "SCHEMA": "測站名稱、測站編號、總懸浮微粒(起訖時間、天候、TSP、PM10、正己烷抽出物、氯鹽、硝酸鹽、鉛)、落塵量(起訖日期、數據)、 ",
+            "RES_FILETYPE": "ODS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=6f25323a-15f6-4e8e-a625-646e3c8d9e97&rid=0480daed-72e9-4569-b0b7-e2f47d8069eb",
+            "RES_DESC": "106年9月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計",
+            "RES_DATE_UPDATE_META": "2017/11/14 14:11"
+        }
+    ]
+}

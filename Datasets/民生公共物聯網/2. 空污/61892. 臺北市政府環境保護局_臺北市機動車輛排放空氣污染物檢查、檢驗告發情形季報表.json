@@ -1,0 +1,95 @@
+{
+    "TITLE": "臺北市機動車輛排放空氣污染物檢查、檢驗告發情形季報表",
+    "NODE": "61892",
+    "DESC": "統計本市每季機動車輛排放空氣污染物檢查、檢驗告發情形",
+    "SCHEMA": "污染類別及車輛別",
+    "AGENCY": "臺北市政府環境保護局",
+    "AGENCY_CONTACT": "柯明慧 (02-27208889-7236)",
+    "UPDATE_FREQ": "每季",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2015/08/03",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2018/01/18 21:10",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "Stats": "瀏覽次數: 37 下載次數: 14 意見數: 0 ",
+    "VIEWS": "37",
+    "DOWNLOAD": "14",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "污染類別及車輛別",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=554969c2-77cf-4b82-b48a-e18e182ae1d9&rid=dc389c3f-5d30-46ba-bfb4-80a4ee9c6ba7",
+            "RES_DESC": "104年第1季 臺北市機動車輛排放空氣污染物檢查、檢驗告發情形  ",
+            "RES_DATE_UPDATE_META": "2015/08/03 14:39"
+        },
+        {
+            "SCHEMA": "污染類別及車輛別",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=554969c2-77cf-4b82-b48a-e18e182ae1d9&rid=79affacc-60e0-4f7d-80c3-de2f481868a7",
+            "RES_DESC": "104年第2季 臺北市機動車輛排放空氣污染物檢查、檢驗告發情形  ",
+            "RES_DATE_UPDATE_META": "2015/08/03 14:40"
+        },
+        {
+            "SCHEMA": "污染類別及車輛別",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=554969c2-77cf-4b82-b48a-e18e182ae1d9&rid=6281f68d-e506-4efc-b2d5-c3c4efa2d79f",
+            "RES_DESC": "104年第3季臺北市機動車輛排放空氣污染物檢查、檢驗告發情形",
+            "RES_DATE_UPDATE_META": "2016/02/25 12:34"
+        },
+        {
+            "SCHEMA": "污染類別及車輛別",
+            "RES_FILETYPE": "XLSX",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=554969c2-77cf-4b82-b48a-e18e182ae1d9&rid=8b2e83e5-9792-41ec-a408-77ec2b1dd9d0",
+            "RES_DESC": "104年第4季臺北市機動車輛排放空氣污染物檢查、檢驗告發情形",
+            "RES_DATE_UPDATE_META": "2016/02/25 12:34"
+        },
+        {
+            "SCHEMA": "污染類別及車輛別",
+            "RES_FILETYPE": "XLSX",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=554969c2-77cf-4b82-b48a-e18e182ae1d9&rid=10e94047-f394-46f7-82ea-78f400023108",
+            "RES_DESC": "105年第1季 臺北市機動車輛排放空氣污染物檢查、檢驗告發情形",
+            "RES_DATE_UPDATE_META": "2016/06/01 11:18"
+        },
+        {
+            "SCHEMA": "污染類別及車輛別",
+            "RES_FILETYPE": "ODS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=554969c2-77cf-4b82-b48a-e18e182ae1d9&rid=b2482c3d-bfcf-40ae-8883-1ec068a29126",
+            "RES_DESC": "105年第2季臺北市機動車輛排放空氣污染物檢查、檢驗告發情形",
+            "RES_DATE_UPDATE_META": "2017/02/13 09:20"
+        },
+        {
+            "SCHEMA": "污染類別及車輛別",
+            "RES_FILETYPE": "ODS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=554969c2-77cf-4b82-b48a-e18e182ae1d9&rid=fe1eaa5a-12c5-4e7b-887b-a7d8736c3504",
+            "RES_DESC": "105年第3季臺北市機動車輛排放空氣污染物檢查、檢驗告發情形",
+            "RES_DATE_UPDATE_META": "2017/02/13 09:21"
+        },
+        {
+            "SCHEMA": "污染類別及車輛別",
+            "RES_FILETYPE": "ODS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=554969c2-77cf-4b82-b48a-e18e182ae1d9&rid=5e570da2-e939-4639-8691-678a476c6d62",
+            "RES_DESC": "105年第4季臺北市機動車輛排放空氣污染物檢查、檢驗告發情形",
+            "RES_DATE_UPDATE_META": "2017/02/13 09:23"
+        }
+    ]
+}

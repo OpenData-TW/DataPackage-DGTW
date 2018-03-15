@@ -1,0 +1,46 @@
+{
+    "TITLE": "波浪統計-臺灣海域各地浪高週期波向觀測月統計",
+    "NODE": "33535",
+    "DESC": "臺灣海域各地浪高週期波向觀測月統計",
+    "SCHEMA": [
+        "測站名稱",
+        "測站代碼",
+        "經緯度",
+        "西元年月",
+        "觀測次數",
+        "最大示性波高波高",
+        "最大示性波高尖峰週期",
+        "最大示性波高主波向",
+        "最大示性波高發生時間",
+        "平均示性波高",
+        "平均週期",
+        "示性波高分佈"
+    ],
+    "AGENCY": "交通部中央氣象局",
+    "AGENCY_CONTACT": "陳先生 (0223491316)",
+    "UPDATE_FREQ": "每年",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/07/29",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2016/07/29 15:43",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 875 下載次數: 102 意見數: 0 ",
+    "VIEWS": "875",
+    "DOWNLOAD": "102",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "測站名稱、測站代碼、經緯度、西元年月、觀測次數、最大示性波高波高、最大示性波高尖峰週期、最大示性波高主波向、最大示性波高發生時間、平均示性波高、平均週期、示性波高分佈",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "2300",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=C-B0049-001&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "臺灣海域各地浪高週期波向觀測月統計",
+            "RES_DATE_UPDATE_META": "2018/02/12 14:54"
+        }
+    ]
+}

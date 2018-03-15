@@ -1,0 +1,39 @@
+{
+    "TITLE": "臺南市災害警戒",
+    "NODE": "53614",
+    "DESC": "本資料集提供臺南市災害警戒相關資料",
+    "SCHEMA": [
+        "淹水",
+        "降雨",
+        "河川高水位",
+        "水庫洩洪",
+        "土石流等警戒資訊"
+    ],
+    "AGENCY": "臺南市政府",
+    "AGENCY_CONTACT": "許先生 ( (06)6322231#6052)",
+    "UPDATE_FREQ": "即時",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2015/08/13",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/11/28 11:32",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "相關網址": "http://data.tainan.gov.tw/dataset/disaster-alerts",
+    "Stats": "瀏覽次數: 34 下載次數: 3 意見數: 0 ",
+    "VIEWS": "34",
+    "DOWNLOAD": "3",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "淹水、降雨、河川高水位、水庫洩洪、土石流等警戒資訊",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "其他",
+            "REC_COUNT": "0",
+            "RES_URL": "http://data.tainan.gov.tw/dataset/8b063457-8da8-485f-a2ae-61d7f2d5b351/resource/b5415b22-93fd-4b44-82c0-ef56c7794657/download/https://alerts.ncdr.nat.gov.tw/RssAtomFeed.ashx?County=臺南市",
+            "RES_DESC": "臺南市災害警戒",
+            "RES_DATE_UPDATE_META": "2015/07/23 23:18"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "TITLE": "106年臺中市污水下水道用戶接管普及率及污水處理率統計一覽表(依各月人口資料)",
+    "NODE": "57452",
+    "DESC": "提供106年臺中市污水下水道用戶接管普及率及污水處理率統計一覽表(依各月人口資料)",
+    "SCHEMA": [
+        "月份",
+        "公共污水下水道普及率(%)",
+        "專用污水下水道普及率(%)",
+        "建築物污水設施設置率(%)",
+        "污水處理率合計(%)"
+    ],
+    "AGENCY": "臺中市政府水利局‧防災工程科",
+    "AGENCY_CONTACT": "林玠佑 (04-22289111#53889)",
+    "UPDATE_FREQ": "每月",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/10/18",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2018/01/23 01:09",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "Stats": "瀏覽次數: 66 下載次數: 17 意見數: 0 ",
+    "VIEWS": "66",
+    "DOWNLOAD": "17",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "月份、公共污水下水道普及率(%)、專用污水下水道普及率(%)、建築物污水設施設置率(%)、污水處理率合計(%)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://data.taichung.gov.tw:80/wSite/public/data/f1508317074002.csv",
+            "RES_DESC": "提供CSV格式",
+            "RES_DATE_UPDATE_META": "2017/12/08 17:38",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=57452&md5_url=b36880d01dea36d0ec38af72f2cc5e86",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=57452&md5_url=b36880d01dea36d0ec38af72f2cc5e86",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=57452&md5_url=b36880d01dea36d0ec38af72f2cc5e86",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=57452&md5_url=b36880d01dea36d0ec38af72f2cc5e86",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=57452&md5_url=b36880d01dea36d0ec38af72f2cc5e86"
+        }
+    ]
+}

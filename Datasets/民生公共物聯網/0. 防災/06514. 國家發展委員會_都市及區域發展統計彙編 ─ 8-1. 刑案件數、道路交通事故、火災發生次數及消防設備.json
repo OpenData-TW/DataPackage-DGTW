@@ -1,0 +1,60 @@
+{
+    "TITLE": "都市及區域發展統計彙編 ─ 8-1. 刑案件數、道路交通事故、火災發生次數及消防設備",
+    "NODE": "6514",
+    "DESC": "刑案件數、道路交通事故、火災發生次數及消防設備",
+    "SCHEMA": [
+        "年",
+        "地區",
+        "刑案發生件數",
+        "嫌疑人犯總數",
+        "嫌疑少年犯數",
+        "每萬人刑案發生件數",
+        "道路交通事故肇事件數",
+        "道路交通事故死亡人數",
+        "道路交通事故受傷人數",
+        "每萬人道路交通事故件數",
+        "火災發生次數",
+        "每萬人火災發生次數",
+        "消防車輛",
+        "消防人員",
+        "每萬人消防車輛",
+        "每萬人消防人員"
+    ],
+    "AGENCY": "國家發展委員會",
+    "AGENCY_CONTACT": "曾小姐 (0223165352)",
+    "UPDATE_FREQ": "每年",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2013/10/29",
+    "DATA_TYPE": "原始資料",
+    "DATE_UPDATE_META": "2018/01/08 15:43",
+    "KEYWORDS": [
+        "都市",
+        "區域",
+        "統計"
+    ],
+    "CATEGORY": "政府統計",
+    "SERVICE_TYPE": "公共資訊",
+    "相關網址": "http://www.ndc.gov.tw/News_Content.aspx?n=8A33013523400F35&sms=F8268BD0430ADC36&...",
+    "NOTES": "http://statistic.ngis.org.tw",
+    "Stats": "授權說明網址: http://data.gov.tw/license",
+    "VIEWS": "瀏覽次數: 3105 下載次數: 286 意見數: 1",
+    "DOWNLOAD": "3105",
+    "COMMENTS": "286",
+    "RESOURCE": [
+        {
+            "SCHEMA": "年、地區、刑案發生件數、嫌疑人犯總數、嫌疑少年犯數、每萬人刑案發生件數、道路交通事故肇事件數、道路交通事故死亡人數、道路交通事故受傷人數、每萬人道路交通事故件數、火災發生次數、每萬人火災發生次數、消防車輛、消防人員、每萬人消防車輛、每萬人消防人員",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "29",
+            "RES_URL": "http://ws.ndc.gov.tw/001/administrator/10/relfile/5781/6396/0019828_86.csv",
+            "RES_DESC": "都市及區域發展統計彙編，原則以前一年底資料為主，如無前一年底資料則採用最新一期資料",
+            "RES_DATE_UPDATE_META": "2017/11/15 18:24",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=6514&md5_url=43625d4ba37f2e415547277d5389a31d",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=6514&md5_url=43625d4ba37f2e415547277d5389a31d",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=6514&md5_url=43625d4ba37f2e415547277d5389a31d",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=6514&md5_url=43625d4ba37f2e415547277d5389a31d",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=6514&md5_url=43625d4ba37f2e415547277d5389a31d"
+        }
+    ]
+}

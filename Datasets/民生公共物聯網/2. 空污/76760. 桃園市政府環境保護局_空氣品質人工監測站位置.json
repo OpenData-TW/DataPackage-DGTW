@@ -1,0 +1,34 @@
+{
+    "TITLE": "空氣品質人工監測站位置",
+    "NODE": "76760",
+    "DESC": "彙整空氣品質人工監測站設置位置及監測項目",
+    "SCHEMA": "彙整桃園市轄內空氣品質人工監測站設置位置及監測項目",
+    "AGENCY": "桃園市政府環境保護局",
+    "AGENCY_CONTACT": "林慧美 (03-4331718#610)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2018/01/22",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2018/01/22 15:19",
+    "KEYWORDS": [
+        "空氣品質人工監測站位置"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "Stats": "瀏覽次數: 10 下載次數: 1 意見數: 0 ",
+    "VIEWS": "10",
+    "DOWNLOAD": "1",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "彙整桃園市轄內空氣品質人工監測站設置位置及監測項目",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=53f8737c-f037-4f35-a4ab-7636bed46641&rid=85fdde49-f14a-4dd6-ba20-7e29a00bc8b6",
+            "RES_DESC": "彙整空氣品質人工監測站位置及監測項目",
+            "RES_DATE_UPDATE_META": "2018/01/22 10:04"
+        }
+    ]
+}

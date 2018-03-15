@@ -1,0 +1,48 @@
+{
+    "TITLE": "海嘯資訊資料",
+    "NODE": "7774",
+    "DESC": "提供海嘯資料",
+    "SCHEMA": [
+        "海嘯編號",
+        "報文編號",
+        "發布時間",
+        "報文內容",
+        "警戒區預估資訊"
+    ],
+    "AGENCY": "交通部中央氣象局",
+    "AGENCY_CONTACT": "林先生 (0223491351)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2015/12/29",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2014/05/05 09:40",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 3500 下載次數: 610 意見數: 0 ",
+    "VIEWS": "3500",
+    "DOWNLOAD": "610",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "海嘯編號、報文編號、發布時間、報文內容、警戒區預估資訊",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "1",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=E-A0014-001R&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": " ",
+            "RES_DATE_UPDATE_META": "2017/12/09 04:39"
+        },
+        {
+            "SCHEMA": "海嘯編號、報文編號、發布時間、報文內容、警戒區預估資訊",
+            "RES_FILETYPE": "PDF",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "1",
+            "RES_URL": "http://opendata.cwb.gov.tw/opendatadoc/SC/A0014-001-1.pdf",
+            "RES_DESC": "XML格式說明",
+            "RES_DATE_UPDATE_META": "2018/03/08 02:55"
+        }
+    ]
+}

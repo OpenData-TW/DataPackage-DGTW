@@ -1,0 +1,33 @@
+{
+    "TITLE": "日累積雨量圖資料-小間距日累積雨量圖資料",
+    "NODE": "30374",
+    "DESC": "提供小間距日累積雨量圖資料",
+    "SCHEMA": "小間距日累積雨量",
+    "AGENCY": "交通部中央氣象局",
+    "AGENCY_CONTACT": "蔡 先生 (02-23497970)",
+    "UPDATE_FREQ": "不更新",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/04/11",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2016/04/11 11:59",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 1291 下載次數: 331 意見數: 0 ",
+    "VIEWS": "1291",
+    "DOWNLOAD": "331",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "小間距日累積雨量",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=O-A0040-002&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "小間距日累積雨量圖資料",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:14"
+        }
+    ]
+}

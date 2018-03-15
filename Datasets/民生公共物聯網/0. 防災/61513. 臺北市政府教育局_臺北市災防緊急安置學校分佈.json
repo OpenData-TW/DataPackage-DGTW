@@ -1,0 +1,36 @@
+{
+    "TITLE": "臺北市災防緊急安置學校分佈",
+    "NODE": "61513",
+    "DESC": "簡表：Word資料，以行政區區分，提供行政區各類收容學校一覽表：Excel資料表，提供各收容學校地址及連絡電話",
+    "SCHEMA": [
+        "學校名稱",
+        "容納人數",
+        "地址"
+    ],
+    "AGENCY": "臺北市政府教育局",
+    "AGENCY_CONTACT": "陳揚翔 (02-27208889-6434)",
+    "UPDATE_FREQ": "每年",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2012/01/13",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2018/01/18 20:21",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "Stats": "瀏覽次數: 21 下載次數: 0 意見數: 0",
+    "VIEWS": "21",
+    "DOWNLOAD": "0",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "學校名稱、容納人數、地址",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=6f8e0610-2c32-4148-b746-25fe17ce3fd0&rid=a4b5135b-6a31-483e-a0d9-2020e4d81bd2",
+            "RES_DESC": "EUINSTALLMENT",
+            "RES_DATE_UPDATE_META": "2017/09/08 10:10"
+        }
+    ]
+}

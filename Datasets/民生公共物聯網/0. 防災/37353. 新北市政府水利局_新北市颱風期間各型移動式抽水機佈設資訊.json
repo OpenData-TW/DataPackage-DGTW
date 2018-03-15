@@ -1,0 +1,54 @@
+{
+    "TITLE": "新北市颱風期間各型移動式抽水機佈設資訊",
+    "NODE": "37353",
+    "DESC": "提供本市陸上颱風警報發佈後於易積淹水地區佈設各型移動式抽水機之基本資訊(如：地區、位置、機型名稱、排出口)",
+    "SCHEMA": [
+        "area:地區",
+        "rd name:位置",
+        "name:機型名稱",
+        "outfall:排出口"
+    ],
+    "AGENCY": "新北市政府水利局",
+    "AGENCY_CONTACT": "戴 先生 ((02)29603456分機4833)",
+    "UPDATE_FREQ": "每年",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/10/10",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/06/01 08:00",
+    "KEYWORDS": [
+        "防災"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 241 下載次數: 29 意見數: 0 ",
+    "VIEWS": "241",
+    "DOWNLOAD": "29",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "area:地區、rd name:位置、name:機型名稱、outfall:排出口",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://data.ntpc.gov.tw/od/zipfiledl?oid=B6EE1C54-E1BF-4B53-9CF5-6C7BAF0DB0EC&ft=zip",
+            "RES_DESC": "新北市颱風期間各型移動式抽水機佈設資訊",
+            "RES_DATE_UPDATE_META": "2017/11/26 15:19",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=37353&md5_url=9d5406427080a33249bde0f3ae7f2db6",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=37353&md5_url=9d5406427080a33249bde0f3ae7f2db6",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=37353&md5_url=9d5406427080a33249bde0f3ae7f2db6",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=37353&md5_url=9d5406427080a33249bde0f3ae7f2db6",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=37353&md5_url=9d5406427080a33249bde0f3ae7f2db6"
+        },
+        {
+            "SCHEMA": "area:地區、rd name:位置、name:機型名稱、outfall:排出口",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://data.ntpc.gov.tw/api/v1/rest/datastore/382000000A-001281-001",
+            "RES_DESC": "新北市颱風期間各型移動式抽水機佈設資訊",
+            "RES_DATE_UPDATE_META": "2017/11/26 15:19"
+        }
+    ]
+}

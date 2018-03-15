@@ -1,0 +1,31 @@
+{
+    "TITLE": "社會福利統計_災害救助",
+    "NODE": "61926",
+    "DESC": "社會福利統計_災害救助資料呈現於【社會局局網> 統計資料 > 預告統計資料發布時間表】\r",
+    "SCHEMA": "社會福利統計_災害救助",
+    "AGENCY": "臺北市政府社會局",
+    "AGENCY_CONTACT": "游婷婷 (02-27597726)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2018/01/17 21:08",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "Stats": "瀏覽次數: 19 下載次數: 0 意見數: 0 ",
+    "VIEWS": "19",
+    "DOWNLOAD": "0",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "社會福利統計_災害救助",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "其他",
+            "REC_COUNT": "0",
+            "RES_URL": "http://www.dosw.gov.taipei/ct.asp?xItem=336117018&ctNode=74532&mp=107001",
+            "RES_DESC": "社會福利統計_災害救助",
+            "RES_DATE_UPDATE_META": "2018/01/24 17:43"
+        }
+    ]
+}

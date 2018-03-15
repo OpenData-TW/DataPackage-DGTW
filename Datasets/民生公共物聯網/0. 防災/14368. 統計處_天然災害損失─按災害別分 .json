@@ -1,0 +1,38 @@
+{
+    "TITLE": "天然災害損失─按災害別分 ",
+    "NODE": "14368",
+    "DESC": "天然災害損失─按災害別分（資料起始時間：89年）\r\r",
+    "SCHEMA": "天然災害損失",
+    "AGENCY": "統計處",
+    "AGENCY_CONTACT": "陳昭如 小姐 (02-23565537)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2015/04/29",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2018/03/09 15:42",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "http://statis.moi.gov.tw/micst/stmain.jsp?sys=220&kind=21&type=1&funid=c...(ym=需求資料起始期年月，ymt=需求資料迄期年月)資料起始時間:8900(89代表民國89年,00代表月份,參數00代表查詢整年份資料,01則代表1月份,依此類推)。 資料迄期年月:10500(105代表民國年,00代表月份,一般資料收錄迄期年月為查詢日往前推兩個月)。",
+    "Stats": "瀏覽次數: 774 下載次數: 108 意見數: 1 ",
+    "VIEWS": "774",
+    "DOWNLOAD": "108",
+    "COMMENTS": "1",
+    "RESOURCE": [
+        {
+            "SCHEMA": "天然災害損失",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://data.moi.gov.tw/MoiOD/System/DownloadFile.aspx?DATA=DC94ABC1-74B8-4920-AB73-3BEED9276A71",
+            "RES_DESC": "天然災害損失─按災害別分 ",
+            "RES_DATE_UPDATE_META": "2018/03/08 17:30",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=14368&md5_url=a6ef8f9e6db1da91ec4734793fee85a1",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=14368&md5_url=a6ef8f9e6db1da91ec4734793fee85a1",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=14368&md5_url=a6ef8f9e6db1da91ec4734793fee85a1",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=14368&md5_url=a6ef8f9e6db1da91ec4734793fee85a1",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=14368&md5_url=a6ef8f9e6db1da91ec4734793fee85a1"
+        }
+    ]
+}

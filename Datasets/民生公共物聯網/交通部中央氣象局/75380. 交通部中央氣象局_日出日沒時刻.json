@@ -1,0 +1,43 @@
+{
+    "TITLE": "日出日沒時刻",
+    "NODE": "75380",
+    "DESC": "全臺各縣市每天的日出、日沒及太陽過中天等時刻資料，並含有日出日沒時之方位及過中天時之仰角資料",
+    "SCHEMA": [
+        "縣市名稱",
+        "日期",
+        "民用曙光始時刻",
+        "日出時刻",
+        "日出方位角",
+        "太陽過中天時刻",
+        "太陽過中天仰角",
+        "日沒時刻",
+        "日沒方位角",
+        "民用暮光終時刻"
+    ],
+    "AGENCY": "交通部中央氣象局",
+    "AGENCY_CONTACT": "鄭 先生 (02-23491097)",
+    "UPDATE_FREQ": "每年",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2018/01/26",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2018/01/26 11:36",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "Stats": "瀏覽次數: 34 下載次數: 4 意見數: 0 ",
+    "VIEWS": "34",
+    "DOWNLOAD": "4",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "縣市名稱、日期、民用曙光始時刻、日出時刻、日出方位角、太陽過中天時刻、太陽過中天仰角、日沒時刻、日沒方位角、民用暮光終時刻",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=A-B0062-001&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "全臺各縣市年度逐日日出日沒時刻資料",
+            "RES_DATE_UPDATE_META": "2018/02/12 15:12"
+        }
+    ]
+}

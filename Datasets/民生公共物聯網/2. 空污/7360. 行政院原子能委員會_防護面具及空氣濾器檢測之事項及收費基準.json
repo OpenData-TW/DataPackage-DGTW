@@ -1,0 +1,46 @@
+{
+    "TITLE": "防護面具及空氣濾器檢測之事項及收費基準",
+    "NODE": "7360",
+    "DESC": "防護面具及空氣濾器檢測",
+    "SCHEMA": [
+        "收費事項",
+        "收費基準"
+    ],
+    "AGENCY": "行政院原子能委員會",
+    "AGENCY_CONTACT": "胡先生 (034711400#3029)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2013/12/25",
+    "DATA_TYPE": "原始資料",
+    "DATE_UPDATE_META": "2016/05/11 15:53",
+    "KEYWORDS": [
+        "防護面具",
+        "空氣濾器",
+        "檢測"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "相關網址": "http://erss.aec.gov.tw/law/LawContent.aspx?id=FL033186",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 1689 下載次數: 120 意見數: 0",
+    "VIEWS": "1689",
+    "DOWNLOAD": "120",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "收費事項、收費基準",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "10",
+            "RES_URL": "http://www.aec.gov.tw/webpage/info/files/index_15_1-41.csv",
+            "RES_DESC": "",
+            "RES_DATE_UPDATE_META": "2017/12/02 03:33",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=7360&md5_url=97bed83c88bff0da696d9e38d78f355b",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=7360&md5_url=97bed83c88bff0da696d9e38d78f355b",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=7360&md5_url=97bed83c88bff0da696d9e38d78f355b",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=7360&md5_url=97bed83c88bff0da696d9e38d78f355b",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=7360&md5_url=97bed83c88bff0da696d9e38d78f355b"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "TITLE": "天然災害停班停課狀態",
+    "NODE": "8682",
+    "DESC": "天然災害停止上班、停止上課情形",
+    "SCHEMA": [
+        "停止上班",
+        "停止上課"
+    ],
+    "AGENCY": "行政院人事行政總處",
+    "AGENCY_CONTACT": "李先生 (0223979298#842;23979298#842)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2014/08/27",
+    "DATA_TYPE": "原始資料",
+    "DATE_UPDATE_META": "2014/08/27 10:14",
+    "KEYWORDS": [
+        "天然災害停止上班",
+        "天然災害停止上課情形"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 6288 下載次數: 498 意見數: 3",
+    "VIEWS": "6288",
+    "DOWNLOAD": "498",
+    "COMMENTS": "3",
+    "RESOURCE": [
+        {
+            "SCHEMA": "停止上班、停止上課",
+            "RES_FILETYPE": "KMZ",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "26",
+            "RES_URL": "https://alerts.ncdr.nat.gov.tw/DownLoadNewAssistData.ashx/81",
+            "RES_DESC": "",
+            "RES_DATE_UPDATE_META": "2018/03/04 03:23"
+        }
+    ]
+}

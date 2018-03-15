@@ -1,0 +1,69 @@
+{
+    "TITLE": "土石流防災疏散避難處所",
+    "NODE": "18233",
+    "DESC": "土石流防災疏散避難處所內容：本資料係每年防汛期前由地方政府於系統上更新建置而成。資料為地方政府所建置，部分資料並未提供點位資訊，所以本資料並不完備(未填座標資料)，得視地方政府建置情形。",
+    "SCHEMA": [
+        "檔案名稱",
+        "下載連結"
+    ],
+    "AGENCY": "行政院農業委員會",
+    "AGENCY_CONTACT": "馬興彥 先生 (049-2347153)",
+    "UPDATE_FREQ": "每年",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2015/07/24",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/07/25 00:00",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 2615 下載次數: 449 意見數: 0 ",
+    "VIEWS": "2615",
+    "DOWNLOAD": "449",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "檔案名稱、下載連結",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://data.coa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=280",
+            "RES_DESC": "土石流防災疏散避難處所內容：本資料係每年防汛期前由地方政府於系統上更新建置而成。資料為地方政府所建置，部分資料並未提供點位資訊，所以本資料並不完備(未填座標資料)，得視地方政府建置情形。 ",
+            "RES_DATE_UPDATE_META": "2017/07/25 00:00",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=18233&md5_url=cac7b63d426270284f7b7f17b8c3b9ba",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=18233&md5_url=cac7b63d426270284f7b7f17b8c3b9ba",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=18233&md5_url=cac7b63d426270284f7b7f17b8c3b9ba",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=18233&md5_url=cac7b63d426270284f7b7f17b8c3b9ba",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=18233&md5_url=cac7b63d426270284f7b7f17b8c3b9ba"
+        },
+        {
+            "SCHEMA": "檔案名稱、下載連結",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://data.coa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=280&FOTT=CSV",
+            "RES_DESC": "土石流防災疏散避難處所內容：本資料係每年防汛期前由地方政府於系統上更新建置而成。資料為地方政府所建置，部分資料並未提供點位資訊，所以本資料並不完備(未填座標資料)，得視地方政府建置情形。 ",
+            "RES_DATE_UPDATE_META": "2017/07/25 00:00",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=18233&md5_url=c7502b118cb0f415d524d0b11dd1c7ea",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=18233&md5_url=c7502b118cb0f415d524d0b11dd1c7ea",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=18233&md5_url=c7502b118cb0f415d524d0b11dd1c7ea",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=18233&md5_url=c7502b118cb0f415d524d0b11dd1c7ea",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=18233&md5_url=c7502b118cb0f415d524d0b11dd1c7ea"
+        },
+        {
+            "SCHEMA": "檔案名稱、下載連結",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://data.coa.gov.tw/GetOpenDataFile.aspx?id=280&FileType=ZIP",
+            "RES_DESC": "土石流防災疏散避難處所.zip ",
+            "RES_DATE_UPDATE_META": "2017/07/25 00:00",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=18233&md5_url=005919933c8ed0033576d85d31a1a8c3",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=18233&md5_url=005919933c8ed0033576d85d31a1a8c3",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=18233&md5_url=005919933c8ed0033576d85d31a1a8c3",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=18233&md5_url=005919933c8ed0033576d85d31a1a8c3",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=18233&md5_url=005919933c8ed0033576d85d31a1a8c3"
+        }
+    ]
+}

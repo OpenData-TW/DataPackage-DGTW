@@ -1,0 +1,36 @@
+{
+    "TITLE": "雲林縣消防局火調資料-火災次數按起火原因分",
+    "NODE": "33557",
+    "DESC": "雲林縣消防局火調資料-火災次數按起火原因分",
+    "SCHEMA": [
+        "區域別",
+        "鄉鎮市"
+    ],
+    "AGENCY": "雲林縣消防局",
+    "AGENCY_CONTACT": "林先生 (055325707#212)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/08/02",
+    "DATA_TYPE": "原始資料",
+    "DATE_UPDATE_META": "2016/08/02 10:40",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 372 下載次數: 20 意見數: 0 ",
+    "VIEWS": "372",
+    "DOWNLOAD": "20",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "區域別、鄉鎮市",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://www.ylfire.gov.tw/upload/dload201307230000001/20160802091613060.xls",
+            "RES_DESC": "雲林縣消防局火調資料-火災次數按起火原因分",
+            "RES_DATE_UPDATE_META": "2017/12/06 00:10"
+        }
+    ]
+}

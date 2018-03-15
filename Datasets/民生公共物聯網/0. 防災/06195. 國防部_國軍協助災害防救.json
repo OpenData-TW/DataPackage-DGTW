@@ -1,0 +1,52 @@
+{
+    "TITLE": "國軍協助災害防救",
+    "NODE": "6195",
+    "DESC": "本資料係將國軍協助災害防救之政策摘要及說明，以及蒐錄98年1月至102年2月止臺灣地區所發生之災害類別、天數及國軍投入救災資源(含兵力、車輛、飛機、舟艇等)之數據統計資料，提供民眾參考運用。",
+    "SCHEMA": [
+        "1.國軍協助災害防救之政策摘要及說明。2.98年1月至102年2月止臺灣地區所發生之災害類別",
+        "天數及國軍投入救災資源之數據統計資料，提供民眾參考運用(含兵力",
+        "車輛",
+        "飛機",
+        "舟艇等)"
+    ],
+    "AGENCY": "國防部",
+    "AGENCY_CONTACT": "李先生 (0223311380)",
+    "UPDATE_FREQ": "每年",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2013/05/08",
+    "DATA_TYPE": "原始資料",
+    "DATE_UPDATE_META": "2014/08/05 11:27",
+    "KEYWORDS": [
+        "災害防救",
+        "救災"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "相關網址": "http://www.mnd.gov.tw/Publish.aspx?cnid=3393&p=57289",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 8299 下載次數: 644 意見數: 5",
+    "VIEWS": "8299",
+    "DOWNLOAD": "644",
+    "COMMENTS": "5",
+    "RESOURCE": [
+        {
+            "SCHEMA": "1.國軍協助災害防救之政策摘要及說明。2.98年1月至102年2月止臺灣地區所發生之災害類別、天數及國軍投入救災資源之數據統計資料，提供民眾參考運用(含兵力、車輛、飛機、舟艇等)",
+            "RES_FILETYPE": "壓縮檔",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "33",
+            "RES_URL": "http://www.mnd.gov.tw/NewUpload/UserFiles/File/作計室/國軍協助災害防救.rar",
+            "RES_DESC": "國軍協助災害防救",
+            "RES_DATE_UPDATE_META": "2017/12/03 14:19"
+        },
+        {
+            "SCHEMA": "1.國軍協助災害防救之政策摘要及說明。2.98年1月至102年2月止臺灣地區所發生之災害類別、天數及國軍投入救災資源之數據統計資料，提供民眾參考運用(含兵力、車輛、飛機、舟艇等)",
+            "RES_FILETYPE": "PDF",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "33",
+            "RES_URL": "http://www.mnd.gov.tw/NewUpload/201701/105年全年度協助災害救援兵力統計.pdf",
+            "RES_DESC": "105年全年度協助災害救援兵力統計",
+            "RES_DATE_UPDATE_META": "2017/12/03 14:19"
+        }
+    ]
+}

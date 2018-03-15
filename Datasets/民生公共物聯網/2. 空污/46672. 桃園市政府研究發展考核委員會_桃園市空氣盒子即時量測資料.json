@@ -1,0 +1,66 @@
+{
+    "TITLE": "桃園市空氣盒子即時量測資料",
+    "NODE": "46672",
+    "DESC": "即時偵測資料:一小時內各地空氣盒子所蒐集的資料。 歷史偵測資料:七天內的歷史資料。 設備資料:空氣盒子設備的相關資料。 (檔案為gz格式壓縮，原始檔案為json格式)",
+    "SCHEMA": [
+        "偵測資料: time：資料產生時間 device_id：AirBox ID s_0：Message sequence number s_1：Battery power(0 ~ 100)",
+        " s_2：Battery or Plug(0: Battery 1: Plug)",
+        " s_3：Moving speed(Should be 0)",
+        " s_d0：PM2.5 s_t0：Temperature s_h0：Humidity"
+    ],
+    "AGENCY": "桃園市政府研究發展考核委員會",
+    "AGENCY_CONTACT": "藍先生 (03-3322101#6961~6963)",
+    "UPDATE_FREQ": "每周",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/06/22",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/06/27 14:02",
+    "KEYWORDS": [
+        "空氣盒子",
+        "Sensor",
+        "環保",
+        "空汙"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 358 下載次數: 84 意見數: 0 ",
+    "VIEWS": "358",
+    "DOWNLOAD": "84",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "偵測資料: time：資料產生時間 device_id：AirBox ID s_0：Message sequence number s_1：Battery power(0 ~ 100)、 s_2：Battery or Plug(0: Battery 1: Plug)、 s_3：Moving speed(Should be 0)、 s_d0：PM2.5 s_t0：Temperature s_h0：Humidity",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=31428851-bcbd-4b45-ad72-067f5ba432f2&rid=f0737896-57ef-47aa-af09-e1a2cf1ade23",
+            "RES_DESC": "桃園市空氣盒子位置",
+            "RES_DATE_UPDATE_META": "2017/06/27 14:02",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=46672&md5_url=42a17c33667019b5e0447d9d7b9bc581",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=46672&md5_url=42a17c33667019b5e0447d9d7b9bc581",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=46672&md5_url=42a17c33667019b5e0447d9d7b9bc581",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=46672&md5_url=42a17c33667019b5e0447d9d7b9bc581",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=46672&md5_url=42a17c33667019b5e0447d9d7b9bc581"
+        },
+        {
+            "SCHEMA": "偵測資料: time：資料產生時間 device_id：AirBox ID s_0：Message sequence number s_1：Battery power(0 ~ 100)、 s_2：Battery or Plug(0: Battery 1: Plug)、 s_3：Moving speed(Should be 0)、 s_d0：PM2.5 s_t0：Temperature s_h0：Humidity",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=31428851-bcbd-4b45-ad72-067f5ba432f2&rid=c7b77009-965d-40cc-b9e7-655e0c56364b",
+            "RES_DESC": "桃園市空氣盒子每小時",
+            "RES_DATE_UPDATE_META": "2017/06/22 11:04"
+        },
+        {
+            "SCHEMA": "偵測資料: time：資料產生時間 device_id：AirBox ID s_0：Message sequence number s_1：Battery power(0 ~ 100)、 s_2：Battery or Plug(0: Battery 1: Plug)、 s_3：Moving speed(Should be 0)、 s_d0：PM2.5 s_t0：Temperature s_h0：Humidity",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=31428851-bcbd-4b45-ad72-067f5ba432f2&rid=94c0304a-517d-4f6d-bbb8-b6c829f2d763",
+            "RES_DESC": "連結為壓縮檔",
+            "RES_DATE_UPDATE_META": "2017/06/22 10:57"
+        }
+    ]
+}

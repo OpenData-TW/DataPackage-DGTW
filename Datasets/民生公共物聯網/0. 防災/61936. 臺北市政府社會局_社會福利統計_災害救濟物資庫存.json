@@ -1,0 +1,42 @@
+{
+    "TITLE": "社會福利統計_災害救濟物資庫存",
+    "NODE": "61936",
+    "DESC": "社會福利統計_災害救濟物資庫存明細資料呈現於GitHub。",
+    "SCHEMA": [
+        "縣市鄉鎮",
+        "物資存放點",
+        "主/次分類",
+        "條碼號",
+        "品名",
+        "最小單位規格",
+        "庫存數量",
+        "單位",
+        "保存期限"
+    ],
+    "AGENCY": "臺北市政府社會局",
+    "AGENCY_CONTACT": "曾小姐 (02-27208889轉6962)",
+    "UPDATE_FREQ": "每日",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2018/01/18 22:11",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "相關網址": "https://github.com/g0v-data/aid-sync/blob/gh-pages/aid.csv",
+    "Stats": "瀏覽次數: 28 下載次數: 0 意見數: 0 ",
+    "VIEWS": "28",
+    "DOWNLOAD": "0",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "縣市鄉鎮、物資存放點、主/次分類、條碼號、品名、最小單位規格、庫存數量、單位、保存期限",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "其他",
+            "REC_COUNT": "0",
+            "RES_URL": "https://github.com/g0v-data/aid-sync/blob/gh-pages/aid.csv",
+            "RES_DESC": "災害救濟物資庫存明細",
+            "RES_DATE_UPDATE_META": "2018/02/17 03:07"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "TITLE": "105年度桃園市歷次天然災害停止上班上課訊息",
+    "NODE": "46361",
+    "DESC": "105年度桃園市歷次天然災害停止上班上課訊息",
+    "SCHEMA": "年度,天然災害名稱,本市停止上班上課情形,備註",
+    "AGENCY": "桃園市政府人事處",
+    "AGENCY_CONTACT": "陳鈺勝 (332-2101分機7335)",
+    "UPDATE_FREQ": "每年",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/05/25",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/05/26 17:26",
+    "KEYWORDS": [
+        "天然災害",
+        "停班停課情形"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 96 下載次數: 6 意見數: 0 ",
+    "VIEWS": "96",
+    "DOWNLOAD": "6",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "年度,天然災害名稱,本市停止上班上課情形,備註",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "BIG5",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=cfd2e26f-566a-4e22-9604-4711f3aa898f&rid=5497734a-190b-492f-b673-83cdcf53d3d6",
+            "RES_DESC": "天然災害、停班停課訊息",
+            "RES_DATE_UPDATE_META": "2017/05/25 11:58"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "TITLE": "中央氣象局颱風路徑及預報",
+    "NODE": "6157",
+    "DESC": "中央氣象局氣象預報中心預報人員平時每日24小時隨時監視各種天氣變化，只要有颱風可能形成時，立即加強守視，颱風形成後就以國際編號及命名，並在每天發布4次之氣象預報中，報導颱風的動態及預報其未來變化，若颱風移近台灣或金門、馬祖，有可能侵襲其陸地或四周圍100公里近海時，就會成立「颱風預報工作小組」，負責颱風預報與颱風警報的發布工作。",
+    "SCHEMA": "颱風路徑預報",
+    "AGENCY": "國家災害防救科技中心",
+    "AGENCY_CONTACT": "蔡先生 (0223491000)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2013/04/26",
+    "DATA_TYPE": "原始資料",
+    "DATE_UPDATE_META": "2013/04/24 08:00",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "更新頻率說明: 有颱風時每6小時更新授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 8826 下載次數: 5209 意見數: 1",
+    "VIEWS": "8826",
+    "DOWNLOAD": "5209",
+    "COMMENTS": "1",
+    "RESOURCE": [
+        {
+            "SCHEMA": "颱風路徑預報",
+            "RES_FILETYPE": "KMZ",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "https://alerts.ncdr.nat.gov.tw/DownLoadNewAssistData.ashx/1",
+            "RES_DESC": "",
+            "RES_DATE_UPDATE_META": "2018/02/24 02:11"
+        }
+    ]
+}

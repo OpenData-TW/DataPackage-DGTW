@@ -1,0 +1,60 @@
+{
+    "TITLE": "職業災害勞工保護專款年度經營概況",
+    "NODE": "57164",
+    "DESC": "提供年度職業災害勞工保護專款經營概況",
+    "SCHEMA": [
+        "年度別",
+        "基金運用餘額",
+        "基金收益數",
+        "收益率"
+    ],
+    "AGENCY": "勞動部勞動基金運用局",
+    "AGENCY_CONTACT": "黃慧欣 小姐 (02-33435926)",
+    "UPDATE_FREQ": "每年",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/10/18",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/12/22 16:38",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "投資理財",
+    "Stats": "瀏覽次數: 62 下載次數: 27 意見數: 0 ",
+    "VIEWS": "62",
+    "DOWNLOAD": "27",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "年度別、基金運用餘額、基金收益數、收益率",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/download/A17000000J-030180-eva",
+            "RES_DESC": "職業災害勞工保護專款年度經營概況",
+            "RES_DATE_UPDATE_META": "2018/02/12 16:39",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=57164&md5_url=0b520c0c57b87adc61d06f0a0ce3f3cb",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=57164&md5_url=0b520c0c57b87adc61d06f0a0ce3f3cb",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=57164&md5_url=0b520c0c57b87adc61d06f0a0ce3f3cb",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=57164&md5_url=0b520c0c57b87adc61d06f0a0ce3f3cb",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=57164&md5_url=0b520c0c57b87adc61d06f0a0ce3f3cb"
+        },
+        {
+            "SCHEMA": "年度別、基金運用餘額、基金收益數、收益率",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/download/A17000000J-030180-iCl",
+            "RES_DESC": "職業災害勞工保護專款年度經營概況",
+            "RES_DATE_UPDATE_META": "2018/02/12 16:39"
+        },
+        {
+            "SCHEMA": "年度別、基金運用餘額、基金收益數、收益率",
+            "RES_FILETYPE": "WEBSERVICES",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/rest/datastore/A17000000J-030180-kiJ",
+            "RES_DESC": "職業災害勞工保護專款年度經營概況",
+            "RES_DATE_UPDATE_META": "2018/02/12 16:39"
+        }
+    ]
+}

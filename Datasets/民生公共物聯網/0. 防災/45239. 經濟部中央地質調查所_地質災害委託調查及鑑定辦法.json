@@ -1,0 +1,44 @@
+{
+    "TITLE": "地質災害委託調查及鑑定辦法",
+    "NODE": "45239",
+    "DESC": "地質法（以下簡稱本法）於九十九年十二月八日制定公布，規定主管機關或目的事業主管機關得委託專業技師或相關機關（構）為地質災害之調查及鑑定；受委託者之資格、條件及實施調查、鑑定之辦法，由中央主管機關訂定。地質災害委託調查及鑑定之委託程序依政府採購法或相關法令辦理，然為確保調查及鑑定之品質，受委託者之資格、條件及實施調查、鑑定辦法應有適當規範，爰依本法第十四條第二項規定，訂定地質災害委託調查及鑑定辦法。",
+    "SCHEMA": [
+        "NO",
+        "Node ID",
+        "資料集名稱",
+        "檔案名稱",
+        "下載連結"
+    ],
+    "AGENCY": "經濟部中央地質調查所",
+    "AGENCY_CONTACT": "黃先生 (0229462793#324)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/05/16",
+    "DATA_TYPE": "原始資料",
+    "DATE_UPDATE_META": "2017/10/26 17:22",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 97 下載次數: 14 意見數: 0 ",
+    "VIEWS": "97",
+    "DOWNLOAD": "14",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "NO、Node ID、資料集名稱、檔案名稱、下載連結",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "BIG5",
+            "REC_COUNT": "20",
+            "RES_URL": "http://210.69.81.203/CGSLAW/CGSLAW.csv",
+            "RES_DESC": "地調所法規、辦法檔案下載總目錄",
+            "RES_DATE_UPDATE_META": "2017/12/12 18:35",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=45239&md5_url=9e8614128c84bb07f3e3c02b5bb1632f",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=45239&md5_url=9e8614128c84bb07f3e3c02b5bb1632f",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=45239&md5_url=9e8614128c84bb07f3e3c02b5bb1632f",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=45239&md5_url=9e8614128c84bb07f3e3c02b5bb1632f",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=45239&md5_url=9e8614128c84bb07f3e3c02b5bb1632f"
+        }
+    ]
+}

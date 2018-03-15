@@ -1,0 +1,33 @@
+{
+    "TITLE": "臺中市地震斷層帶圖資",
+    "NODE": "42551",
+    "DESC": "臺中市地震斷層帶圖資",
+    "SCHEMA": "臺中市地震斷層帶圖資",
+    "AGENCY": "臺中市政府消防局",
+    "AGENCY_CONTACT": "陳 (0423811119#254)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/09/30",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/03/11 05:30",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 370 下載次數: 104 意見數: 0 ",
+    "VIEWS": "370",
+    "DOWNLOAD": "104",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "臺中市地震斷層帶圖資",
+            "RES_FILETYPE": "JPG",
+            "RES_ENCODE": "其他",
+            "REC_COUNT": "9",
+            "RES_URL": "http://data.taichung.gov.tw:80/wSite/public/data/f1484625131026.jpg",
+            "RES_DESC": "臺中市地震斷層帶圖資",
+            "RES_DATE_UPDATE_META": "2017/12/08 17:39"
+        }
+    ]
+}

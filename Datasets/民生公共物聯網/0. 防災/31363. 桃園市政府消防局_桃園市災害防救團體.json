@@ -1,0 +1,45 @@
+{
+    "TITLE": "桃園市災害防救團體",
+    "NODE": "31363",
+    "DESC": "提供桃園市災害防救團體名冊",
+    "SCHEMA": [
+        "團體名稱(依據桃園市政府辦理災害防救團體或災害防救志願組織登錄作業須知登錄之本市民間志願組織。)",
+        "專長(登錄審查合格之專業。)"
+    ],
+    "AGENCY": "桃園市政府消防局",
+    "AGENCY_CONTACT": "李小姐 (03-3379119-303)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/05/10",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2018/02/01 17:06",
+    "KEYWORDS": [
+        "災害防救",
+        "消防",
+        "民間團體"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 466 下載次數: 23 意見數: 0 ",
+    "VIEWS": "466",
+    "DOWNLOAD": "23",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "團體名稱(依據桃園市政府辦理災害防救團體或災害防救志願組織登錄作業須知登錄之本市民間志願組織。)、專長(登錄審查合格之專業。)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=efb452f5-cf16-4830-8e36-81ccfe314d4d&rid=a44d1e9f-ecfc-4a78-addc-1985ba9b3476",
+            "RES_DESC": "桃園市災害防救團體清冊",
+            "RES_DATE_UPDATE_META": "2018/02/04 10:00",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=31363&md5_url=c004e866a5c9acdf8407aa77bffff9d4",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=31363&md5_url=c004e866a5c9acdf8407aa77bffff9d4",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=31363&md5_url=c004e866a5c9acdf8407aa77bffff9d4",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=31363&md5_url=c004e866a5c9acdf8407aa77bffff9d4",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=31363&md5_url=c004e866a5c9acdf8407aa77bffff9d4"
+        }
+    ]
+}

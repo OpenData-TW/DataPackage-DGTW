@@ -1,0 +1,38 @@
+{
+    "TITLE": "臺南市災情案件資料",
+    "NODE": "53562",
+    "DESC": "提供消防署所發布有關臺南市災情案件資料",
+    "SCHEMA": "EVENT_NAME：災害專案名稱。 DISASTER_LIST：災情清單資訊開始。 DISASTER_DATA：災情資料開始。 CASE_DT：發生時間。 COUNTY_N：縣市名稱。 TOWN_N：鄉鎮市區名稱。 CASE_LOC>：發生地點。 GEOMETRY_TYPE：幾何形狀。 COORDINATE：座標值。 DISASTER_MAIN_TYPE\t：災情類別_大項。 DISASTER_SUB_TYPE：災情類別_細項。 CASE_STATUS：處理狀態。 INJURED_NO：人員受傷。 DEATH_NO：人員死亡。 TRAPPED_NO：人員受困。 MISSING_NO：人員失蹤。 SHELTER_NO：人員收容。",
+    "AGENCY": "臺南市政府",
+    "AGENCY_CONTACT": "許先生 (06-6322231#6052)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/03/31",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/11/28 11:32",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "相關網址": "http://data.tainan.gov.tw/dataset/tndisaster",
+    "Stats": "瀏覽次數: 40 下載次數: 4 意見數: 0 ",
+    "VIEWS": "40",
+    "DOWNLOAD": "4",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "EVENT_NAME：災害專案名稱。 DISASTER_LIST：災情清單資訊開始。 DISASTER_DATA：災情資料開始。 CASE_DT：發生時間。 COUNTY_N：縣市名稱。 TOWN_N：鄉鎮市區名稱。 CASE_LOC>：發生地點。 GEOMETRY_TYPE：幾何形狀。 COORDINATE：座標值。 DISASTER_MAIN_TYPE\t：災情類別_大項。 DISASTER_SUB_TYPE：災情類別_細項。 CASE_STATUS：處理狀態。 INJURED_NO：人員受傷。 DEATH_NO：人員死亡。 TRAPPED_NO：人員受困。 MISSING_NO：人員失蹤。 SHELTER_NO：人員收容。",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "其他",
+            "REC_COUNT": "0",
+            "RES_URL": "http://210.69.40.35/api/api/Disaster",
+            "RES_DESC": "臺南市災情案件資料",
+            "RES_DATE_UPDATE_META": "2018/02/17 01:52",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=53562&md5_url=c103d7d749d10f8523c4d8214ffd97a1",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=53562&md5_url=c103d7d749d10f8523c4d8214ffd97a1",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=53562&md5_url=c103d7d749d10f8523c4d8214ffd97a1",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=53562&md5_url=c103d7d749d10f8523c4d8214ffd97a1",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=53562&md5_url=c103d7d749d10f8523c4d8214ffd97a1"
+        }
+    ]
+}

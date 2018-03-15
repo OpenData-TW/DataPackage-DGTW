@@ -1,0 +1,33 @@
+{
+    "TITLE": "行政院海岸巡防署災難救護及服務工作統計—按單位分",
+    "NODE": "13842",
+    "DESC": "本署業務績效情形",
+    "SCHEMA": "以救護之案件數為主要欄位",
+    "AGENCY": "行政院海岸巡防署",
+    "AGENCY_CONTACT": "顏小姐 (0222399201#266845)",
+    "UPDATE_FREQ": "每月",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2015/04/10",
+    "DATA_TYPE": "原始資料",
+    "DATE_UPDATE_META": "2015/04/10 15:21",
+    "KEYWORDS": [],
+    "CATEGORY": "政府統計",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 1119 下載次數: 75 意見數: 0 ",
+    "VIEWS": "1119",
+    "DOWNLOAD": "75",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "以救護之案件數為主要欄位",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://www.cga.gov.tw/GipOpen/wSite/public/Attachment/f1427180936808.zip",
+            "RES_DESC": "",
+            "RES_DATE_UPDATE_META": "2018/01/24 04:52"
+        }
+    ]
+}

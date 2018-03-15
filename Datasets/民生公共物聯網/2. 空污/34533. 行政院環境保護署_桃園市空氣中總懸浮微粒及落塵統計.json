@@ -1,0 +1,46 @@
+{
+    "TITLE": "桃園市空氣中總懸浮微粒及落塵統計",
+    "NODE": "34533",
+    "DESC": "桃園市空氣品質人工測站總懸浮微粒及落塵統計資料",
+    "SCHEMA": [
+        "識別碼(SerialNo)",
+        "調查日期(SurveyDate)",
+        "調查者(SurveyGroup)",
+        "調查縣市(County)",
+        "調查鄉陣(Township)",
+        "調查地點(Location)",
+        "緯度(Latitude)",
+        "經度(Longitude)",
+        "鳥科名(FamilyName)",
+        "鳥學名(ScienceName)",
+        "鳥中名(CommonName)",
+        "調查隻次(Quantity)"
+    ],
+    "AGENCY": "行政院環境保護署",
+    "AGENCY_CONTACT": "侯先生 (034331718#638)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/09/01",
+    "DATA_TYPE": "原始資料",
+    "DATE_UPDATE_META": "2016/09/01 16:35",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 1462 下載次數: 26 意見數: 2 ",
+    "VIEWS": "1462",
+    "DOWNLOAD": "26",
+    "COMMENTS": "2",
+    "RESOURCE": [
+        {
+            "SCHEMA": "識別碼(SerialNo)、調查日期(SurveyDate)、調查者(SurveyGroup)、調查縣市(County)、調查鄉陣(Township)、調查地點(Location)、緯度(Latitude)、經度(Longitude)、鳥科名(FamilyName)、鳥學名(ScienceName)、鳥中名(CommonName)、調查隻次(Quantity)",
+            "RES_FILETYPE": "PDF",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.epa.gov.tw/Data/DownloadFile/ATM00674/?file=\\ATM00674\\0\\桃園市空氣中總懸浮微粒及落塵統計_1050802_165422.pdf",
+            "RES_DESC": "桃園市空氣中總懸浮微粒及落塵統計_1050802_165422",
+            "RES_DATE_UPDATE_META": "2017/11/18 07:19"
+        }
+    ]
+}

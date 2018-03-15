@@ -1,0 +1,33 @@
+{
+    "TITLE": "直轄市、縣（市）動員、戰綜、災防三合一會報定期會議",
+    "NODE": "41396",
+    "DESC": "落實動員準備工作",
+    "SCHEMA": "落實動員準備工作",
+    "AGENCY": "國防部參謀本部",
+    "AGENCY_CONTACT": "紀先生 (0285099443)",
+    "UPDATE_FREQ": "每年",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/12/16",
+    "DATA_TYPE": "原始資料",
+    "DATE_UPDATE_META": "2016/12/16 15:37",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 179 下載次數: 21 意見數: 0 ",
+    "VIEWS": "179",
+    "DOWNLOAD": "21",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "落實動員準備工作",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://www.mnd.gov.tw/newUpload/201612/直轄市、縣（市）動員、戰綜、災防三合一會報定期會議.xml",
+            "RES_DESC": "105年直轄市、縣（市）動員、戰綜、災防三合一會報定期會議",
+            "RES_DATE_UPDATE_META": "2017/12/03 14:26"
+        }
+    ]
+}

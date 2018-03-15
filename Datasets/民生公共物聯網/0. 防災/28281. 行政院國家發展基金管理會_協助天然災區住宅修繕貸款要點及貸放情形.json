@@ -1,0 +1,55 @@
+{
+    "TITLE": "協助天然災區住宅修繕貸款要點及貸放情形",
+    "NODE": "28281",
+    "DESC": "介紹協助天然災區住宅修繕貸款要點內容，包括資金額度、貸款對象、貸款範圍、辦理單位、貸款額度及利率等相關規定。",
+    "SCHEMA": [
+        "貸款項目",
+        "開辦日期",
+        "貸款總額度(新台幣億元)",
+        "基金出資額度(新台幣億元)",
+        "106.9.30累計核准件數",
+        "106.9.30累計核准金額(新台幣億元)",
+        "要點檔案下載_PDF",
+        "要點檔案下載_DOCX",
+        "要點檔案下載_ODT"
+    ],
+    "AGENCY": "行政院國家發展基金管理會",
+    "AGENCY_CONTACT": "陳先生 (0223168262)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/03/02",
+    "DATA_TYPE": "原始資料",
+    "DATE_UPDATE_META": "2017/12/29 17:18",
+    "KEYWORDS": [
+        "國家發展基金",
+        "國發基金",
+        "災區",
+        "住宅修繕",
+        "貸款"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "相關網址": "http://www.df.gov.tw/page-ItemContent.aspx?Group_ID=3&Item_Title=%E5%90%84%E9%A0...",
+    "NOTES": "授權說明網址: http://data.gov.tw/license計費說明網址: NA計費法令依據: NA",
+    "Stats": "瀏覽次數: 399 下載次數: 31 意見數: 0 ",
+    "VIEWS": "399",
+    "DOWNLOAD": "31",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "貸款項目、開辦日期、貸款總額度(新台幣億元)、基金出資額度(新台幣億元)、106.9.30累計核准件數、106.9.30累計核准金額(新台幣億元)、要點檔案下載_PDF、要點檔案下載_DOCX、要點檔案下載_ODT",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "1",
+            "RES_URL": "http://www.df.gov.tw/attachement/CSV/協助天然災區住宅修繕貸款要點及貸放情形-1060930.csv",
+            "RES_DESC": "每季更新",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:16",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=28281&md5_url=823dfc208ca2a8a84960f8b9466855b5",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=28281&md5_url=823dfc208ca2a8a84960f8b9466855b5",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=28281&md5_url=823dfc208ca2a8a84960f8b9466855b5",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=28281&md5_url=823dfc208ca2a8a84960f8b9466855b5",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=28281&md5_url=823dfc208ca2a8a84960f8b9466855b5"
+        }
+    ]
+}

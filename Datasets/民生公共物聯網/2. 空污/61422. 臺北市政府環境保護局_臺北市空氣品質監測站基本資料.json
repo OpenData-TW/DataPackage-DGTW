@@ -1,0 +1,45 @@
+{
+    "TITLE": "臺北市空氣品質監測站基本資料",
+    "NODE": "61422",
+    "DESC": "臺北市空氣品質監測站種類、分類、名稱、地址、監測項目等資訊",
+    "SCHEMA": [
+        "測站種類(station type)",
+        "測站分類(classification)",
+        "測站名稱(station_name)",
+        "測站地址(station_address)",
+        "監測項目(monitor_item)",
+        "經度(longitude)",
+        ",緯度(latitude)"
+    ],
+    "AGENCY": "臺北市政府環境保護局",
+    "AGENCY_CONTACT": "卓昕岑 (02-28237026)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2013/05/06",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2018/01/18 20:04",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "Stats": "瀏覽次數: 74 下載次數: 19 意見數: 0",
+    "VIEWS": "74",
+    "DOWNLOAD": "19",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "測站種類(station type)、測站分類(classification)、測站名稱(station_name)、測站地址(station_address)、監測項目(monitor_item)、經度(longitude)、,緯度(latitude)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://beta.data.taipei/api/getDatasetInfo/downloadResource?id=75d0520a-1c2c-466b-81ee-e382351915dc&rid=39411cb3-3c6a-4932-be6f-097a96597bd1",
+            "RES_DESC": "臺北市空氣品質監測站基本資料",
+            "RES_DATE_UPDATE_META": "2018/02/10 01:27",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=61422&md5_url=3f7a31c06039d60318418080dd5012b5",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=61422&md5_url=3f7a31c06039d60318418080dd5012b5",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=61422&md5_url=3f7a31c06039d60318418080dd5012b5",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=61422&md5_url=3f7a31c06039d60318418080dd5012b5",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=61422&md5_url=3f7a31c06039d60318418080dd5012b5"
+        }
+    ]
+}

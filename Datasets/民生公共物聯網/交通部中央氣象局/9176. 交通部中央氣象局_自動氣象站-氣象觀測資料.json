@@ -1,0 +1,42 @@
+{
+    "TITLE": "自動氣象站-氣象觀測資料",
+    "NODE": "9176",
+    "DESC": "自動氣象站資料",
+    "SCHEMA": "無人自動站氣象資料",
+    "AGENCY": "交通部中央氣象局",
+    "AGENCY_CONTACT": "蔡 先生 (02-23497970)",
+    "UPDATE_FREQ": "不更新",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/12/01",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2018/02/22 17:53",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 9723 下載次數: 105256 意見數: 6 ",
+    "VIEWS": "9723",
+    "DOWNLOAD": "105256",
+    "COMMENTS": "6",
+    "RESOURCE": [
+        {
+            "SCHEMA": "無人自動站氣象資料",
+            "RES_FILETYPE": "PDF",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://opendata.cwb.gov.tw/opendatadoc/DIV2/A0001-001.pdf",
+            "RES_DESC": "天氣因子說明",
+            "RES_DATE_UPDATE_META": "2017/10/26 16:08"
+        },
+        {
+            "SCHEMA": "無人自動站氣象資料",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=O-A0001-001&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": " ",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:09"
+        }
+    ]
+}

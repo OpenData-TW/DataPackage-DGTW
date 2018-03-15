@@ -1,0 +1,65 @@
+{
+    "TITLE": "新北市政府消防據點",
+    "NODE": "28018",
+    "DESC": "新北市政府消防據點清冊(消防局各大隊、分隊位址及聯絡電話)",
+    "SCHEMA": [
+        "firestrongholds:消防據點",
+        "address:地址",
+        "tel:電話號碼",
+        "fax:傳真號碼"
+    ],
+    "AGENCY": "新北市政府消防局",
+    "AGENCY_CONTACT": "劉 小姐 (8112)",
+    "UPDATE_FREQ": "每年",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/02/25",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2016/08/22 17:40",
+    "KEYWORDS": [
+        "救災",
+        "防災",
+        "名冊"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 628 下載次數: 107 意見數: 0 ",
+    "VIEWS": "628",
+    "DOWNLOAD": "107",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "firestrongholds:消防據點、address:地址、tel:電話號碼、fax:傳真號碼",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://data.ntpc.gov.tw/od/zipfiledl?oid=86289562-0688-4C45-913F-7772E14DEA32&ft=zip",
+            "RES_DESC": "新北市政府消防據點",
+            "RES_DATE_UPDATE_META": "2018/02/05 16:06",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=28018&md5_url=9b9e198a388fe76e384cfe615c455f51",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=28018&md5_url=9b9e198a388fe76e384cfe615c455f51",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=28018&md5_url=9b9e198a388fe76e384cfe615c455f51",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=28018&md5_url=9b9e198a388fe76e384cfe615c455f51",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=28018&md5_url=9b9e198a388fe76e384cfe615c455f51"
+        },
+        {
+            "SCHEMA": "firestrongholds:消防據點、address:地址、tel:電話號碼、fax:傳真號碼",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://data.ntpc.gov.tw/api/v1/rest/datastore/382000000A-000350-001",
+            "RES_DESC": "新北市政府消防據點",
+            "RES_DATE_UPDATE_META": "2018/02/05 16:06"
+        },
+        {
+            "SCHEMA": "firestrongholds:消防據點、address:地址、tel:電話號碼、fax:傳真號碼",
+            "RES_FILETYPE": "KML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://data.ntpc.gov.tw/od/zipfiledl?oid=86289562-0688-4C45-913F-7772E14DEA32&ft=kml",
+            "RES_DESC": "新北市政府消防據點",
+            "RES_DATE_UPDATE_META": "2018/02/05 16:06"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "TITLE": "台灣電力公司_電力維生管線災情資訊",
+    "NODE": "44799",
+    "DESC": "本資料集提供災害期間電力停電災情資訊。",
+    "SCHEMA": [
+        "停電資訊",
+        "行政區",
+        "停電區域",
+        "影響戶數",
+        "預計修復時間",
+        "聯絡人(姓名)",
+        "聯絡人(電話一)",
+        "資料更新時間"
+    ],
+    "AGENCY": "台灣電力股份有限公司",
+    "AGENCY_CONTACT": "鍾先生 (0223668684)",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/04/26",
+    "DATA_TYPE": "原始資料",
+    "DATE_UPDATE_META": "2017/04/26 15:05",
+    "KEYWORDS": [
+        "災害名稱",
+        "停電戶數"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 52885 下載次數: 18387 意見數: 2 ",
+    "VIEWS": "52885",
+    "DOWNLOAD": "18387",
+    "COMMENTS": "2",
+    "RESOURCE": [
+        {
+            "SCHEMA": "停電資訊、行政區、停電區域、影響戶數、預計修復時間、聯絡人(姓名)、聯絡人(電話一)、資料更新時間",
+            "RES_FILETYPE": "KML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://data.taipower.com.tw/opendata/apply/file/d006012/001.kml",
+            "RES_DESC": "本資料集提供災害期間電力停電災情資訊。",
+            "RES_DATE_UPDATE_META": "2017/11/20 16:26"
+        }
+    ]
+}

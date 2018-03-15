@@ -1,0 +1,35 @@
+{
+    "TITLE": "106年11月火災次數分類及時間",
+    "NODE": "73253",
+    "DESC": "106年11月火災次數分類及時間",
+    "SCHEMA": "",
+    "AGENCY": "苗栗縣政府消防局",
+    "AGENCY_CONTACT": "陳小姐 (037-558119)",
+    "UPDATE_FREQ": "每月",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/12/26",
+    "DATA_TYPE": "原始資料",
+    "DATE_UPDATE_META": "2017/12/26 21:26",
+    "KEYWORDS": [
+        "火災次數分類"
+    ],
+    "CATEGORY": "政府統計",
+    "SERVICE_TYPE": "公共資訊",
+    "相關網址": "https://www.mlfd.gov.tw",
+    "Stats": "瀏覽次數: 56 下載次數: 1 意見數: 0 ",
+    "VIEWS": "56",
+    "DOWNLOAD": "1",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "",
+            "RES_FILETYPE": "PDF",
+            "RES_ENCODE": "其他",
+            "REC_COUNT": "0",
+            "RES_URL": "https://www.mlfd.gov.tw/upload/火災次數分類及時間10611.pdf",
+            "RES_DESC": "火災次數分類及時間",
+            "RES_DATE_UPDATE_META": "2017/12/26 16:31"
+        }
+    ]
+}

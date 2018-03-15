@@ -1,0 +1,79 @@
+{
+    "TITLE": "職業安全衛生法適用行業工作場所重大職業災害死亡人數(年度)",
+    "NODE": "43257",
+    "DESC": "職業安全衛生法適用行業工作場所重大職業災害死亡人數(年度)",
+    "SCHEMA": [
+        "年度別",
+        "地區單位",
+        "死亡人數"
+    ],
+    "AGENCY": "勞動部職業安全衛生署",
+    "AGENCY_CONTACT": "林敬育 先生 (02-89956666#8115)",
+    "UPDATE_FREQ": "每年",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/02/15",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/06/01 08:00",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 196 下載次數: 101 意見數: 0 ",
+    "VIEWS": "196",
+    "DOWNLOAD": "101",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "年度別、地區單位、死亡人數",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/download/A17000000J-030076-iy3",
+            "RES_DESC": "職業安全衛生法適用行業工作場所重大職業災害死亡人數",
+            "RES_DATE_UPDATE_META": "2017/12/25 14:10",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=43257&md5_url=0353c2095696f3af1902d7d0e85a651a",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=43257&md5_url=0353c2095696f3af1902d7d0e85a651a",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=43257&md5_url=0353c2095696f3af1902d7d0e85a651a",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=43257&md5_url=0353c2095696f3af1902d7d0e85a651a",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=43257&md5_url=0353c2095696f3af1902d7d0e85a651a"
+        },
+        {
+            "SCHEMA": "年度別、地區單位、死亡人數",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/download/A17000000J-030076-YHd",
+            "RES_DESC": "職業安全衛生法適用行業工作場所重大職業災害死亡人數",
+            "RES_DATE_UPDATE_META": "2018/02/13 13:36",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=43257&md5_url=4adb6a3a6a89fc815c7e0e59e01295ac",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=43257&md5_url=4adb6a3a6a89fc815c7e0e59e01295ac",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=43257&md5_url=4adb6a3a6a89fc815c7e0e59e01295ac",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=43257&md5_url=4adb6a3a6a89fc815c7e0e59e01295ac",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=43257&md5_url=4adb6a3a6a89fc815c7e0e59e01295ac"
+        },
+        {
+            "SCHEMA": "年度別、地區單位、死亡人數",
+            "RES_FILETYPE": "WEBSERVICES",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/rest/datastore/A17000000J-030076-0aI",
+            "RES_DESC": "職業安全衛生法適用行業工作場所重大職業災害死亡人數",
+            "RES_DATE_UPDATE_META": "2018/02/13 13:36"
+        },
+        {
+            "SCHEMA": "年度別、地區單位、死亡人數",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/download/A17000000J-030076-7ti",
+            "RES_DESC": "職業安全衛生法適用行業工作場所重大職業災害死亡人數",
+            "RES_DATE_UPDATE_META": "2018/02/13 13:36",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=43257&md5_url=c33ea1b4916aec98be2a1396a4e4212b",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=43257&md5_url=c33ea1b4916aec98be2a1396a4e4212b",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=43257&md5_url=c33ea1b4916aec98be2a1396a4e4212b",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=43257&md5_url=c33ea1b4916aec98be2a1396a4e4212b",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=43257&md5_url=c33ea1b4916aec98be2a1396a4e4212b"
+        }
+    ]
+}

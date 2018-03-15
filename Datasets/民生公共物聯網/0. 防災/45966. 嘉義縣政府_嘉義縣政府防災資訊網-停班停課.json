@@ -1,0 +1,51 @@
+{
+    "TITLE": "嘉義縣政府防災資訊網-停班停課",
+    "NODE": "45966",
+    "DESC": "嘉義縣政府防災資訊網-停班停課",
+    "SCHEMA": "ArticleType: 公告模式:0.文章 1.附件 2.連結,FileName: 文章檔案,Link: 文章連結,其餘欄位的說明為格式欄位",
+    "AGENCY": "嘉義縣政府",
+    "AGENCY_CONTACT": "劉小姐 (053620123#229)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/06/05",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/06/16 10:33",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 182 下載次數: 13 意見數: 0 ",
+    "VIEWS": "182",
+    "DOWNLOAD": "13",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "ArticleType: 公告模式:0.文章 1.附件 2.連結,FileName: 文章檔案,Link: 文章連結,其餘欄位的說明為格式欄位",
+            "RES_FILETYPE": "RSS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "50",
+            "RES_URL": "http://www.cyhg.gov.tw/disaster/OpenData.aspx?SN=28D346B00DF0D9E6",
+            "RES_DESC": "嘉義縣政府防災資訊網-停班停課",
+            "RES_DATE_UPDATE_META": "2018/01/16 14:00"
+        },
+        {
+            "SCHEMA": "ArticleType: 公告模式:0.文章 1.附件 2.連結,FileName: 文章檔案,Link: 文章連結,其餘欄位的說明為格式欄位",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "50",
+            "RES_URL": "http://www.cyhg.gov.tw/disaster/OpenData.aspx?SN=B0DAD2307A4FC3D8",
+            "RES_DESC": "嘉義縣政府防災資訊網-停班停課",
+            "RES_DATE_UPDATE_META": "2017/12/10 18:29"
+        },
+        {
+            "SCHEMA": "ArticleType: 公告模式:0.文章 1.附件 2.連結,FileName: 文章檔案,Link: 文章連結,其餘欄位的說明為格式欄位",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "50",
+            "RES_URL": "http://www.cyhg.gov.tw/disaster/OpenData.aspx?SN=AFBAFABE2BDA9035",
+            "RES_DESC": "嘉義縣政府防災資訊網-停班停課",
+            "RES_DATE_UPDATE_META": "2017/12/10 18:29"
+        }
+    ]
+}

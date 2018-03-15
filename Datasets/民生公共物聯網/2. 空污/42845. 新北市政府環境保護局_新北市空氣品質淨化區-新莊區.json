@@ -1,0 +1,57 @@
+{
+    "TITLE": "新北市空氣品質淨化區-新莊區",
+    "NODE": "42845",
+    "DESC": "新北市空氣品質淨化區基本資料",
+    "SCHEMA": [
+        "項次id",
+        "行政區域district",
+        "設置年度year",
+        "基地類別type",
+        "基地名稱name",
+        "基地面積area/長度length",
+        "管理單位manager"
+    ],
+    "AGENCY": "新北市政府環境保護局",
+    "AGENCY_CONTACT": "徐小姐 (3279)",
+    "UPDATE_FREQ": "每年",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/01/26",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/06/01 08:00",
+    "KEYWORDS": [
+        "名冊"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 138 下載次數: 25 意見數: 0 ",
+    "VIEWS": "138",
+    "DOWNLOAD": "25",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "項次id、行政區域district、設置年度year、基地類別type、基地名稱name、基地面積area/長度length、管理單位manager",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://data.ntpc.gov.tw/od/zipfiledl?oid=B6D92F0D-84F2-401F-8064-2D76EB0EA0D0&ft=zip",
+            "RES_DESC": "新北市空氣品質淨化區-新莊區",
+            "RES_DATE_UPDATE_META": "2017/11/26 15:45",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=42845&md5_url=da6ebcef3caafc559046053c8360fd7a",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=42845&md5_url=da6ebcef3caafc559046053c8360fd7a",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=42845&md5_url=da6ebcef3caafc559046053c8360fd7a",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=42845&md5_url=da6ebcef3caafc559046053c8360fd7a",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=42845&md5_url=da6ebcef3caafc559046053c8360fd7a"
+        },
+        {
+            "SCHEMA": "項次id、行政區域district、設置年度year、基地類別type、基地名稱name、基地面積area/長度length、管理單位manager",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://data.ntpc.gov.tw/api/v1/rest/datastore/382000000A-002305-001",
+            "RES_DESC": "新北市空氣品質淨化區-新莊區",
+            "RES_DATE_UPDATE_META": "2017/11/26 15:45"
+        }
+    ]
+}

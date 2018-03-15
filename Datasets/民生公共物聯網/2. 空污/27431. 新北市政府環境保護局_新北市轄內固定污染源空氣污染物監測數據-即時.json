@@ -1,0 +1,49 @@
+{
+    "TITLE": "新北市轄內固定污染源空氣污染物監測數據-即時",
+    "NODE": "27431",
+    "DESC": "針對固定污染源空氣污染物連續自動監測設施(CEMS)監測數據-即時",
+    "SCHEMA": "Cno:中文廠名\r\rDP_NO:煙囪編號\r\rITEM:中文測項\r\rM_year:YYYY\r\rM_month:MM\r\rM_day:DD\r\rM_time:HHMM\r\rM_Val:測值\r\rCode2 :中文狀態",
+    "AGENCY": "新北市政府環境保護局",
+    "AGENCY_CONTACT": "張 小姐 (3272)",
+    "UPDATE_FREQ": "每小時",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/02/03",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2016/02/11 23:11",
+    "KEYWORDS": [
+        "測量"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 2990 下載次數: 618 意見數: 0 ",
+    "VIEWS": "2990",
+    "DOWNLOAD": "618",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "Cno:中文廠名\r\rDP_NO:煙囪編號\r\rITEM:中文測項\r\rM_year:YYYY\r\rM_month:MM\r\rM_day:DD\r\rM_time:HHMM\r\rM_Val:測值\r\rCode2 :中文狀態",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://data.ntpc.gov.tw/od/zipfiledl?oid=E01CFAED-CA79-46A5-A52B-48093C6EA3FF&ft=zip",
+            "RES_DESC": "新北市轄內固定污染源空氣污染物監測數據-即時",
+            "RES_DATE_UPDATE_META": "2018/03/15 23:20",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=27431&md5_url=914d9f55bf6096a75b53f467b3c7a3a5",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=27431&md5_url=914d9f55bf6096a75b53f467b3c7a3a5",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=27431&md5_url=914d9f55bf6096a75b53f467b3c7a3a5",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=27431&md5_url=914d9f55bf6096a75b53f467b3c7a3a5",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=27431&md5_url=914d9f55bf6096a75b53f467b3c7a3a5"
+        },
+        {
+            "SCHEMA": "Cno:中文廠名\r\rDP_NO:煙囪編號\r\rITEM:中文測項\r\rM_year:YYYY\r\rM_month:MM\r\rM_day:DD\r\rM_time:HHMM\r\rM_Val:測值\r\rCode2 :中文狀態",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://data.ntpc.gov.tw/api/v1/rest/datastore/382000000A-000342-001",
+            "RES_DESC": "新北市轄內固定污染源空氣污染物監測數據-即時",
+            "RES_DATE_UPDATE_META": "2018/03/15 23:20"
+        }
+    ]
+}

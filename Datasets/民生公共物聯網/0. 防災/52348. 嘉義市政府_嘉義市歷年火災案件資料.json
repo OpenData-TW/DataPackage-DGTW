@@ -1,0 +1,88 @@
+{
+    "TITLE": "嘉義市歷年火災案件資料",
+    "NODE": "52348",
+    "DESC": "嘉義市政府消防局提供火災案件時間、起火原因、傷亡人數等，自102年起每年一個檔案",
+    "SCHEMA": [
+        "縣市\t\"鄉",
+        "鎮\r 市",
+        "區\"\t街",
+        "路段\t火災案件編號(同火災原因調查鑑定書編號)",
+        "\t報案時間(同火災出動觀察紀錄)",
+        "月:日:時:分",
+        "\t抵達時間(同火災出動觀察紀錄)",
+        "月:日:時:分",
+        "\t起火原因\t死亡人數\t受傷人數"
+    ],
+    "AGENCY": "嘉義市政府",
+    "AGENCY_CONTACT": "火災調查科 (05-2716660#352)",
+    "UPDATE_FREQ": "每年",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/02/23",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/12/18 16:08",
+    "KEYWORDS": [
+        "嘉義市",
+        "資料"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "相關網址": "http://data.chiayi.gov.tw",
+    "Stats": "瀏覽次數: 51 下載次數: 7 意見數: 0 ",
+    "VIEWS": "51",
+    "DOWNLOAD": "7",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "縣市\t\"鄉、鎮\r 市、區\"\t街、路段\t火災案件編號(同火災原因調查鑑定書編號)、\t報案時間(同火災出動觀察紀錄)、月:日:時:分、\t抵達時間(同火災出動觀察紀錄)、月:日:時:分、\t起火原因\t死亡人數\t受傷人數",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://data.chiayi.gov.tw/opendata/api/getResource?oid=1490b543-fbc3-4fb5-a63d-0adcd0db00e3&rid=c673bafb-c472-4490-ac9f-39e74f1381d3",
+            "RES_DESC": "嘉義市102年火災事件資料",
+            "RES_DATE_UPDATE_META": "2017/02/23 09:26",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=52348&md5_url=7ea4969314cea0c60260f3672381c789",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=52348&md5_url=7ea4969314cea0c60260f3672381c789",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=52348&md5_url=7ea4969314cea0c60260f3672381c789",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=52348&md5_url=7ea4969314cea0c60260f3672381c789",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=52348&md5_url=7ea4969314cea0c60260f3672381c789"
+        },
+        {
+            "SCHEMA": "縣市\t\"鄉、鎮\r 市、區\"\t街、路段\t火災案件編號(同火災原因調查鑑定書編號)、\t報案時間(同火災出動觀察紀錄)、月:日:時:分、\t抵達時間(同火災出動觀察紀錄)、月:日:時:分、\t起火原因\t死亡人數\t受傷人數",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://data.chiayi.gov.tw/opendata/api/getResource?oid=1490b543-fbc3-4fb5-a63d-0adcd0db00e3&rid=4b7f9121-4a51-45eb-ae50-b670f99d8fe4",
+            "RES_DESC": "嘉義市105年火災事件資料",
+            "RES_DATE_UPDATE_META": "2017/12/18 16:05"
+        },
+        {
+            "SCHEMA": "縣市\t\"鄉、鎮\r 市、區\"\t街、路段\t火災案件編號(同火災原因調查鑑定書編號)、\t報案時間(同火災出動觀察紀錄)、月:日:時:分、\t抵達時間(同火災出動觀察紀錄)、月:日:時:分、\t起火原因\t死亡人數\t受傷人數",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://data.chiayi.gov.tw/opendata/api/getResource?oid=1490b543-fbc3-4fb5-a63d-0adcd0db00e3&rid=9667d625-e3fc-499b-89f1-f1a203dd0fdf",
+            "RES_DESC": "嘉義市104年火災事件資料",
+            "RES_DATE_UPDATE_META": "2017/02/23 09:24",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=52348&md5_url=6b5f5df215c526b8c1e789b6f50d2ff6",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=52348&md5_url=6b5f5df215c526b8c1e789b6f50d2ff6",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=52348&md5_url=6b5f5df215c526b8c1e789b6f50d2ff6",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=52348&md5_url=6b5f5df215c526b8c1e789b6f50d2ff6",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=52348&md5_url=6b5f5df215c526b8c1e789b6f50d2ff6"
+        },
+        {
+            "SCHEMA": "縣市\t\"鄉、鎮\r 市、區\"\t街、路段\t火災案件編號(同火災原因調查鑑定書編號)、\t報案時間(同火災出動觀察紀錄)、月:日:時:分、\t抵達時間(同火災出動觀察紀錄)、月:日:時:分、\t起火原因\t死亡人數\t受傷人數",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://data.chiayi.gov.tw/opendata/api/getResource?oid=1490b543-fbc3-4fb5-a63d-0adcd0db00e3&rid=88be7d86-6231-4973-b017-06ec043116f3",
+            "RES_DESC": "嘉義市103年火災事件資料",
+            "RES_DATE_UPDATE_META": "2017/02/23 09:22",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=52348&md5_url=368b83ad2adc236e2685b7b178fbba17",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=52348&md5_url=368b83ad2adc236e2685b7b178fbba17",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=52348&md5_url=368b83ad2adc236e2685b7b178fbba17",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=52348&md5_url=368b83ad2adc236e2685b7b178fbba17",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=52348&md5_url=368b83ad2adc236e2685b7b178fbba17"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "TITLE": "科技部防災學門專題計畫補助清冊 ",
+    "NODE": "39609",
+    "DESC": "科技部防災學門專題計畫補助清冊",
+    "SCHEMA": [
+        "年度",
+        "學門",
+        "計畫名稱",
+        "執行機關",
+        "執行期限(起)",
+        "執行期限(迄)"
+    ],
+    "AGENCY": "科技部",
+    "AGENCY_CONTACT": "陳小姐 (0227377811)",
+    "UPDATE_FREQ": "每年",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/11/22",
+    "DATA_TYPE": "原始資料",
+    "DATE_UPDATE_META": "2016/11/22 16:51",
+    "KEYWORDS": [
+        "防災氣象、防災坡地、防災洪旱、防災地震、防災體系"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 202 下載次數: 16 意見數: 0 ",
+    "VIEWS": "202",
+    "DOWNLOAD": "16",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "年度、學門、計畫名稱、執行機關、執行期限(起)、執行期限(迄)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "1",
+            "RES_URL": "http://mas.most.gov.tw/opendata/GetFile?format=csv&type=2&serialno=243",
+            "RES_DESC": "科技部防災學門專題計畫補助清冊",
+            "RES_DATE_UPDATE_META": "2017/12/13 01:05",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=39609&md5_url=950631a71d52927c66686e52e084f1c7",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=39609&md5_url=950631a71d52927c66686e52e084f1c7",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=39609&md5_url=950631a71d52927c66686e52e084f1c7",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=39609&md5_url=950631a71d52927c66686e52e084f1c7",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=39609&md5_url=950631a71d52927c66686e52e084f1c7"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "TITLE": "中央災害應變中心目前開設的專案及成立情形",
+    "NODE": "12848",
+    "DESC": "依中央災害應變中心專案開設及縣市層級成立情形\rcaseCode：專案代碼。\rcaseName：專案名稱。\reocName：災害應變中心名稱。\ropenTier：開設層級，內容說明如下：\r1：一級開設；2：二級開設；3：三級開設。\rcaseStartTime：開設時間，時間格式：西元年月日時分。\rcaseEndTime：撤除時間，時間格式：西元年月日時分。\r開設中的專案：無撤除時間，已撤除才會有時間點。\rdisName：災害類別名稱。",
+    "SCHEMA": [
+        "OpenCaseInfoList",
+        "resultCode",
+        "resultText"
+    ],
+    "AGENCY": "消防署",
+    "AGENCY_CONTACT": "林晃任 先生 (02-81956142)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2015/03/10",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2018/02/23 09:39",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 3105 下載次數: 358 意見數: 0 ",
+    "VIEWS": "3105",
+    "DOWNLOAD": "358",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "OpenCaseInfoList、resultCode、resultText",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://data.moi.gov.tw/MoiOD/System/DownloadFile.aspx?DATA=A38E8B00-0DD8-4EDD-967F-5F3648492D4F",
+            "RES_DESC": "中央災害應變中心目前開設的專案及成立情形",
+            "RES_DATE_UPDATE_META": "2018/02/11 05:41"
+        }
+    ]
+}

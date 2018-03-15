@@ -1,0 +1,57 @@
+{
+    "TITLE": "消防榮譽榜─每月績優人員",
+    "NODE": "40459",
+    "DESC": "新北市政府消防局每月績優人員名冊",
+    "SCHEMA": [
+        "Month：月份",
+        "Unit：單位",
+        "Name：姓名",
+        "Content：事蹟"
+    ],
+    "AGENCY": "新北市政府消防局",
+    "AGENCY_CONTACT": "陳 小姐 (8324)",
+    "UPDATE_FREQ": "每月",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/12/01",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2018/03/06 11:08",
+    "KEYWORDS": [
+        "救災",
+        "安全",
+        "防災",
+        "名冊"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 160 下載次數: 20 意見數: 0 ",
+    "VIEWS": "160",
+    "DOWNLOAD": "20",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "Month：月份、Unit：單位、Name：姓名、Content：事蹟",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://data.ntpc.gov.tw/od/zipfiledl?oid=6B627694-DCBC-4F41-B1F6-FEC262E91E39&ft=zip",
+            "RES_DESC": "消防榮譽榜─每月績優人員",
+            "RES_DATE_UPDATE_META": "2018/03/06 11:08",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=40459&md5_url=63488580378a0f61137cf4240b642a00",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=40459&md5_url=63488580378a0f61137cf4240b642a00",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=40459&md5_url=63488580378a0f61137cf4240b642a00",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=40459&md5_url=63488580378a0f61137cf4240b642a00",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=40459&md5_url=63488580378a0f61137cf4240b642a00"
+        },
+        {
+            "SCHEMA": "Month：月份、Unit：單位、Name：姓名、Content：事蹟",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://data.ntpc.gov.tw/api/v1/rest/datastore/382000000A-002117-001",
+            "RES_DESC": "消防榮譽榜─每月績優人員",
+            "RES_DATE_UPDATE_META": "2018/03/06 11:08"
+        }
+    ]
+}

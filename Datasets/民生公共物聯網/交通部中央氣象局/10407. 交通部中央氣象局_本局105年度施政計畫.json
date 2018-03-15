@@ -1,0 +1,33 @@
+{
+    "TITLE": "本局105年度施政計畫",
+    "NODE": "10407",
+    "DESC": "本局105年度施政計畫",
+    "SCHEMA": "本局105年度施政計畫",
+    "AGENCY": "交通部中央氣象局",
+    "AGENCY_CONTACT": "莊先生 (0223491012)",
+    "UPDATE_FREQ": "不更新",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/03/02",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/03/02 17:47",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 910 下載次數: 39 意見數: 0 ",
+    "VIEWS": "910",
+    "DOWNLOAD": "39",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "本局105年度施政計畫",
+            "RES_FILETYPE": "PDF",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://cwb.gov.tw/V7/service/notice/download/notice_20160901085701.pdf",
+            "RES_DESC": "中央氣象局105年施政計畫",
+            "RES_DATE_UPDATE_META": "2017/10/26 16:13"
+        }
+    ]
+}

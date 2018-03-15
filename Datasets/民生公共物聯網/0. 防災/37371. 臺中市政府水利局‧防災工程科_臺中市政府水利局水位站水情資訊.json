@@ -1,0 +1,47 @@
+{
+    "TITLE": "臺中市政府水利局水位站水情資訊",
+    "NODE": "37371",
+    "DESC": "臺中市政府水利局水位站水情資訊",
+    "SCHEMA": [
+        "黃色警戒值m",
+        "是否黃色警戒1是0否",
+        "紅色警戒值m",
+        "是否紅色警戒1是0否",
+        "資料時間",
+        "經度",
+        "緯度",
+        "水位高m",
+        "水位站名稱",
+        "行政區",
+        "護岸高m",
+        "狀態",
+        "影像網址",
+        "站代碼"
+    ],
+    "AGENCY": "臺中市政府水利局‧防災工程科",
+    "AGENCY_CONTACT": "林 (22289111#53704;0422289111#53704)",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/10/11",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/06/30 05:30",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "更新頻率說明: 其他更新頻率授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 582 下載次數: 85 意見數: 0 ",
+    "VIEWS": "582",
+    "DOWNLOAD": "85",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "黃色警戒值m、是否黃色警戒1是0否、紅色警戒值m、是否紅色警戒1是0否、資料時間、經度、緯度、水位高m、水位站名稱、行政區、護岸高m、狀態、影像網址、站代碼",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "其他",
+            "REC_COUNT": "9",
+            "RES_URL": "http://data.taichung.gov.tw:80/wSite/public/data/f1476145657142.xml",
+            "RES_DESC": "提供json格式",
+            "RES_DATE_UPDATE_META": "2017/06/29 14:42"
+        }
+    ]
+}

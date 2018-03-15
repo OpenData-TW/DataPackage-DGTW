@@ -1,0 +1,54 @@
+{
+    "TITLE": "新北市各類場所辦理消防安全設備檢修申報期限表",
+    "NODE": "40548",
+    "DESC": "檢修申報類別及時間",
+    "SCHEMA": [
+        "class：類別",
+        "item：目別",
+        "application：用途",
+        "deadline：申報期限"
+    ],
+    "AGENCY": "新北市政府消防局",
+    "AGENCY_CONTACT": "施小姐 (6111)",
+    "UPDATE_FREQ": "每年",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/12/03",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/06/01 08:00",
+    "KEYWORDS": [
+        "防災"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 271 下載次數: 27 意見數: 0 ",
+    "VIEWS": "271",
+    "DOWNLOAD": "27",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "class：類別、item：目別、application：用途、deadline：申報期限",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://data.ntpc.gov.tw/od/zipfiledl?oid=896A73C3-8B31-43E0-BCC7-6B27FD4C8374&ft=zip",
+            "RES_DESC": "新北市各類場所辦理消防安全設備檢修申報期限表",
+            "RES_DATE_UPDATE_META": "2017/11/26 15:22",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=40548&md5_url=1479ab3b3f0e5443f9a83d346619f52f",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=40548&md5_url=1479ab3b3f0e5443f9a83d346619f52f",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=40548&md5_url=1479ab3b3f0e5443f9a83d346619f52f",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=40548&md5_url=1479ab3b3f0e5443f9a83d346619f52f",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=40548&md5_url=1479ab3b3f0e5443f9a83d346619f52f"
+        },
+        {
+            "SCHEMA": "class：類別、item：目別、application：用途、deadline：申報期限",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://data.ntpc.gov.tw/api/v1/rest/datastore/382000000A-002128-001",
+            "RES_DESC": "新北市各類場所辦理消防安全設備檢修申報期限表",
+            "RES_DATE_UPDATE_META": "2017/11/26 15:22"
+        }
+    ]
+}

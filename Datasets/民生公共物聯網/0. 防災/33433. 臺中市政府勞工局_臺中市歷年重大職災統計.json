@@ -1,0 +1,39 @@
+{
+    "TITLE": "臺中市歷年重大職災統計",
+    "NODE": "33433",
+    "DESC": "臺中市歷年重大職災統計資料",
+    "SCHEMA": [
+        "發生日期",
+        "罹災人數",
+        "傷害類型",
+        "災害發生單位行業別",
+        "發生地區"
+    ],
+    "AGENCY": "臺中市政府勞工局",
+    "AGENCY_CONTACT": "黃 (0422289111#36623)",
+    "UPDATE_FREQ": "每月",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/08/01",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/05/27 05:30",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "求職及就業",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 407 下載次數: 39 意見數: 0 ",
+    "VIEWS": "407",
+    "DOWNLOAD": "39",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "發生日期、罹災人數、傷害類型、災害發生單位行業別、發生地區",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "其他",
+            "REC_COUNT": "9",
+            "RES_URL": "http://data.taichung.gov.tw:80/wSite/public/data/f1469674407159.xls",
+            "RES_DESC": "臺中市歷年重大職災統計資料",
+            "RES_DATE_UPDATE_META": "2017/12/08 16:57"
+        }
+    ]
+}

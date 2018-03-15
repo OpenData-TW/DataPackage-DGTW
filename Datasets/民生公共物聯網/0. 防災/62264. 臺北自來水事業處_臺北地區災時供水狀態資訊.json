@@ -1,0 +1,42 @@
+{
+    "TITLE": "臺北地區災時供水狀態資訊",
+    "NODE": "62264",
+    "DESC": "臺北地區災時停水與減壓區域及相關資訊",
+    "SCHEMA": [
+        "KML格式，欄位包含狀態(停水/減壓)",
+        "原因",
+        "區域",
+        "發生時間",
+        "預計修復時間",
+        "聯絡單位",
+        "聯絡電話",
+        "資料更新時間",
+        "備註與範圍點位"
+    ],
+    "AGENCY": "臺北自來水事業處",
+    "AGENCY_CONTACT": "陳輝哲 (02-87335711)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2018/01/18 22:49",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "相關網址": "https://data.gov.tw/%E7%84%A1",
+    "Stats": "瀏覽次數: 15 下載次數: 0 意見數: 0 ",
+    "VIEWS": "15",
+    "DOWNLOAD": "0",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "KML格式，欄位包含狀態(停水/減壓)、原因、區域、發生時間、預計修復時間、聯絡單位、聯絡電話、資料更新時間、備註與範圍點位",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "其他",
+            "REC_COUNT": "0",
+            "RES_URL": "https://tpwater.blob.core.windows.net/blobfs/tpwater.kml",
+            "RES_DESC": "KML 檔案",
+            "RES_DATE_UPDATE_META": "2018/01/17 18:00"
+        }
+    ]
+}

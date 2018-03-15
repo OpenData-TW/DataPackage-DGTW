@@ -1,0 +1,124 @@
+{
+    "TITLE": "雲林縣空氣中總懸浮微粒及落塵量檢驗結果",
+    "NODE": "41726",
+    "DESC": "雲林縣空氣中總懸浮微粒及落塵量檢驗結果統計表",
+    "SCHEMA": "測站名稱,測站編號,總懸浮微粒,落塵量",
+    "AGENCY": "雲林縣環境保護局",
+    "AGENCY_CONTACT": "王先生 (055340414#218;055526218)",
+    "UPDATE_FREQ": "每月",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/12/28",
+    "DATA_TYPE": "原始資料",
+    "DATE_UPDATE_META": "2016/12/28 22:06",
+    "KEYWORDS": [],
+    "CATEGORY": "政府統計",
+    "SERVICE_TYPE": "生活安全及品質",
+    "相關網址": "http://www.ylepb.gov.tw/form/index.asp?Parser=3%2C10%2C341%2C%2C%2C%2C1806%2C106",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 289 下載次數: 180 意見數: 0 ",
+    "VIEWS": "289",
+    "DOWNLOAD": "180",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "測站名稱,測站編號,總懸浮微粒,落塵量",
+            "RES_FILETYPE": "XLSX",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "100",
+            "RES_URL": "http://www.ylepb.gov.tw/df_ufiles/h/20160205_10501空氣中懸浮微粒及落塵量檢驗結果統計_雲林縣.xlsx",
+            "RES_DESC": "105年度1月",
+            "RES_DATE_UPDATE_META": "2017/12/06 00:17"
+        },
+        {
+            "SCHEMA": "測站名稱,測站編號,總懸浮微粒,落塵量",
+            "RES_FILETYPE": "XLSX",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "100",
+            "RES_URL": "http://www.ylepb.gov.tw/df_ufiles/h/20160309_10502空氣中懸浮微粒及落塵量檢驗結果統計_雲林縣.xlsx",
+            "RES_DESC": "105年度2月",
+            "RES_DATE_UPDATE_META": "2017/12/06 00:17"
+        },
+        {
+            "SCHEMA": "測站名稱,測站編號,總懸浮微粒,落塵量",
+            "RES_FILETYPE": "XLSX",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "100",
+            "RES_URL": "http://www.ylepb.gov.tw/df_ufiles/h/20160408_10503空氣中懸浮微粒及落塵量檢驗結果統計_雲林縣.xlsx",
+            "RES_DESC": "105年度3月",
+            "RES_DATE_UPDATE_META": "2017/12/06 00:17"
+        },
+        {
+            "SCHEMA": "測站名稱,測站編號,總懸浮微粒,落塵量",
+            "RES_FILETYPE": "XLSX",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "100",
+            "RES_URL": "http://www.ylepb.gov.tw/df_ufiles/h/20160510_10504空氣中懸浮微粒及落塵量檢驗結果統計_雲林縣.xlsx",
+            "RES_DESC": "105年度4月",
+            "RES_DATE_UPDATE_META": "2017/12/06 00:17"
+        },
+        {
+            "SCHEMA": "測站名稱,測站編號,總懸浮微粒,落塵量",
+            "RES_FILETYPE": "XLSX",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "100",
+            "RES_URL": "http://www.ylepb.gov.tw/df_ufiles/h/20160608_10505空氣中懸浮微粒及落塵量檢驗結果統計_雲林縣.xlsx",
+            "RES_DESC": "105年度5月",
+            "RES_DATE_UPDATE_META": "2017/12/06 00:17"
+        },
+        {
+            "SCHEMA": "測站名稱,測站編號,總懸浮微粒,落塵量",
+            "RES_FILETYPE": "XLSX",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "100",
+            "RES_URL": "http://www.ylepb.gov.tw/df_ufiles/h/20160715_10506空氣中懸浮微粒及落塵量檢驗結果統計_雲林縣.xlsx",
+            "RES_DESC": "105年度6月",
+            "RES_DATE_UPDATE_META": "2017/12/06 00:17"
+        },
+        {
+            "SCHEMA": "測站名稱,測站編號,總懸浮微粒,落塵量",
+            "RES_FILETYPE": "XLSX",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "100",
+            "RES_URL": "http://www.ylepb.gov.tw/df_ufiles/h/20160810_10507空氣中懸浮微粒及落塵量檢驗結果統計_雲林縣.xlsx",
+            "RES_DESC": "105年度7月",
+            "RES_DATE_UPDATE_META": "2017/12/06 00:17"
+        },
+        {
+            "SCHEMA": "測站名稱,測站編號,總懸浮微粒,落塵量",
+            "RES_FILETYPE": "XLSX",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "100",
+            "RES_URL": "http://www.ylepb.gov.tw/df_ufiles/h/20160910_10508空氣中懸浮微粒及落塵量檢驗結果統計_雲林縣.xlsx",
+            "RES_DESC": "105年度8月",
+            "RES_DATE_UPDATE_META": "2017/12/06 00:17"
+        },
+        {
+            "SCHEMA": "測站名稱,測站編號,總懸浮微粒,落塵量",
+            "RES_FILETYPE": "XLSX",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "100",
+            "RES_URL": "http://www.ylepb.gov.tw/df_ufiles/h/20161014_10509空氣中懸浮微粒及落塵量檢驗結果統計_雲林縣.xlsx",
+            "RES_DESC": "105年度9月",
+            "RES_DATE_UPDATE_META": "2017/12/06 00:17"
+        },
+        {
+            "SCHEMA": "測站名稱,測站編號,總懸浮微粒,落塵量",
+            "RES_FILETYPE": "XLSX",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "100",
+            "RES_URL": "http://www.ylepb.gov.tw/df_ufiles/h/20161115_10510空氣中懸浮微粒及落塵量檢驗結果統計_雲林縣.xlsx",
+            "RES_DESC": "105年度10月",
+            "RES_DATE_UPDATE_META": "2017/12/06 00:17"
+        },
+        {
+            "SCHEMA": "測站名稱,測站編號,總懸浮微粒,落塵量",
+            "RES_FILETYPE": "XLSX",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "100",
+            "RES_URL": "http://www.ylepb.gov.tw/df_ufiles/h/20161214_10511空氣中懸浮微粒及落塵量檢驗結果統計_雲林縣r2.xlsx",
+            "RES_DESC": "105年度11月",
+            "RES_DATE_UPDATE_META": "2017/12/06 00:17"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "TITLE": "空氣污染排放量推估結果",
+    "NODE": "33609",
+    "DESC": "推估空氣污染物排放量1公里1公里網格排放量結果，推估基準年為民國99年，網格涵蓋範圍為臺灣本島地區，座標以TWD97-TM2 121中央經線為該網格點左下角座標，為點污染源、線污染源、面污染源與生物源加總總量，空氣污染物種包括TSP、PM10、PM2.5、SOx、NOx與NMHC。",
+    "SCHEMA": [
+        "TM2-E座標(TM2_E)",
+        "TM2-N座標(TM2_N)",
+        "TSP網格排放量(TSP_emi)",
+        "PM10網格排放量(PM10_emi)",
+        "PM2.5網格排放量(PM25_emi)",
+        "SOx網格排放量(SOx_emi)",
+        "NOx網格排放量(NOx_emi)",
+        "NMHC網格排放量(NMHC_emi)"
+    ],
+    "AGENCY": "行政院環境保護署",
+    "AGENCY_CONTACT": "簡先生 (0223712121#6103;0223117722#6103)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/03/10",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2016/08/04 18:14",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "授權說明網址: http://data.gov.tw/opendata/principle",
+    "Stats": "瀏覽次數: 1301 下載次數: 2202 意見數: 0 ",
+    "VIEWS": "1301",
+    "DOWNLOAD": "2202",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "TM2-E座標(TM2_E)、TM2-N座標(TM2_N)、TSP網格排放量(TSP_emi)、PM10網格排放量(PM10_emi)、PM2.5網格排放量(PM25_emi)、SOx網格排放量(SOx_emi)、NOx網格排放量(NOx_emi)、NMHC網格排放量(NMHC_emi)",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "74527",
+            "RES_URL": "http://opendata.epa.gov.tw/ws/Data/ATM00415/?$format=json",
+            "RES_DESC": "空氣污染排放量推估結果-JSON",
+            "RES_DATE_UPDATE_META": "2018/02/16 11:19"
+        },
+        {
+            "SCHEMA": "TM2-E座標(TM2_E)、TM2-N座標(TM2_N)、TSP網格排放量(TSP_emi)、PM10網格排放量(PM10_emi)、PM2.5網格排放量(PM25_emi)、SOx網格排放量(SOx_emi)、NOx網格排放量(NOx_emi)、NMHC網格排放量(NMHC_emi)",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "74527",
+            "RES_URL": "http://opendata.epa.gov.tw/ws/Data/ATM00415/?$format=xml",
+            "RES_DESC": "空氣污染排放量推估結果-XML",
+            "RES_DATE_UPDATE_META": "2018/02/16 11:19"
+        },
+        {
+            "SCHEMA": "TM2-E座標(TM2_E)、TM2-N座標(TM2_N)、TSP網格排放量(TSP_emi)、PM10網格排放量(PM10_emi)、PM2.5網格排放量(PM25_emi)、SOx網格排放量(SOx_emi)、NOx網格排放量(NOx_emi)、NMHC網格排放量(NMHC_emi)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "74527",
+            "RES_URL": "http://opendata.epa.gov.tw/ws/Data/ATM00415/?$format=csv",
+            "RES_DESC": "空氣污染排放量推估結果-CSV",
+            "RES_DATE_UPDATE_META": "2018/02/08 14:27",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=33609&md5_url=a40eb088a19838840e9ea1bae4b4e720",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=33609&md5_url=a40eb088a19838840e9ea1bae4b4e720",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=33609&md5_url=a40eb088a19838840e9ea1bae4b4e720",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=33609&md5_url=a40eb088a19838840e9ea1bae4b4e720",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=33609&md5_url=a40eb088a19838840e9ea1bae4b4e720"
+        }
+    ]
+}

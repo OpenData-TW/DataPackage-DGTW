@@ -1,0 +1,32 @@
+{
+    "TITLE": "高解析紅外線色調強化衛星雲圖-東亞 ",
+    "NODE": "8350",
+    "DESC": "高解析紅外線色調強化衛星雲圖影像",
+    "SCHEMA": "紅外線色調強化雲圖,800x800,東亞",
+    "AGENCY": "交通部中央氣象局",
+    "AGENCY_CONTACT": "王小姐 (0223491310)",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/08/23",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2016/08/23 09:13",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "更新頻率說明: 10分鐘授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 1593 下載次數: 147 意見數: 0 ",
+    "VIEWS": "1593",
+    "DOWNLOAD": "147",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "紅外線色調強化雲圖,800x800,東亞",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=O-B0032-004&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": " ",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:09"
+        }
+    ]
+}

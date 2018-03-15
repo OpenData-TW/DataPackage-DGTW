@@ -1,0 +1,42 @@
+{
+    "TITLE": "局屬氣象站-現在天氣觀測報告",
+    "NODE": "9178",
+    "DESC": "局屬氣象站資料(現在天氣觀測報告)",
+    "SCHEMA": "本局局屬有人氣象站資料",
+    "AGENCY": "交通部中央氣象局",
+    "AGENCY_CONTACT": "蔡 先生 (02-23497970)",
+    "UPDATE_FREQ": "不更新",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2015/12/29",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2018/02/22 17:13",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 6285 下載次數: 36288 意見數: 9 ",
+    "VIEWS": "6285",
+    "DOWNLOAD": "36288",
+    "COMMENTS": "9",
+    "RESOURCE": [
+        {
+            "SCHEMA": "本局局屬有人氣象站資料",
+            "RES_FILETYPE": "PDF",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://opendata.cwb.gov.tw/opendatadoc/DIV2/A0003-001.pdf",
+            "RES_DESC": "天氣因子對應說明",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:09"
+        },
+        {
+            "SCHEMA": "本局局屬有人氣象站資料",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=O-A0003-001&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": " ",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:09"
+        }
+    ]
+}

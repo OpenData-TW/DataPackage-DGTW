@@ -1,0 +1,35 @@
+{
+    "TITLE": "天然災害停止上班及上課情形-行政院人事行政總處全球資訊網",
+    "NODE": "61996",
+    "DESC": "天然災害停止上班及上課情形-行政院人事行政總處全球資訊網",
+    "SCHEMA": [
+        "縣市名稱",
+        "是否停止上班上課情形"
+    ],
+    "AGENCY": "臺北市政府人事處",
+    "AGENCY_CONTACT": "張家祥 (02-27208889-7723)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2015/08/20",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2018/01/18 22:19",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "Stats": "瀏覽次數: 34 下載次數: 3 意見數: 0 ",
+    "VIEWS": "34",
+    "DOWNLOAD": "3",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "縣市名稱、是否停止上班上課情形",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "其他",
+            "REC_COUNT": "0",
+            "RES_URL": "https://www.dgpa.gov.tw/informationlist?uid=374",
+            "RES_DESC": "行政院人事行政總處-天然災害停止上班及上課情形",
+            "RES_DATE_UPDATE_META": "2017/06/26 14:42"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "TITLE": "科技部大氣學門專題計畫補助清冊",
+    "NODE": "39607",
+    "DESC": "科技部大氣學門專題計畫補助清冊",
+    "SCHEMA": [
+        "年度",
+        "學門",
+        "計畫名稱",
+        "執行機關",
+        "執行期限(起)",
+        "執行期限(迄)"
+    ],
+    "AGENCY": "科技部",
+    "AGENCY_CONTACT": "陳小姐 (0227377811)",
+    "UPDATE_FREQ": "每年",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/11/22",
+    "DATA_TYPE": "原始資料",
+    "DATE_UPDATE_META": "2016/11/22 16:51",
+    "KEYWORDS": [
+        "大氣動力學與數值模擬、天氣學與氣候學、大氣物理與大氣化學、空氣污染與大氣邊界層、高層大氣學、應用氣象學、其它大氣科學、研究計畫"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 193 下載次數: 9 意見數: 0 ",
+    "VIEWS": "193",
+    "DOWNLOAD": "9",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "年度、學門、計畫名稱、執行機關、執行期限(起)、執行期限(迄)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "1",
+            "RES_URL": "http://mas.most.gov.tw/opendata/GetFile?format=csv&type=2&serialno=241",
+            "RES_DESC": "科技部大氣學門專題計畫補助清冊",
+            "RES_DATE_UPDATE_META": "2017/12/13 01:05"
+        }
+    ]
+}

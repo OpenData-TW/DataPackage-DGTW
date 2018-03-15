@@ -1,0 +1,511 @@
+{
+    "TITLE": "空氣品質資料",
+    "NODE": "76758",
+    "DESC": "彙整每月空氣品質自動及人工監測站監測月報表",
+    "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+    "AGENCY": "桃園市政府環境保護局",
+    "AGENCY_CONTACT": "林慧美 (03-4331718#610)",
+    "UPDATE_FREQ": "每月",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2018/01/22",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2018/03/05 10:50",
+    "KEYWORDS": [
+        "空氣品質資料"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "Stats": "瀏覽次數: 36 下載次數: 10 意見數: 0 ",
+    "VIEWS": "36",
+    "DOWNLOAD": "10",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=06253fec-c2b3-4776-8dab-2a74ab71a2e9",
+            "RES_DESC": "106年4月人工監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:21"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=f49391c9-3db4-4a48-ac2d-d1d818bbc413",
+            "RES_DESC": "106年4月三民自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:21"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=0d66adeb-994e-4893-bb7d-68db05f4af26",
+            "RES_DESC": "106年4月內壢自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:22"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=8e45bf63-d51a-45df-b20c-508976606044",
+            "RES_DESC": "106年4月新興自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:22"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=c9a5dc87-c450-488f-af7a-79044f315efb",
+            "RES_DESC": "106年4月觀音自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:22"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=a7f35b53-a12f-49d0-bc90-1edccdb54341",
+            "RES_DESC": "106年5月人工監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:23"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=5fe63516-708c-4ce0-9fce-a5d132eb0eca",
+            "RES_DESC": "106年5月三民自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:23"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=71842703-9928-4c86-9a78-59ae9444f96d",
+            "RES_DESC": "106年5月內壢自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:23"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=fc8837cf-e43b-4b77-af44-ac9ff85f3832",
+            "RES_DESC": "106年5月新興自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:24"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=b12a5e50-ee60-454b-b38b-b07a13df4224",
+            "RES_DESC": "106年5月觀音自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:24"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=37c0901c-14e7-40dc-a123-7b4a48734087",
+            "RES_DESC": "106年6月人工監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:24"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=a4413a5d-2c6d-46fe-9143-1b4f3a8dab96",
+            "RES_DESC": "106年6月三民自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:25"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=7578853d-bded-43f7-a6bc-cfabfe0364e4",
+            "RES_DESC": "106年6月內壢自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:25"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=e34d58fa-f881-4e03-9172-ea8ec1eb0d4b",
+            "RES_DESC": "106年6月新興自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:25"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=ece610e1-8d14-41cd-9248-5c1c21408ffb",
+            "RES_DESC": "106年6月觀音自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:26"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=b50f3178-cc36-46c8-a6de-7f2fb2022dbd",
+            "RES_DESC": "106年7月人工監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:26"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=b605930a-cb78-4671-9872-f37e9ea2569e",
+            "RES_DESC": "106年7月三民自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:26"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=10b1f1ae-b0d8-40fe-90c2-a6716145456a",
+            "RES_DESC": "106年7月內壢自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:27"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=46443cf2-9cb8-46bc-8ba0-d698aa67466a",
+            "RES_DESC": "106年7月新興自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:27"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=e73861d8-5202-464b-acba-94013fdb1d5a",
+            "RES_DESC": "106年7月觀音自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:28"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=0162bd0a-4ff3-4355-bdad-f820526f3efc",
+            "RES_DESC": "106年8月人工監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:28"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=828c200c-0b7a-4e78-86ef-d8c43730fa6c",
+            "RES_DESC": "106年8月三民自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:28"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=c76d2974-3180-4aba-ba48-eeecc9d979e5",
+            "RES_DESC": "106年8月內壢自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:29"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=60065a96-4c3c-4b32-8575-9d92e2010565",
+            "RES_DESC": "106年8月新興自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:29"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=c5a6ebaa-23f9-4d6e-8d8f-8c7b08f63c83",
+            "RES_DESC": "106年8月觀音自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:29"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=f762f348-13f9-441d-9e02-c9e181690782",
+            "RES_DESC": "106年9月人工監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:30"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=d56a2b01-4911-439f-b1e6-7d38e0e982a2",
+            "RES_DESC": "106年9月三民自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:30"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=fd7e915a-d32e-44fa-8db1-0232fd5c0c86",
+            "RES_DESC": "106年9月內壢自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:30"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=5b6617db-12a8-45f1-af22-7eab023a2d43",
+            "RES_DESC": "106年9月華亞自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:31"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=081c872f-b799-4402-b3e9-08ebace9f07e",
+            "RES_DESC": "106年9月新興自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:31"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=9ac3dc1e-0511-4586-9b20-22915b0b7032",
+            "RES_DESC": "106年9月觀音自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:31"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=3cdbcd8e-97a8-4d9a-b7bc-fb116c5e562d",
+            "RES_DESC": "106年10月人工監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:32"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=0fd26d64-36c8-4a7b-bcfc-1f2fab91c130",
+            "RES_DESC": "106年10月內壢自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:32"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=f71b203c-e82d-48e6-a9f7-7d5bccde22ae",
+            "RES_DESC": "106年10月華亞自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:32"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=b97b4de8-9a4a-4b11-bd96-7a1f7c98f31b",
+            "RES_DESC": "106年10月新興自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:33"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=b89931fa-0ee7-46c7-a5f4-cdc37616df7f",
+            "RES_DESC": "106年10月觀音自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:33"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=e80c8c92-9693-4724-8125-1c77f8fca672",
+            "RES_DESC": "106年11月人工監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:33"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=b205b5f7-1f62-4f1d-a056-8912ef69373e",
+            "RES_DESC": "106年11月內壢自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:34"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=ba9cc2cf-acd6-42b0-9732-ec9b49b3884f",
+            "RES_DESC": "106年11月華亞自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:34"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=e14ef945-4b17-48b4-a970-f28e321573a3",
+            "RES_DESC": "106年11月新興自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:34"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=3edd22c7-21cb-422b-bedf-fbc26c9a7188",
+            "RES_DESC": "106年11月觀音自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/22 11:35"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=b521b691-aade-427f-b402-7f342502d445",
+            "RES_DESC": "106年12月人工監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/30 10:09"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=3ba91693-ae7f-4adc-b155-23b6931395ea",
+            "RES_DESC": "106年12月內壢自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/30 10:09"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=b7277a0d-72da-4c7e-9c5c-812008e32ba9",
+            "RES_DESC": "106年12月華亞自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/30 10:10"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=3841ac7f-4d1a-47a8-920e-699dd1189ece",
+            "RES_DESC": "106年12月新興自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/30 10:10"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=f2150dda-922f-4b52-9d67-b4899afffe16",
+            "RES_DESC": "106年12月觀音自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/01/30 10:10"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=64f18f4b-d33b-4fb1-887c-45ef65a985a7",
+            "RES_DESC": "107年1月人工監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/03/05 10:13"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=029ebc50-e852-40d5-a052-b36c854de0f7",
+            "RES_DESC": "107年1月內壢自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/03/05 10:14"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=9614190a-aa2e-47e7-aeba-c70bf967a895",
+            "RES_DESC": "107年1月華亞自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/03/05 10:14"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=ad9c7595-923c-45b1-8916-090a4d6aa9fd",
+            "RES_DESC": "107年1月人工監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/03/05 10:42"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=270c8919-a7c2-41fb-85a4-882dabe83be4",
+            "RES_DESC": "107年1月內壢自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/03/05 10:43"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=c3ce33ec-cdee-45c8-b4c9-4076aa87b706",
+            "RES_DESC": "107年1月華亞自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/03/05 10:44"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=840f0d23-45f5-44bc-a6d5-fcdd89f618f7",
+            "RES_DESC": "107年1月新興自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/03/05 10:46"
+        },
+        {
+            "SCHEMA": "彙整每月空氣品質自動及人工監測站監測月報表",
+            "RES_FILETYPE": "XLS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=430ed2be-0423-4b86-8f74-1e7188fac126&rid=99207149-3f4a-4f15-97a2-61fb72e26e73",
+            "RES_DESC": "107年1月觀音自動監測站空氣品質資料",
+            "RES_DATE_UPDATE_META": "2018/03/05 10:46"
+        }
+    ]
+}

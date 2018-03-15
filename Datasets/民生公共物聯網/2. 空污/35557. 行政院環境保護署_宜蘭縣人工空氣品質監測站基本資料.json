@@ -1,0 +1,51 @@
+{
+    "TITLE": "宜蘭縣人工空氣品質監測站基本資料",
+    "NODE": "35557",
+    "DESC": "提供宜蘭縣人工空氣品質監測站基本資料",
+    "SCHEMA": "測站編號(測站編號)",
+    "AGENCY": "行政院環境保護署",
+    "AGENCY_CONTACT": "江先生 (039907755#203;039907755#208)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/09/13",
+    "DATA_TYPE": "原始資料",
+    "DATE_UPDATE_META": "2016/09/13 15:46",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 296 下載次數: 143 意見數: 0 ",
+    "VIEWS": "296",
+    "DOWNLOAD": "143",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "測站編號(測站編號)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://www.ilepb.gov.tw/api/ILEPB02004/format/csv",
+            "RES_DESC": "宜蘭縣人工空氣品質監測站基本資料",
+            "RES_DATE_UPDATE_META": "2017/11/18 09:13"
+        },
+        {
+            "SCHEMA": "測站編號(測站編號)",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://www.ilepb.gov.tw/api/ILEPB02004/format/json",
+            "RES_DESC": "宜蘭縣人工空氣品質監測站基本資料",
+            "RES_DATE_UPDATE_META": "2018/01/23 10:06"
+        },
+        {
+            "SCHEMA": "測站編號(測站編號)",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://www.ilepb.gov.tw/api/ILEPB02004/format/xml",
+            "RES_DESC": "宜蘭縣人工空氣品質監測站基本資料",
+            "RES_DATE_UPDATE_META": "2017/11/18 09:13"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "TITLE": "火災發生時間─按區域別分    ",
+    "NODE": "11954",
+    "DESC": "火災發生時間─按區域別分（資料起始時間：86年01月）",
+    "SCHEMA": [
+        "火災發生時間",
+        "總計",
+        "0-3時",
+        "3-6時",
+        "6-9時",
+        "9-12時",
+        "12-15時",
+        "15-18時",
+        "18-21時",
+        "21-24時"
+    ],
+    "AGENCY": "統計處",
+    "AGENCY_CONTACT": "陳昭如 小姐 (02-23565537)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2015/02/16",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2015/02/16 14:32",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "http://statis.moi.gov.tw/micst/stmain.jsp?sys=220&kind=21&type=1&funid=c...(ym=需求資料起始期年月，ymt=需求資料迄期年月)資料起始時間:8600(81代表民國86年,00代表月份,參數00代表查詢整年份資料,01則代表1月份,依此類推)。 資料迄期年月:10612(106代表民國年,12代表月份,一般資料收錄迄期年月為查詢日往前推兩個月)。",
+    "Stats": "瀏覽次數: 2030 下載次數: 101 意見數: 1 ",
+    "VIEWS": "2030",
+    "DOWNLOAD": "101",
+    "COMMENTS": "1",
+    "RESOURCE": [
+        {
+            "SCHEMA": "火災發生時間、總計、0-3時、3-6時、6-9時、9-12時、12-15時、15-18時、18-21時、21-24時",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://data.moi.gov.tw/MoiOD/System/DownloadFile.aspx?DATA=F4DB55A2-2C8F-47F2-A815-CEF26ACCAA74",
+            "RES_DESC": "火災發生時間─按區域別分    ",
+            "RES_DATE_UPDATE_META": "2018/03/06 08:58",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=11954&md5_url=5d73a5bbcab8ef1e6bae7917808e07e9",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=11954&md5_url=5d73a5bbcab8ef1e6bae7917808e07e9",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=11954&md5_url=5d73a5bbcab8ef1e6bae7917808e07e9",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=11954&md5_url=5d73a5bbcab8ef1e6bae7917808e07e9",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=11954&md5_url=5d73a5bbcab8ef1e6bae7917808e07e9"
+        }
+    ]
+}

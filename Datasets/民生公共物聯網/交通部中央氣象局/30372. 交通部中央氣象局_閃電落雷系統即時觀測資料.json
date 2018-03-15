@@ -1,0 +1,37 @@
+{
+    "TITLE": "閃電落雷系統即時觀測資料",
+    "NODE": "30372",
+    "DESC": "即時提供秒鐘閃電及落雷定位資料",
+    "SCHEMA": [
+        "經度",
+        "緯度",
+        "強度"
+    ],
+    "AGENCY": "交通部中央氣象局",
+    "AGENCY_CONTACT": "蔡 先生 (02-23497970)",
+    "UPDATE_FREQ": "不更新",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/04/11",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2016/04/11 11:59",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 3512 下載次數: 25756 意見數: 0 ",
+    "VIEWS": "3512",
+    "DOWNLOAD": "25756",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "經度、緯度、強度",
+            "RES_FILETYPE": "KMZ",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=O-A0039-001&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "即時提供秒鐘閃電及落雷定位資料",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:14"
+        }
+    ]
+}

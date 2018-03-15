@@ -1,0 +1,33 @@
+{
+    "TITLE": "臺美氣象預報系統發展技術合作協議第23號執行辦法",
+    "NODE": "10377",
+    "DESC": "本局為引進最新且成熟的氣象作業技術，持續提高預報之準確度及作業效能，自民國79年起由我國北美事務協調委員會(CCNAA)(現更名為駐美國台北經濟文化代表處 (TECRO))與美國在台協會(AIT)分別代表交通部中央氣象局與美國國家海洋暨大氣總署所屬預報系統實驗室(FSL)(現更名為地球系統實驗室全球系統組(ESRL/GSD))，簽署「臺美氣象預報系統發展技術合作協議」，從事氣象作業系統的長期合作發展工作。在此協議下，臺美雙方依合作的實際工作需求和任務，逐年簽訂執行辦法。",
+    "SCHEMA": "氣象預報系統發展 執行辦法",
+    "AGENCY": "交通部中央氣象局",
+    "AGENCY_CONTACT": "劉先生 (0223491288)",
+    "UPDATE_FREQ": "不更新",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2015/12/29",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2015/01/30 17:13",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 1081 下載次數: 25 意見數: 0 ",
+    "VIEWS": "1081",
+    "DOWNLOAD": "25",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "氣象預報系統發展 執行辦法",
+            "RES_FILETYPE": "PDF",
+            "RES_ENCODE": "其他",
+            "REC_COUNT": "9",
+            "RES_URL": "http://cwb.gov.tw/V7/service/notice/download/notice_20150130110127.pdf",
+            "RES_DESC": " ",
+            "RES_DATE_UPDATE_META": "2017/10/26 16:12"
+        }
+    ]
+}

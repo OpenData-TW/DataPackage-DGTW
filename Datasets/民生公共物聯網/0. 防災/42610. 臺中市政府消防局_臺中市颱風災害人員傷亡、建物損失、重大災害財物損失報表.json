@@ -1,0 +1,38 @@
+{
+    "TITLE": "臺中市颱風災害人員傷亡、建物損失、重大災害財物損失報表",
+    "NODE": "42610",
+    "DESC": "臺中市颱風災害人員傷亡、建物損失、重大災害財物損失報表",
+    "SCHEMA": [
+        "人員傷亡數",
+        "建物損失數",
+        "出動救災人員(人次)",
+        "出動救災裝備數",
+        "年別及區域別"
+    ],
+    "AGENCY": "臺中市政府消防局",
+    "AGENCY_CONTACT": "楊 (0423811119#263)",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/01/18",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/06/01 08:00",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "更新頻率說明: 風災應變中心撤除後授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 142 下載次數: 17 意見數: 0 ",
+    "VIEWS": "142",
+    "DOWNLOAD": "17",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "人員傷亡數、建物損失數、出動救災人員(人次)、出動救災裝備數、年別及區域別",
+            "RES_FILETYPE": "XLSX",
+            "RES_ENCODE": "其他",
+            "REC_COUNT": "9",
+            "RES_URL": "http://data.taichung.gov.tw:80/wSite/public/data/f1484704778340.xls",
+            "RES_DESC": "臺中市颱風災害人員傷亡、建物損失、重大災害財物損失報表",
+            "RES_DATE_UPDATE_META": "2017/12/08 17:40"
+        }
+    ]
+}

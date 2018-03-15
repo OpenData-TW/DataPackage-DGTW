@@ -1,0 +1,321 @@
+{
+    "TITLE": "交通部中央氣象局106年度會計報告",
+    "NODE": "43115",
+    "DESC": "交通部中央氣象局106年度會計報告",
+    "SCHEMA": "交通部中央氣象局106年度會計報告",
+    "AGENCY": "交通部中央氣象局",
+    "AGENCY_CONTACT": "林楷皓 先生 (02-23491068)",
+    "UPDATE_FREQ": "每月",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/02/14",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2018/02/22 10:13",
+    "KEYWORDS": [],
+    "CATEGORY": "政府支出",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 176 下載次數: 15 意見數: 0 ",
+    "VIEWS": "176",
+    "DOWNLOAD": "15",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "交通部中央氣象局106年度會計報告",
+            "RES_FILETYPE": "PDF",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://www-cwb.cwb.gov.tw/V7/service/notice/download/notice_20180222101233.pdf",
+            "RES_DESC": "交通部中央氣象局-中央政府前瞻基礎建設計畫第1期特別預算-106年度會計報告",
+            "RES_DATE_UPDATE_META": "2018/02/22 10:13"
+        },
+        {
+            "SCHEMA": "交通部中央氣象局106年度會計報告",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://www-cwb.cwb.gov.tw/V7/service/notice/download/notice_20180208114020.zip",
+            "RES_DESC": "中央氣象局-前瞻特別預算106年11月份會計月報(XML)",
+            "RES_DATE_UPDATE_META": "2018/02/22 09:51"
+        },
+        {
+            "SCHEMA": "交通部中央氣象局106年度會計報告",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://www-cwb.cwb.gov.tw/V7/service/notice/download/notice_20180208114101.zip",
+            "RES_DESC": "中央氣象局-前瞻特別預算106年12月份會計月報(XML)",
+            "RES_DATE_UPDATE_META": "2018/02/22 09:51"
+        },
+        {
+            "SCHEMA": "交通部中央氣象局106年度會計報告",
+            "RES_FILETYPE": "PDF",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://www-cwb.cwb.gov.tw/V7/service/notice/download/notice_20180208114128.pdf",
+            "RES_DESC": "中央氣象局-前瞻特別預算106年12月份會計月報(PDF)",
+            "RES_DATE_UPDATE_META": "2018/02/22 09:51"
+        },
+        {
+            "SCHEMA": "交通部中央氣象局106年度會計報告",
+            "RES_FILETYPE": "PDF",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://www-cwb.cwb.gov.tw/V7/service/notice/download/notice_20180209094612.pdf",
+            "RES_DESC": "中央氣象局-單位預算106年12月份會計月報(PDF)",
+            "RES_DATE_UPDATE_META": "2018/02/22 09:27"
+        },
+        {
+            "SCHEMA": "交通部中央氣象局106年度會計報告",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://www-cwb.cwb.gov.tw/V7/service/notice/download/notice_20180208115404.zip",
+            "RES_DESC": "中央氣象局-單位預算106年12月份會計月報(XML)",
+            "RES_DATE_UPDATE_META": "2018/02/22 09:27"
+        },
+        {
+            "SCHEMA": "交通部中央氣象局106年度會計報告",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://www-cwb.cwb.gov.tw/V7/service/notice/download/notice_20180208115328.zip",
+            "RES_DESC": "中央氣象局-單位預算106年11月份會計月報(XML)",
+            "RES_DATE_UPDATE_META": "2018/02/22 09:25"
+        },
+        {
+            "SCHEMA": "交通部中央氣象局106年度會計報告",
+            "RES_FILETYPE": "PDF",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://www.cwb.gov.tw/V7/service/notice/download/notice_20171211100658.pdf",
+            "RES_DESC": "中央氣象局-單位預算106年11月份會計月報(PDF) ",
+            "RES_DATE_UPDATE_META": "2017/12/12 18:06"
+        },
+        {
+            "SCHEMA": "交通部中央氣象局106年度會計報告",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://www.cwb.gov.tw/V7/service/notice/download/notice_20171211100554.pdf",
+            "RES_DESC": "中央氣象局-前瞻特別預算106年11月份會計月報(PDF)",
+            "RES_DATE_UPDATE_META": "2017/12/12 18:06"
+        },
+        {
+            "SCHEMA": "交通部中央氣象局106年度會計報告",
+            "RES_FILETYPE": "PDF",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://www.cwb.gov.tw/V7/service/notice/download/notice_20170209152133.pdf",
+            "RES_DESC": "中央氣象局-單位預算106年1月份會計月報(PDF)",
+            "RES_DATE_UPDATE_META": "2017/11/20 22:29"
+        },
+        {
+            "SCHEMA": "交通部中央氣象局106年度會計報告",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://www.cwb.gov.tw/V7/service/notice/download/notice_20170209152204.zip",
+            "RES_DESC": "中央氣象局-單位預算106年1月份會計月報(XML)",
+            "RES_DATE_UPDATE_META": "2017/11/20 22:29"
+        },
+        {
+            "SCHEMA": "交通部中央氣象局106年度會計報告",
+            "RES_FILETYPE": "PDF",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://www.cwb.gov.tw/V7/service/notice/download/notice_20170307144510.pdf",
+            "RES_DESC": "中央氣象局-單位預算106年2月份會計月報(PDF)",
+            "RES_DATE_UPDATE_META": "2017/11/20 22:29"
+        },
+        {
+            "SCHEMA": "交通部中央氣象局106年度會計報告",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://www.cwb.gov.tw/V7/service/notice/download/notice_20170307144533.zip",
+            "RES_DESC": "中央氣象局-單位預算106年2月份會計月報(XML)",
+            "RES_DATE_UPDATE_META": "2017/11/20 22:29"
+        },
+        {
+            "SCHEMA": "交通部中央氣象局106年度會計報告",
+            "RES_FILETYPE": "PDF",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://www.cwb.gov.tw/V7/service/notice/download/notice_20170411142118.pdf",
+            "RES_DESC": "中央氣象局-單位預算106年3月份會計月報(PDF)",
+            "RES_DATE_UPDATE_META": "2017/11/20 22:29"
+        },
+        {
+            "SCHEMA": "交通部中央氣象局106年度會計報告",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://www.cwb.gov.tw/V7/service/notice/download/notice_20170612151329.zip",
+            "RES_DESC": "中央氣象局-單位預算106年3月份會計月報(XML)",
+            "RES_DATE_UPDATE_META": "2017/11/20 22:29"
+        },
+        {
+            "SCHEMA": "交通部中央氣象局106年度會計報告",
+            "RES_FILETYPE": "PDF",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://www.cwb.gov.tw/V7/service/notice/download/notice_20170510100952.pdf",
+            "RES_DESC": "中央氣象局-單位預算106年4月份會計月報(PDF)",
+            "RES_DATE_UPDATE_META": "2017/11/20 22:29"
+        },
+        {
+            "SCHEMA": "交通部中央氣象局106年度會計報告",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://www.cwb.gov.tw/V7/service/notice/download/notice_20170510101017.zip",
+            "RES_DESC": "中央氣象局-單位預算106年4月份會計月報(XML)",
+            "RES_DATE_UPDATE_META": "2017/11/20 22:29"
+        },
+        {
+            "SCHEMA": "交通部中央氣象局106年度會計報告",
+            "RES_FILETYPE": "PDF",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://www.cwb.gov.tw/V7/service/notice/download/notice_20170612151209.pdf",
+            "RES_DESC": "中央氣象局-單位預算106年5月份會計月報(PDF)",
+            "RES_DATE_UPDATE_META": "2017/11/20 22:29"
+        },
+        {
+            "SCHEMA": "交通部中央氣象局106年度會計報告",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://www.cwb.gov.tw/V7/service/notice/download/notice_20170612151225.zip",
+            "RES_DESC": " 中央氣象局-單位預算106年5月份會計月報(XML)",
+            "RES_DATE_UPDATE_META": "2017/11/20 22:29"
+        },
+        {
+            "SCHEMA": "交通部中央氣象局106年度會計報告",
+            "RES_FILETYPE": "PDF",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://www.cwb.gov.tw/V7/service/notice/download/notice_20170712111601.pdf",
+            "RES_DESC": "中央氣象局-單位預算106年6月份會計月報(PDF)",
+            "RES_DATE_UPDATE_META": "2017/11/20 22:29"
+        },
+        {
+            "SCHEMA": "交通部中央氣象局106年度會計報告",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://www.cwb.gov.tw/V7/service/notice/download/notice_20170712141030.zip",
+            "RES_DESC": "中央氣象局-單位預算106年6月份會計月報(XML)",
+            "RES_DATE_UPDATE_META": "2017/11/20 22:29"
+        },
+        {
+            "SCHEMA": "交通部中央氣象局106年度會計報告",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://www.cwb.gov.tw/V7/service/notice/download/notice_20170811111149.zip",
+            "RES_DESC": "中央氣象局-單位預算106年7月份會計月報(XML)",
+            "RES_DATE_UPDATE_META": "2017/11/20 22:29"
+        },
+        {
+            "SCHEMA": "交通部中央氣象局106年度會計報告",
+            "RES_FILETYPE": "PDF",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://www.cwb.gov.tw/V7/service/notice/download/notice_20170811111217.pdf",
+            "RES_DESC": "中央氣象局-單位預算106年7月份會計月報(PDF)",
+            "RES_DATE_UPDATE_META": "2017/11/20 22:29"
+        },
+        {
+            "SCHEMA": "交通部中央氣象局106年度會計報告",
+            "RES_FILETYPE": "PDF",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://www.cwb.gov.tw/V7/service/notice/download/notice_20170908091250.pdf",
+            "RES_DESC": "中央氣象局-單位預算106年8月份會計月報(PDF)",
+            "RES_DATE_UPDATE_META": "2017/11/20 22:29"
+        },
+        {
+            "SCHEMA": "交通部中央氣象局106年度會計報告",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://www.cwb.gov.tw/V7/service/notice/download/notice_20170908091314.zip",
+            "RES_DESC": "中央氣象局-單位預算106年8月份會計月報(XML)",
+            "RES_DATE_UPDATE_META": "2017/11/20 22:29"
+        },
+        {
+            "SCHEMA": "交通部中央氣象局106年度會計報告",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://www.cwb.gov.tw/V7/service/notice/download/notice_20171011113429.zip",
+            "RES_DESC": "中央氣象局-單位預算106年9月份會計月報(XML)",
+            "RES_DATE_UPDATE_META": "2017/11/20 22:29"
+        },
+        {
+            "SCHEMA": "交通部中央氣象局106年度會計報告",
+            "RES_FILETYPE": "PDF",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://www.cwb.gov.tw/V7/service/notice/download/notice_20171011113403.pdf",
+            "RES_DESC": "中央氣象局-單位預算106年9月份會計月報(PDF)",
+            "RES_DATE_UPDATE_META": "2017/11/20 22:29"
+        },
+        {
+            "SCHEMA": "交通部中央氣象局106年度會計報告",
+            "RES_FILETYPE": "PDF",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://www.cwb.gov.tw/V7/service/notice/download/notice_20171107162511.pdf",
+            "RES_DESC": "中央氣象局-前瞻特別預算106年10月份會計月報(PDF)",
+            "RES_DATE_UPDATE_META": "2017/11/20 22:29"
+        },
+        {
+            "SCHEMA": "交通部中央氣象局106年度會計報告",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://www.cwb.gov.tw/V7/service/notice/download/notice_20171107162451.zip",
+            "RES_DESC": "中央氣象局-前瞻特別預算106年10月份會計月報(XML)",
+            "RES_DATE_UPDATE_META": "2017/11/20 22:29"
+        },
+        {
+            "SCHEMA": "交通部中央氣象局106年度會計報告",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://www.cwb.gov.tw/V7/service/notice/download/notice_20171107161937.zip",
+            "RES_DESC": "中央氣象局-單位預算106年10月份會計月報(XML)",
+            "RES_DATE_UPDATE_META": "2017/11/20 22:29"
+        },
+        {
+            "SCHEMA": "交通部中央氣象局106年度會計報告",
+            "RES_FILETYPE": "RDF",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://www.cwb.gov.tw/V7/service/notice/download/notice_20171107162114.pdf",
+            "RES_DESC": "中央氣象局-前瞻特別預算106年9月份會計月報(PDF)",
+            "RES_DATE_UPDATE_META": "2017/11/20 22:29"
+        },
+        {
+            "SCHEMA": "交通部中央氣象局106年度會計報告",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://www.cwb.gov.tw/V7/service/notice/download/notice_20171107162536.zip",
+            "RES_DESC": "中央氣象局-前瞻特別預算106年9月份會計月報(XML)",
+            "RES_DATE_UPDATE_META": "2017/11/20 22:29"
+        },
+        {
+            "SCHEMA": "交通部中央氣象局106年度會計報告",
+            "RES_FILETYPE": "PDF",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://www.cwb.gov.tw/V7/service/notice/download/notice_20171107162144.pdf",
+            "RES_DESC": "中央氣象局-單位預算106年10月份會計月報(PDF)",
+            "RES_DATE_UPDATE_META": "2017/11/20 22:29"
+        }
+    ]
+}

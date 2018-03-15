@@ -1,0 +1,33 @@
+{
+    "TITLE": "105年度兼任技術顧問提供施政意見表",
+    "NODE": "10286",
+    "DESC": "105年度兼任技術顧問提供施政意見表",
+    "SCHEMA": "顧問姓名, 工作事項，施政意見",
+    "AGENCY": "交通部中央氣象局",
+    "AGENCY_CONTACT": "黃小姐 (0223491091)",
+    "UPDATE_FREQ": "不更新",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/03/02",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/03/02 17:48",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 776 下載次數: 24 意見數: 0 ",
+    "VIEWS": "776",
+    "DOWNLOAD": "24",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "顧問姓名, 工作事項，施政意見",
+            "RES_FILETYPE": "PDF",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "1",
+            "RES_URL": "http://cwb.gov.tw/V7/service/notice/download/notice_20170224085625.pdf",
+            "RES_DESC": "105年度兼任技術顧問提供施政意見表",
+            "RES_DATE_UPDATE_META": "2017/10/26 16:12"
+        }
+    ]
+}

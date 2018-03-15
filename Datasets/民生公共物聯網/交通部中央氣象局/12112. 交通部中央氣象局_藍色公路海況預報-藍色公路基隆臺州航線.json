@@ -1,0 +1,41 @@
+{
+    "TITLE": "藍色公路海況預報-藍色公路基隆臺州航線",
+    "NODE": "12112",
+    "DESC": "每6小時提供藍色公路基隆臺州航線預報海況資訊",
+    "SCHEMA": [
+        "起訖點測站",
+        "航線航段",
+        "波高",
+        "波向",
+        "週期",
+        "風速",
+        "風向",
+        "流速"
+    ],
+    "AGENCY": "交通部中央氣象局",
+    "AGENCY_CONTACT": "楊先生 (0223491193)",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2015/12/29",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2015/03/02 15:20",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "更新頻率說明: 每6小時授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 1034 下載次數: 52 意見數: 0 ",
+    "VIEWS": "1034",
+    "DOWNLOAD": "52",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "起訖點測站、航線航段、波高、波向、週期、風速、風向、流速",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=F-A0037-003&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": " ",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:14"
+        }
+    ]
+}

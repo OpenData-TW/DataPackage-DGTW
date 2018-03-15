@@ -1,0 +1,58 @@
+{
+    "TITLE": "新北市列管狹小巷道清冊",
+    "NODE": "40277",
+    "DESC": "提供本市列管清冊供民眾查詢。",
+    "SCHEMA": [
+        "Number：列管編號",
+        "Fire Branch：轄區分隊",
+        "District：行政區",
+        "Red line：紅線劃設說明",
+        "Location：巷道地點",
+        "Buildings：是否含4層樓以上建築物",
+        "The width and length：巷道寬度及長度"
+    ],
+    "AGENCY": "新北市政府消防局",
+    "AGENCY_CONTACT": "王 (6213)",
+    "UPDATE_FREQ": "每年",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/11/28",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/06/01 08:00",
+    "KEYWORDS": [
+        "救災",
+        "安全"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 292 下載次數: 54 意見數: 0 ",
+    "VIEWS": "292",
+    "DOWNLOAD": "54",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "Number：列管編號、Fire Branch：轄區分隊、District：行政區、Red line：紅線劃設說明、Location：巷道地點、Buildings：是否含4層樓以上建築物、The width and length：巷道寬度及長度",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://data.ntpc.gov.tw/od/zipfiledl?oid=9FFB2555-851C-40D3-A490-7103F7409A9E&ft=zip",
+            "RES_DESC": "新北市列管狹小巷道清冊",
+            "RES_DATE_UPDATE_META": "2017/11/26 15:22",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=40277&md5_url=e2eaddae5a90739c653f3fc4dd154731",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=40277&md5_url=e2eaddae5a90739c653f3fc4dd154731",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=40277&md5_url=e2eaddae5a90739c653f3fc4dd154731",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=40277&md5_url=e2eaddae5a90739c653f3fc4dd154731",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=40277&md5_url=e2eaddae5a90739c653f3fc4dd154731"
+        },
+        {
+            "SCHEMA": "Number：列管編號、Fire Branch：轄區分隊、District：行政區、Red line：紅線劃設說明、Location：巷道地點、Buildings：是否含4層樓以上建築物、The width and length：巷道寬度及長度",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://data.ntpc.gov.tw/api/v1/rest/datastore/382000000A-002115-001",
+            "RES_DESC": "新北市列管狹小巷道清冊",
+            "RES_DATE_UPDATE_META": "2017/11/26 15:22"
+        }
+    ]
+}

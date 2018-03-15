@@ -1,0 +1,139 @@
+{
+    "TITLE": "桃園市火災出動直升機統計",
+    "NODE": "46242",
+    "DESC": "提供桃園市各消防分隊每月火災次數及出動直升機數統計",
+    "SCHEMA": [
+        "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊)",
+        "受理火災案件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。 )",
+        "直升機(救災時出動直升機，依據「直轄市縣市消防車輛裝備及其人力配置標準」第3條規定。)"
+    ],
+    "AGENCY": "桃園市政府消防局",
+    "AGENCY_CONTACT": "羅先生 (03-3379119-698)",
+    "UPDATE_FREQ": "每月",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/05/15",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2018/03/12 14:50",
+    "KEYWORDS": [
+        "火災",
+        "消防"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 78 下載次數: 7 意見數: 0 ",
+    "VIEWS": "78",
+    "DOWNLOAD": "7",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊)、受理火災案件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。 )、直升機(救災時出動直升機，依據「直轄市縣市消防車輛裝備及其人力配置標準」第3條規定。)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=00ec9789-70cc-4f92-8b61-8de8c926ef65&rid=2c9410e9-0ff0-4c28-9ad1-d7a95a083f31",
+            "RES_DESC": "桃園市火災出動直升機統計106年4月",
+            "RES_DATE_UPDATE_META": "2017/11/29 15:28"
+        },
+        {
+            "SCHEMA": "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊)、受理火災案件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。 )、直升機(救災時出動直升機，依據「直轄市縣市消防車輛裝備及其人力配置標準」第3條規定。)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=00ec9789-70cc-4f92-8b61-8de8c926ef65&rid=3937abef-8189-4694-a00f-0b93b335d78d",
+            "RES_DESC": "桃園市火災出動直升機統計106年5月",
+            "RES_DATE_UPDATE_META": "2017/11/29 15:29"
+        },
+        {
+            "SCHEMA": "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊)、受理火災案件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。 )、直升機(救災時出動直升機，依據「直轄市縣市消防車輛裝備及其人力配置標準」第3條規定。)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=00ec9789-70cc-4f92-8b61-8de8c926ef65&rid=bd3bc0fe-d11b-43b7-9779-53685711a050",
+            "RES_DESC": "桃園市火災出動直升機統計106年6月",
+            "RES_DATE_UPDATE_META": "2017/11/29 15:30"
+        },
+        {
+            "SCHEMA": "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊)、受理火災案件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。 )、直升機(救災時出動直升機，依據「直轄市縣市消防車輛裝備及其人力配置標準」第3條規定。)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=00ec9789-70cc-4f92-8b61-8de8c926ef65&rid=91b10945-eb0a-464c-90a0-df5bb9aa9330",
+            "RES_DESC": "桃園市火災出動直升機統計106年7月",
+            "RES_DATE_UPDATE_META": "2017/11/29 15:30"
+        },
+        {
+            "SCHEMA": "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊)、受理火災案件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。 )、直升機(救災時出動直升機，依據「直轄市縣市消防車輛裝備及其人力配置標準」第3條規定。)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=00ec9789-70cc-4f92-8b61-8de8c926ef65&rid=c53fe4b1-cefd-4be9-b94c-700ea44f6cb6",
+            "RES_DESC": "桃園市火災出動直升機統計106年8月",
+            "RES_DATE_UPDATE_META": "2017/11/29 15:31"
+        },
+        {
+            "SCHEMA": "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊)、受理火災案件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。 )、直升機(救災時出動直升機，依據「直轄市縣市消防車輛裝備及其人力配置標準」第3條規定。)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=00ec9789-70cc-4f92-8b61-8de8c926ef65&rid=87e85d80-3e45-4e02-8a14-06e993359602",
+            "RES_DESC": "桃園市火災出動直升機統計106年9月",
+            "RES_DATE_UPDATE_META": "2017/11/29 15:31"
+        },
+        {
+            "SCHEMA": "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊)、受理火災案件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。 )、直升機(救災時出動直升機，依據「直轄市縣市消防車輛裝備及其人力配置標準」第3條規定。)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=00ec9789-70cc-4f92-8b61-8de8c926ef65&rid=cb6609e1-9bb6-4c7f-baaa-466de7106019",
+            "RES_DESC": "桃園市火災出動直升機統計106年10月",
+            "RES_DATE_UPDATE_META": "2017/11/29 15:32"
+        },
+        {
+            "SCHEMA": "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊)、受理火災案件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。 )、直升機(救災時出動直升機，依據「直轄市縣市消防車輛裝備及其人力配置標準」第3條規定。)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=00ec9789-70cc-4f92-8b61-8de8c926ef65&rid=854af4c0-4ff8-4e24-91d5-5f645fecd632",
+            "RES_DESC": "106.12.11更新版本",
+            "RES_DATE_UPDATE_META": "2017/12/11 14:03"
+        },
+        {
+            "SCHEMA": "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊)、受理火災案件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。 )、直升機(救災時出動直升機，依據「直轄市縣市消防車輛裝備及其人力配置標準」第3條規定。)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=00ec9789-70cc-4f92-8b61-8de8c926ef65&rid=760a96fb-4960-4449-aa29-7007bb790596",
+            "RES_DESC": "106.12.11版本",
+            "RES_DATE_UPDATE_META": "2017/12/11 14:04"
+        },
+        {
+            "SCHEMA": "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊)、受理火災案件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。 )、直升機(救災時出動直升機，依據「直轄市縣市消防車輛裝備及其人力配置標準」第3條規定。)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=00ec9789-70cc-4f92-8b61-8de8c926ef65&rid=646d6fb5-5bd2-4c1a-a476-a0e6a6a6f0d6",
+            "RES_DESC": "107.01.25版本",
+            "RES_DATE_UPDATE_META": "2018/01/25 15:56"
+        },
+        {
+            "SCHEMA": "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊)、受理火災案件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。 )、直升機(救災時出動直升機，依據「直轄市縣市消防車輛裝備及其人力配置標準」第3條規定。)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=00ec9789-70cc-4f92-8b61-8de8c926ef65&rid=d05eda69-e9a3-4b63-bad7-28b814ead965",
+            "RES_DESC": "107.03.01版本",
+            "RES_DATE_UPDATE_META": "2018/03/01 11:58"
+        },
+        {
+            "SCHEMA": "大隊分隊(桃園市政府消防局依據桃園市政府消防局組織規程設置之大隊分隊)、受理火災案件數(指含有財物損失_無財物損失_誤報_謊報之火災案件。 )、直升機(救災時出動直升機，依據「直轄市縣市消防車輛裝備及其人力配置標準」第3條規定。)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=00ec9789-70cc-4f92-8b61-8de8c926ef65&rid=e0456d9a-b8e1-46ab-a9e0-7bfa55a58df1",
+            "RES_DESC": "107.03.12版本",
+            "RES_DATE_UPDATE_META": "2018/03/12 14:50"
+        }
+    ]
+}

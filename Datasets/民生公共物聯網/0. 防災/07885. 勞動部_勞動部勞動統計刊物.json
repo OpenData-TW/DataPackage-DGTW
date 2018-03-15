@@ -1,0 +1,80 @@
+{
+    "TITLE": "勞動部勞動統計刊物",
+    "NODE": "7885",
+    "DESC": "勞動統計刊物蒐集本部（含所屬機關）及各勞工單位執行業務所為之統計，並蒐集國際間勞動相關之統計，彙整成冊，並上載於網站供各界參用。",
+    "SCHEMA": [
+        "編號",
+        "統計刊物名稱",
+        "刊印週期",
+        "網址"
+    ],
+    "AGENCY": "勞動部",
+    "AGENCY_CONTACT": "吳孟儒 小姐 (02-85902900)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2013/11/13",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/04/18 15:44",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "求職及就業",
+    "NOTES": "介紹文稿內容：勞動統計刊物蒐集本部（含所屬機關）及各勞工單位執行業務所為之統計，並蒐集國際間勞動相關之統計，彙整成冊，並上載於網站供各界參用。內容包含經濟社會重要指標、人力資源統計、性別勞動統計、勞資關係、勞動條件、勞工福利、勞工保險、就業保險、職業災害、勞動檢查及勞工安全衛生、就業服務、職業訓練及技能檢定、外籍工作者、國際勞動統計及各項基金運用情形等統計資料及統計分析。",
+    "Stats": "瀏覽次數: 4292 下載次數: 684 意見數: 0",
+    "VIEWS": "4292",
+    "DOWNLOAD": "684",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "編號、統計刊物名稱、刊印週期、網址",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/download/A17000000J-020065-jO6",
+            "RES_DESC": "勞動統計刊物蒐集本部（含所屬機關）及各勞工單位執行業務所為之統計，並蒐集國際間勞動相關之統計，彙整成冊，並上載於網站供各界參用。",
+            "RES_DATE_UPDATE_META": "2017/12/23 03:27",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=7885&md5_url=5999836f2f50c27a097a2326cf2ab8b4",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=7885&md5_url=5999836f2f50c27a097a2326cf2ab8b4",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=7885&md5_url=5999836f2f50c27a097a2326cf2ab8b4",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=7885&md5_url=5999836f2f50c27a097a2326cf2ab8b4",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=7885&md5_url=5999836f2f50c27a097a2326cf2ab8b4"
+        },
+        {
+            "SCHEMA": "編號、統計刊物名稱、刊印週期、網址",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/download/A17000000J-020065-Q3e",
+            "RES_DESC": "勞動統計刊物蒐集本部（含所屬機關）及各勞工單位執行業務所為之統計，並蒐集國際間勞動相關之統計，彙整成冊，並上載於網站供各界參用。",
+            "RES_DATE_UPDATE_META": "2018/02/23 02:55",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=7885&md5_url=dc6dbbad5b3e708e90bd44b6ce922011",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=7885&md5_url=dc6dbbad5b3e708e90bd44b6ce922011",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=7885&md5_url=dc6dbbad5b3e708e90bd44b6ce922011",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=7885&md5_url=dc6dbbad5b3e708e90bd44b6ce922011",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=7885&md5_url=dc6dbbad5b3e708e90bd44b6ce922011"
+        },
+        {
+            "SCHEMA": "編號、統計刊物名稱、刊印週期、網址",
+            "RES_FILETYPE": "WEBSERVICES",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/rest/datastore/A17000000J-020065-Dot",
+            "RES_DESC": "勞動統計刊物蒐集本部（含所屬機關）及各勞工單位執行業務所為之統計，並蒐集國際間勞動相關之統計，彙整成冊，並上載於網站供各界參用。",
+            "RES_DATE_UPDATE_META": "2018/02/23 02:55"
+        },
+        {
+            "SCHEMA": "編號、統計刊物名稱、刊印週期、網址",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/download/A17000000J-020065-6z8",
+            "RES_DESC": "勞動統計刊物蒐集本部（含所屬機關）及各勞工單位執行業務所為之統計，並蒐集國際間勞動相關之統計，彙整成冊，並上載於網站供各界參用。",
+            "RES_DATE_UPDATE_META": "2018/02/23 02:55",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=7885&md5_url=2b48f3797df20b8bc0bb26da7aaa7ddd",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=7885&md5_url=2b48f3797df20b8bc0bb26da7aaa7ddd",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=7885&md5_url=2b48f3797df20b8bc0bb26da7aaa7ddd",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=7885&md5_url=2b48f3797df20b8bc0bb26da7aaa7ddd",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=7885&md5_url=2b48f3797df20b8bc0bb26da7aaa7ddd"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "TITLE": "所有採樣分析參考方法之目錄",
+    "NODE": "6619",
+    "DESC": "認可實驗室驗證參考",
+    "SCHEMA": [
+        "方法編號",
+        "中文名稱",
+        "英文名稱"
+    ],
+    "AGENCY": "勞動部勞動及職業安全衛生研究所",
+    "AGENCY_CONTACT": "楊崒苑 小姐 (02-26607600#280)",
+    "UPDATE_FREQ": "每年",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2013/11/06",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2016/12/26 16:53",
+    "KEYWORDS": [],
+    "CATEGORY": "政府統計",
+    "SERVICE_TYPE": "求職及就業",
+    "NOTES": "介紹文稿內容：作業環境有害物採樣分析參考方法驗證程序，乃為確保國內使用之作業環境有害物採樣分析方法有其一致之水準，能被廣泛應用，而獲致一定可信度的分析結果，遂制訂具測試項目及其判定基準、明確的規範、並考慮利用市售品質優良的採樣介質及業界與認可實驗室所廣泛使用之儀器等因素之參考方法，俾作為國內認證實驗室作業參考。本驗證程序之制訂主要參考美國勞工部職業安全衛生署(Occupational Saftey and Health Administration，簡稱OSHA)與美國國家職業安全衛生研究所(National Institute for Occupational Safety and Health，簡稱NIOSH)制訂採樣分析方法的準則。由於勞工作業環境測定包羅萬象，不易只憑單一驗證程序就能夠將作業環境所有有害物的採樣分析技術明確的加以規範，本驗證程序只針對一般作業環境空氣中化學性有害物之氣體、蒸氣、燻煙、粉塵及霧滴之採集、運送、存放及分析流程做整體的規範。至於瞬時偵測技術如檢知管、直讀式儀器等，則不在本驗證程序所規範之範圍內。此外，某些特殊作業場所之採樣與分析必須考慮更多的環境影響因素，而需以個案的方式處理，亦不在本驗證程序所規範的範圍之內。本驗證程序係經本所邀集作業環境測定技術專家審核後實施。",
+    "Stats": "瀏覽次數: 5454 下載次數: 781 意見數: 1",
+    "VIEWS": "5454",
+    "DOWNLOAD": "781",
+    "COMMENTS": "1",
+    "RESOURCE": [
+        {
+            "SCHEMA": "方法編號、中文名稱、英文名稱",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/download/A17000000J-020038-IJ7",
+            "RES_DESC": "所有採樣分析參考方法之目錄",
+            "RES_DATE_UPDATE_META": "2018/02/12 11:15",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=6619&md5_url=a9023ac1ed2727a3940f90e2c3f9c06a",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=6619&md5_url=a9023ac1ed2727a3940f90e2c3f9c06a",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=6619&md5_url=a9023ac1ed2727a3940f90e2c3f9c06a",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=6619&md5_url=a9023ac1ed2727a3940f90e2c3f9c06a",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=6619&md5_url=a9023ac1ed2727a3940f90e2c3f9c06a"
+        },
+        {
+            "SCHEMA": "方法編號、中文名稱、英文名稱",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/download/A17000000J-020038-2YJ",
+            "RES_DESC": "所有採樣分析參考方法之目錄",
+            "RES_DATE_UPDATE_META": "2018/02/12 11:15"
+        },
+        {
+            "SCHEMA": "方法編號、中文名稱、英文名稱",
+            "RES_FILETYPE": "WEBSERVICES",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/rest/datastore/A17000000J-020038-2hj",
+            "RES_DESC": "所有採樣分析參考方法之目錄",
+            "RES_DATE_UPDATE_META": "2018/02/12 11:15"
+        },
+        {
+            "SCHEMA": "方法編號、中文名稱、英文名稱",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/download/A17000000J-020038-NkS",
+            "RES_DESC": "所有採樣分析參考方法之目錄",
+            "RES_DATE_UPDATE_META": "2018/02/12 11:15"
+        }
+    ]
+}

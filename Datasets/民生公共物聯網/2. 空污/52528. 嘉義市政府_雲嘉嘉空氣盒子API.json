@@ -1,0 +1,37 @@
+{
+    "TITLE": "雲嘉嘉空氣盒子API",
+    "NODE": "52528",
+    "DESC": "「雲嘉嘉空氣盒子」計畫由華碩雲端、研揚科技、嘉義市政府、嘉義縣政府、雲林縣政府合作，提供近 300 個空氣盒子進行智慧城市的部屬，用於感測 PM2.5、溫度與濕度，並將環境數據開放給研究機構分析汙染來源以及 Makers 進行創新加值應用，真正落實智慧健康、大數據應用、提升城市生活品質。",
+    "SCHEMA": "請詳閱API說明文件",
+    "AGENCY": "嘉義市政府",
+    "AGENCY_CONTACT": "華碩雲端科技 (02-28985277)",
+    "UPDATE_FREQ": "每日",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/03/14",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/10/25 09:41",
+    "KEYWORDS": [
+        "嘉義市",
+        "空氣盒子",
+        "空污"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "相關網址": "https://yccairbox.asuscloud.com",
+    "Stats": "瀏覽次數: 185 下載次數: 26 意見數: 0 ",
+    "VIEWS": "185",
+    "DOWNLOAD": "26",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "請詳閱API說明文件",
+            "RES_FILETYPE": "API",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://data.chiayi.gov.tw/opendata/api/getResource?oid=729e3dbe-bc48-49d3-9677-7fb8774096f8&rid=f46be27e-dbd6-4ed9-a825-fabb62cb31b7",
+            "RES_DESC": "提供API介接輸入／輸出參數說明、範例等，輸出資料為json格式",
+            "RES_DATE_UPDATE_META": "2017/12/10 22:47"
+        }
+    ]
+}

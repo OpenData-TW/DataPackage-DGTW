@@ -1,0 +1,234 @@
+{
+    "TITLE": "職業災害統計行業別與受傷部位之關係按全產業分(年度)",
+    "NODE": "41519",
+    "DESC": "職業災害統計行業別與受傷部位之關係按全產業分(年度)",
+    "SCHEMA": [
+        "年度",
+        "行業別",
+        "受傷部位",
+        "部位數"
+    ],
+    "AGENCY": "勞動部職業安全衛生署",
+    "AGENCY_CONTACT": "林敬育 先生 (02-89956666#8115)",
+    "UPDATE_FREQ": "每年",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/12/21",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/06/01 08:00",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 185 下載次數: 281 意見數: 0 ",
+    "VIEWS": "185",
+    "DOWNLOAD": "281",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "年度、行業別、受傷部位、部位數",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/download/A17000000J-030019-CcT",
+            "RES_DESC": "職業災害統計行業別與受傷部位之關係按全產業分(100年)",
+            "RES_DATE_UPDATE_META": "2018/02/13 12:07",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=41519&md5_url=2fcfd7bf3eedb77e7c19c38f851464fc",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=41519&md5_url=2fcfd7bf3eedb77e7c19c38f851464fc",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=41519&md5_url=2fcfd7bf3eedb77e7c19c38f851464fc",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=41519&md5_url=2fcfd7bf3eedb77e7c19c38f851464fc",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=41519&md5_url=2fcfd7bf3eedb77e7c19c38f851464fc"
+        },
+        {
+            "SCHEMA": "年度、行業別、受傷部位、部位數",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/download/A17000000J-030019-2f0",
+            "RES_DESC": "職業災害統計行業別與受傷部位之關係按全產業分(100年)",
+            "RES_DATE_UPDATE_META": "2018/02/13 12:07"
+        },
+        {
+            "SCHEMA": "年度、行業別、受傷部位、部位數",
+            "RES_FILETYPE": "WEBSERVICES",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/rest/datastore/A17000000J-030019-VIG",
+            "RES_DESC": "職業災害統計行業別與受傷部位之關係按全產業分(100年)",
+            "RES_DATE_UPDATE_META": "2018/02/13 12:07"
+        },
+        {
+            "SCHEMA": "年度、行業別、受傷部位、部位數",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/download/A17000000J-030019-ziz",
+            "RES_DESC": "職業災害統計行業別與受傷部位之關係按全產業分(100年)",
+            "RES_DATE_UPDATE_META": "2018/02/13 12:07"
+        },
+        {
+            "SCHEMA": "年度、行業別、受傷部位、部位數",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/download/A17000000J-030019-VeA",
+            "RES_DESC": "職業災害統計行業別與受傷部位之關係按全產業分(101年)",
+            "RES_DATE_UPDATE_META": "2018/02/13 12:07",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=41519&md5_url=84056c9c6887c2151924d6d9b1db8f2e",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=41519&md5_url=84056c9c6887c2151924d6d9b1db8f2e",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=41519&md5_url=84056c9c6887c2151924d6d9b1db8f2e",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=41519&md5_url=84056c9c6887c2151924d6d9b1db8f2e",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=41519&md5_url=84056c9c6887c2151924d6d9b1db8f2e"
+        },
+        {
+            "SCHEMA": "年度、行業別、受傷部位、部位數",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/download/A17000000J-030019-AWo",
+            "RES_DESC": "職業災害統計行業別與受傷部位之關係按全產業分(101年)",
+            "RES_DATE_UPDATE_META": "2018/02/13 12:07"
+        },
+        {
+            "SCHEMA": "年度、行業別、受傷部位、部位數",
+            "RES_FILETYPE": "WEBSERVICES",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/rest/datastore/A17000000J-030019-lm4",
+            "RES_DESC": "職業災害統計行業別與受傷部位之關係按全產業分(101年)",
+            "RES_DATE_UPDATE_META": "2018/02/13 12:07"
+        },
+        {
+            "SCHEMA": "年度、行業別、受傷部位、部位數",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/download/A17000000J-030019-L77",
+            "RES_DESC": "職業災害統計行業別與受傷部位之關係按全產業分(101年)",
+            "RES_DATE_UPDATE_META": "2018/02/13 12:07"
+        },
+        {
+            "SCHEMA": "年度、行業別、受傷部位、部位數",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/download/A17000000J-030019-P9y",
+            "RES_DESC": "職業災害統計行業別與受傷部位之關係按全產業分(102年)",
+            "RES_DATE_UPDATE_META": "2018/02/13 12:07",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=41519&md5_url=cfeeab8b28da5c6d292f7ca9042f91ec",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=41519&md5_url=cfeeab8b28da5c6d292f7ca9042f91ec",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=41519&md5_url=cfeeab8b28da5c6d292f7ca9042f91ec",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=41519&md5_url=cfeeab8b28da5c6d292f7ca9042f91ec",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=41519&md5_url=cfeeab8b28da5c6d292f7ca9042f91ec"
+        },
+        {
+            "SCHEMA": "年度、行業別、受傷部位、部位數",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/download/A17000000J-030019-49t",
+            "RES_DESC": "職業災害統計行業別與受傷部位之關係按全產業分(102年)",
+            "RES_DATE_UPDATE_META": "2018/02/13 12:07"
+        },
+        {
+            "SCHEMA": "年度、行業別、受傷部位、部位數",
+            "RES_FILETYPE": "WEBSERVICES",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/rest/datastore/A17000000J-030019-QZQ",
+            "RES_DESC": "職業災害統計行業別與受傷部位之關係按全產業分(102年)",
+            "RES_DATE_UPDATE_META": "2018/02/13 12:07"
+        },
+        {
+            "SCHEMA": "年度、行業別、受傷部位、部位數",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/download/A17000000J-030019-gi8",
+            "RES_DESC": "職業災害統計行業別與受傷部位之關係按全產業分(102年)",
+            "RES_DATE_UPDATE_META": "2018/02/13 12:07"
+        },
+        {
+            "SCHEMA": "年度、行業別、受傷部位、部位數",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/download/A17000000J-030019-BzT",
+            "RES_DESC": "職業災害統計行業別與受傷部位之關係按全產業分(103年)",
+            "RES_DATE_UPDATE_META": "2018/02/13 12:07",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=41519&md5_url=bf99ea6bd7c5fdef4b26152d18c09d18",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=41519&md5_url=bf99ea6bd7c5fdef4b26152d18c09d18",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=41519&md5_url=bf99ea6bd7c5fdef4b26152d18c09d18",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=41519&md5_url=bf99ea6bd7c5fdef4b26152d18c09d18",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=41519&md5_url=bf99ea6bd7c5fdef4b26152d18c09d18"
+        },
+        {
+            "SCHEMA": "年度、行業別、受傷部位、部位數",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/download/A17000000J-030019-uTk",
+            "RES_DESC": "職業災害統計行業別與受傷部位之關係按全產業分(103年)",
+            "RES_DATE_UPDATE_META": "2018/02/13 12:07"
+        },
+        {
+            "SCHEMA": "年度、行業別、受傷部位、部位數",
+            "RES_FILETYPE": "WEBSERVICES",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/rest/datastore/A17000000J-030019-7TT",
+            "RES_DESC": "職業災害統計行業別與受傷部位之關係按全產業分(103年)",
+            "RES_DATE_UPDATE_META": "2018/02/13 12:07"
+        },
+        {
+            "SCHEMA": "年度、行業別、受傷部位、部位數",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/download/A17000000J-030019-uHd",
+            "RES_DESC": "職業災害統計行業別與受傷部位之關係按全產業分(103年)",
+            "RES_DATE_UPDATE_META": "2018/02/13 12:07"
+        },
+        {
+            "SCHEMA": "年度、行業別、受傷部位、部位數",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/download/A17000000J-030019-WUa",
+            "RES_DESC": "職業災害統計行業別與受傷部位之關係按全產業分(104年)",
+            "RES_DATE_UPDATE_META": "2018/02/13 12:07",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=41519&md5_url=c88d986f3ae5a434354bef56ff88083f",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=41519&md5_url=c88d986f3ae5a434354bef56ff88083f",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=41519&md5_url=c88d986f3ae5a434354bef56ff88083f",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=41519&md5_url=c88d986f3ae5a434354bef56ff88083f",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=41519&md5_url=c88d986f3ae5a434354bef56ff88083f"
+        },
+        {
+            "SCHEMA": "年度、行業別、受傷部位、部位數",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/download/A17000000J-030019-Oes",
+            "RES_DESC": "職業災害統計行業別與受傷部位之關係按全產業分(104年)",
+            "RES_DATE_UPDATE_META": "2018/02/13 12:07"
+        },
+        {
+            "SCHEMA": "年度、行業別、受傷部位、部位數",
+            "RES_FILETYPE": "WEBSERVICES",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/rest/datastore/A17000000J-030019-LzH",
+            "RES_DESC": "職業災害統計行業別與受傷部位之關係按全產業分(104年)",
+            "RES_DATE_UPDATE_META": "2018/02/13 12:07"
+        },
+        {
+            "SCHEMA": "年度、行業別、受傷部位、部位數",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://apiservice.mol.gov.tw/OdService/download/A17000000J-030019-7P3",
+            "RES_DESC": "職業災害統計行業別與受傷部位之關係按全產業分(104年)",
+            "RES_DATE_UPDATE_META": "2018/02/13 12:07"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "TITLE": "交通部中央氣象局辦事細則",
+    "NODE": "10302",
+    "DESC": "交通部中央氣象局辦事細則",
+    "SCHEMA": "交通部中央氣象局辦事細則",
+    "AGENCY": "交通部中央氣象局",
+    "AGENCY_CONTACT": "曾小姐 (0223491058)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2015/12/29",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2015/01/30 17:13",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "更新頻率說明: 原辦事細則有修正時授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 899 下載次數: 55 意見數: 0 ",
+    "VIEWS": "899",
+    "DOWNLOAD": "55",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "交通部中央氣象局辦事細則",
+            "RES_FILETYPE": "DOCX",
+            "RES_ENCODE": "其他",
+            "REC_COUNT": "1",
+            "RES_URL": "http://cwb.gov.tw/V7/service/notice/download/notice_20071116165442.doc",
+            "RES_DESC": " ",
+            "RES_DATE_UPDATE_META": "2017/10/25 23:11"
+        }
+    ]
+}

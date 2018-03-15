@@ -1,0 +1,54 @@
+{
+    "TITLE": "新北市易發生溺水地點",
+    "NODE": "33277",
+    "DESC": "新北市易發生溺水地點分析",
+    "SCHEMA": [
+        "drowning_area：易發生溺水地點",
+        "terrain_analysis：地形分析"
+    ],
+    "AGENCY": "新北市政府消防局",
+    "AGENCY_CONTACT": "林 先生 (6222)",
+    "UPDATE_FREQ": "每年",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/07/19",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/07/26 17:58",
+    "KEYWORDS": [
+        "救災",
+        "安全",
+        "防災"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 493 下載次數: 73 意見數: 0 ",
+    "VIEWS": "493",
+    "DOWNLOAD": "73",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "drowning_area：易發生溺水地點、terrain_analysis：地形分析",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://data.ntpc.gov.tw/od/zipfiledl?oid=454B7259-F590-4EE4-8E3A-6FC1DE1AA19F&ft=zip",
+            "RES_DESC": "新北市易發生溺水地點",
+            "RES_DATE_UPDATE_META": "2018/02/08 17:31",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=33277&md5_url=3efefe3b0ab81f2f1ba2b4b4cef4a3e1",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=33277&md5_url=3efefe3b0ab81f2f1ba2b4b4cef4a3e1",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=33277&md5_url=3efefe3b0ab81f2f1ba2b4b4cef4a3e1",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=33277&md5_url=3efefe3b0ab81f2f1ba2b4b4cef4a3e1",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=33277&md5_url=3efefe3b0ab81f2f1ba2b4b4cef4a3e1"
+        },
+        {
+            "SCHEMA": "drowning_area：易發生溺水地點、terrain_analysis：地形分析",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://data.ntpc.gov.tw/api/v1/rest/datastore/382000000A-000393-001",
+            "RES_DESC": "新北市易發生溺水地點",
+            "RES_DATE_UPDATE_META": "2017/11/26 15:18"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "TITLE": "一年觀測資料-本局屬地面測站一年觀測資料",
+    "NODE": "33029",
+    "DESC": "本局屬地面測站觀測資料",
+    "SCHEMA": [
+        "站碼",
+        "日期",
+        "測站氣壓",
+        "溫度",
+        "相對溼度",
+        "風速風向",
+        "降水量",
+        "日照時數"
+    ],
+    "AGENCY": "交通部中央氣象局",
+    "AGENCY_CONTACT": "李先生 (0223491034)",
+    "UPDATE_FREQ": "每日",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/07/05",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2016/07/05 17:12",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 2932 下載次數: 925 意見數: 1 ",
+    "VIEWS": "2932",
+    "DOWNLOAD": "925",
+    "COMMENTS": "1",
+    "RESOURCE": [
+        {
+            "SCHEMA": "站碼、日期、測站氣壓、溫度、相對溼度、風速風向、降水量、日照時數",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=C-B0024-002&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": "一年觀測資料",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:15"
+        }
+    ]
+}

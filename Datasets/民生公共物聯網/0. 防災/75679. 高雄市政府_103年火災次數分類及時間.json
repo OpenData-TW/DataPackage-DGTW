@@ -1,0 +1,49 @@
+{
+    "TITLE": "103年火災次數分類及時間",
+    "NODE": "75679",
+    "DESC": "103年火災次數分類及時間",
+    "SCHEMA": [
+        "行政區",
+        "建築物",
+        "森林田野",
+        "車輛",
+        "船舶",
+        "航空器",
+        "其他",
+        "零至三時",
+        "三至六時",
+        "六至九時",
+        "九至十二時",
+        "十二至十五時",
+        "十五至十八時",
+        "十八至廿一時",
+        "廿一至廿四時"
+    ],
+    "AGENCY": "高雄市政府",
+    "AGENCY_CONTACT": "陳先生 ( (07)792-6119#6504)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2018/01/11",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2018/01/11 09:39",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "相關網址": "http://data.kcg.gov.tw/dataset/107010907",
+    "Stats": "瀏覽次數: 7 下載次數: 0 意見數: 0 ",
+    "VIEWS": "7",
+    "DOWNLOAD": "0",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "行政區、建築物、森林田野、車輛、船舶、航空器、其他、零至三時、三至六時、六至九時、九至十二時、十二至十五時、十五至十八時、十八至廿一時、廿一至廿四時",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "https://www.fdkc.gov.tw/Fileupload/download/26/310/20170629153447000000.xml",
+            "RES_DESC": "103年火災次數分類及時間",
+            "RES_DATE_UPDATE_META": "2018/02/08 06:57"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "TITLE": "雲林縣106年7月火災次數按起火處所分類表",
+    "NODE": "55879",
+    "DESC": "雲林縣106年7月火災次數按起火處所分類表",
+    "SCHEMA": [
+        "公   開   類",
+        "",
+        "編製機關",
+        "雲林縣消防局火災調查科"
+    ],
+    "AGENCY": "雲林縣消防局",
+    "AGENCY_CONTACT": "鄭先生 (05-5325707@213)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/10/07",
+    "DATA_TYPE": "原始資料",
+    "DATE_UPDATE_META": "2017/10/07 17:54",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "Stats": "瀏覽次數: 43 下載次數: 0 意見數: 0 ",
+    "VIEWS": "43",
+    "DOWNLOAD": "0",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "公   開   類、、編製機關、雲林縣消防局火災調查科",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "BIG5",
+            "REC_COUNT": "25",
+            "RES_URL": "http://www.ylfire.gov.tw/upload/inload201101010000220/20171007175232035.csv",
+            "RES_DESC": "",
+            "RES_DATE_UPDATE_META": "2017/12/06 00:15",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=55879&md5_url=e9e462cd5af6bdcab1726f275644810d",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=55879&md5_url=e9e462cd5af6bdcab1726f275644810d",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=55879&md5_url=e9e462cd5af6bdcab1726f275644810d",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=55879&md5_url=e9e462cd5af6bdcab1726f275644810d",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=55879&md5_url=e9e462cd5af6bdcab1726f275644810d"
+        }
+    ]
+}

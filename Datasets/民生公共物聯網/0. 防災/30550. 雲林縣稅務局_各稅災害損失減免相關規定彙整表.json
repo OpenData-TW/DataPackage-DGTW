@@ -1,0 +1,44 @@
+{
+    "TITLE": "各稅災害損失減免相關規定彙整表",
+    "NODE": "30550",
+    "DESC": "各稅災害損失減免相關規定彙整表",
+    "SCHEMA": [
+        "申請事項",
+        "稅目",
+        "申辦須知",
+        "申報(請) 期限",
+        "受理機關"
+    ],
+    "AGENCY": "雲林縣稅務局",
+    "AGENCY_CONTACT": "林小姐 (055323941#131)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/04/14",
+    "DATA_TYPE": "原始資料",
+    "DATE_UPDATE_META": "2018/01/16 11:23",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 407 下載次數: 29 意見數: 0 ",
+    "VIEWS": "407",
+    "DOWNLOAD": "29",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "申請事項、稅目、申辦須知、申報(請) 期限、受理機關",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "BIG5",
+            "REC_COUNT": "0",
+            "RES_URL": "http://www.yltb.gov.tw/ctrl/disaster_files/各稅災害損失減免相關規定彙整表(1).csv",
+            "RES_DESC": "各稅災害損失減免相關規定彙整表",
+            "RES_DATE_UPDATE_META": "2018/01/16 11:20",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=30550&md5_url=abdff9b792902134c38ad8e0c373ac2c",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=30550&md5_url=abdff9b792902134c38ad8e0c373ac2c",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=30550&md5_url=abdff9b792902134c38ad8e0c373ac2c",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=30550&md5_url=abdff9b792902134c38ad8e0c373ac2c",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=30550&md5_url=abdff9b792902134c38ad8e0c373ac2c"
+        }
+    ]
+}

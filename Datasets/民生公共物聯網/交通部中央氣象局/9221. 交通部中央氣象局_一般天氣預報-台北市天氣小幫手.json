@@ -1,0 +1,38 @@
+{
+    "TITLE": "一般天氣預報-台北市天氣小幫手",
+    "NODE": "9221",
+    "DESC": "臺灣各縣市天氣預報資料及國際都市天氣預報",
+    "SCHEMA": [
+        "今明天氣預報",
+        "一週天氣預報",
+        "國際都市天氣預報",
+        "縣市小幫手",
+        "天氣概況"
+    ],
+    "AGENCY": "交通部中央氣象局",
+    "AGENCY_CONTACT": "賴先生 (0223491217)",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2015/12/29",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2014/09/30 14:48",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "更新頻率說明: 每12小時授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 2922 下載次數: 13618 意見數: 0 ",
+    "VIEWS": "2922",
+    "DOWNLOAD": "13618",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "今明天氣預報、一週天氣預報、國際都市天氣預報、縣市小幫手、天氣概況",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "9",
+            "RES_URL": "http://opendata.cwb.gov.tw/govdownload?dataid=F-C0032-009&authorizationkey=rdec-key-123-45678-011121314",
+            "RES_DESC": " ",
+            "RES_DATE_UPDATE_META": "2018/03/09 12:10"
+        }
+    ]
+}

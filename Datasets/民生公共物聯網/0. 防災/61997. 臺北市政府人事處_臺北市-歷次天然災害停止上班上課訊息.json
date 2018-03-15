@@ -1,0 +1,37 @@
+{
+    "TITLE": "臺北市-歷次天然災害停止上班上課訊息",
+    "NODE": "61997",
+    "DESC": "臺北市歷次天然災害停止上班上課訊息",
+    "SCHEMA": [
+        "年",
+        "天然災害名稱",
+        "臺北市停止上班上課情形",
+        "備註"
+    ],
+    "AGENCY": "臺北市政府人事處",
+    "AGENCY_CONTACT": "張家祥 (02-27208889-7723)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2015/08/20",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2018/01/18 22:20",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "Stats": "瀏覽次數: 21 下載次數: 2 意見數: 0 ",
+    "VIEWS": "21",
+    "DOWNLOAD": "2",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "年、天然災害名稱、臺北市停止上班上課情形、備註",
+            "RES_FILETYPE": "其他",
+            "RES_ENCODE": "其他",
+            "REC_COUNT": "0",
+            "RES_URL": "http://dop.gov.taipei/ct.asp?xItem=60789&CtNode=6071&mp=113001",
+            "RES_DESC": "臺北市歷次天然災害停止上班上課訊息",
+            "RES_DATE_UPDATE_META": "2015/08/19 17:06"
+        }
+    ]
+}

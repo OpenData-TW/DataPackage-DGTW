@@ -1,0 +1,37 @@
+{
+    "TITLE": "臺中市災防緊急安置學校分佈",
+    "NODE": "31903",
+    "DESC": "臺中市災防緊急安置學校分佈(社會局彙整106.1)",
+    "SCHEMA": "收容所編號,避難收容處所名稱,區別,里別,收容所地址",
+    "AGENCY": "臺中市政府教育局",
+    "AGENCY_CONTACT": "楊 (22289111#55685)",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/03/13",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2017/03/29 05:30",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 585 下載次數: 45 意見數: 0 ",
+    "VIEWS": "585",
+    "DOWNLOAD": "45",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "收容所編號,避難收容處所名稱,區別,里別,收容所地址",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "BIG5",
+            "REC_COUNT": "9",
+            "RES_URL": "http://data.taichung.gov.tw/GipOpenAdmin/gipadmin/site/public/Data/f1464760372832.csv",
+            "RES_DESC": "臺中市災防緊急安置學校分佈(社會局彙整105.1)\r",
+            "RES_DATE_UPDATE_META": "2017/12/08 17:12",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=31903&md5_url=0b23cb697f1638fb7445c1f39f24b7da",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=31903&md5_url=0b23cb697f1638fb7445c1f39f24b7da",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=31903&md5_url=0b23cb697f1638fb7445c1f39f24b7da",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=31903&md5_url=0b23cb697f1638fb7445c1f39f24b7da",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=31903&md5_url=0b23cb697f1638fb7445c1f39f24b7da"
+        }
+    ]
+}

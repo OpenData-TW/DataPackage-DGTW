@@ -1,0 +1,68 @@
+{
+    "TITLE": "新北市火災次數分類及時間",
+    "NODE": "49702",
+    "DESC": "新北市火災次數分類及時間",
+    "SCHEMA": [
+        "area：區域",
+        "total：總計",
+        "officeA1：A1機關",
+        "officeA2：A2機關",
+        "officeA3：A3機關",
+        "building：建築物",
+        "forest fieldcar：森林田野",
+        "car：車輛",
+        "ship：船舶",
+        "aircraft：航空器",
+        "other：其他",
+        "0to3：0~ 3時",
+        "3to6：6~ 9時",
+        "9to12：9~12時",
+        "12to15：12~15時",
+        "15to18：15~18時",
+        "18to21：18~21時",
+        "21to24：21~24時"
+    ],
+    "AGENCY": "新北市政府消防局",
+    "AGENCY_CONTACT": "林 小姐 (6618)",
+    "UPDATE_FREQ": "每月",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/08/06",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2018/03/01 14:31",
+    "KEYWORDS": [
+        "公告"
+    ],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "NOTES": "授權說明網址: http://data.gov.tw/license",
+    "Stats": "瀏覽次數: 105 下載次數: 17 意見數: 0 ",
+    "VIEWS": "105",
+    "DOWNLOAD": "17",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "area：區域、total：總計、officeA1：A1機關、officeA2：A2機關、officeA3：A3機關、building：建築物、forest fieldcar：森林田野、car：車輛、ship：船舶、aircraft：航空器、other：其他、0to3：0~ 3時、3to6：6~ 9時、9to12：9~12時、12to15：12~15時、15to18：15~18時、18to21：18~21時、21to24：21~24時",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://data.ntpc.gov.tw/od/zipfiledl?oid=84BC21B0-047A-44DC-A1B4-22A083CA4F60&ft=zip",
+            "RES_DESC": "新北市火災次數分類及時間",
+            "RES_DATE_UPDATE_META": "2018/03/01 14:31",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=49702&md5_url=1cfcc39afd60dff30e43c243d442fabc",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=49702&md5_url=1cfcc39afd60dff30e43c243d442fabc",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=49702&md5_url=1cfcc39afd60dff30e43c243d442fabc",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=49702&md5_url=1cfcc39afd60dff30e43c243d442fabc",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=49702&md5_url=1cfcc39afd60dff30e43c243d442fabc"
+        },
+        {
+            "SCHEMA": "area：區域、total：總計、officeA1：A1機關、officeA2：A2機關、officeA3：A3機關、building：建築物、forest fieldcar：森林田野、car：車輛、ship：船舶、aircraft：航空器、other：其他、0to3：0~ 3時、3to6：6~ 9時、9to12：9~12時、12to15：12~15時、15to18：15~18時、18to21：18~21時、21to24：21~24時",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "0",
+            "RES_URL": "http://data.ntpc.gov.tw/api/v1/rest/datastore/382000000A-002522-001",
+            "RES_DESC": "新北市火災次數分類及時間",
+            "RES_DATE_UPDATE_META": "2018/03/01 14:31"
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "TITLE": "移動污染源空氣污染防制費收費統計",
+    "NODE": "28190",
+    "DESC": "業者申報移動污染源空氣污染防制費之汽柴油數量及金額",
+    "SCHEMA": [
+        "廠商名稱(name)",
+        "年(year)",
+        "月(month)",
+        "車用汽油數量(公升)",
+        "車用柴油數量(公升)",
+        "空污費金額(元)"
+    ],
+    "AGENCY": "行政院環境保護署",
+    "AGENCY_CONTACT": "陳小姐 (0223712121#6302)",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2016/01/22",
+    "DATA_TYPE": "系統介接程式",
+    "DATE_UPDATE_META": "2016/03/03 11:11",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "生活安全及品質",
+    "NOTES": "授權說明網址: http://data.gov.tw/opendata/principle",
+    "Stats": "瀏覽次數: 474 下載次數: 99 意見數: 0 ",
+    "VIEWS": "474",
+    "DOWNLOAD": "99",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "廠商名稱(name)、年(year)、月(month)、車用汽油數量(公升)、車用柴油數量(公升)、空污費金額(元)",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "127",
+            "RES_URL": "http://opendata.epa.gov.tw/ws/Data/ATM00197/?$format=json",
+            "RES_DESC": "移動污染源空污費申報統計資料-JSON",
+            "RES_DATE_UPDATE_META": "2017/11/18 06:22",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=28190&md5_url=12a084ae35eb980931f9e13741591a4b",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=28190&md5_url=12a084ae35eb980931f9e13741591a4b",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=28190&md5_url=12a084ae35eb980931f9e13741591a4b",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=28190&md5_url=12a084ae35eb980931f9e13741591a4b",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=28190&md5_url=12a084ae35eb980931f9e13741591a4b"
+        },
+        {
+            "SCHEMA": "廠商名稱(name)、年(year)、月(month)、車用汽油數量(公升)、車用柴油數量(公升)、空污費金額(元)",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "127",
+            "RES_URL": "http://opendata.epa.gov.tw/ws/Data/ATM00197/?$format=xml",
+            "RES_DESC": "移動污染源空污費申報統計資料-XML",
+            "RES_DATE_UPDATE_META": "2017/11/18 06:22"
+        },
+        {
+            "SCHEMA": "廠商名稱(name)、年(year)、月(month)、車用汽油數量(公升)、車用柴油數量(公升)、空污費金額(元)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "127",
+            "RES_URL": "http://opendata.epa.gov.tw/ws/Data/ATM00197/?$format=csv",
+            "RES_DESC": "移動污染源空污費申報統計資料-CSV",
+            "RES_DATE_UPDATE_META": "2017/11/18 06:22",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=28190&md5_url=1587cadb33af0cbd6c60d72fe5b0e5c3",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=28190&md5_url=1587cadb33af0cbd6c60d72fe5b0e5c3",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=28190&md5_url=1587cadb33af0cbd6c60d72fe5b0e5c3",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=28190&md5_url=1587cadb33af0cbd6c60d72fe5b0e5c3",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=28190&md5_url=1587cadb33af0cbd6c60d72fe5b0e5c3"
+        },
+        {
+            "SCHEMA": "廠商名稱(name)、年(year)、月(month)、車用汽油數量(公升)、車用柴油數量(公升)、空污費金額(元)",
+            "RES_FILETYPE": "ODS",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "127",
+            "RES_URL": "http://opendata.epa.gov.tw/Files/ATM00197/2016/STAT_P_41_0324485_motorim.ods",
+            "RES_DESC": "移動污染源空氣污染防制費收費統計-ODS",
+            "RES_DATE_UPDATE_META": "2016/03/24 17:23"
+        },
+        {
+            "SCHEMA": "廠商名稱(name)、年(year)、月(month)、車用汽油數量(公升)、車用柴油數量(公升)、空污費金額(元)",
+            "RES_FILETYPE": "JSON",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "127",
+            "RES_URL": "http://opendata.epa.gov.tw/ws/Data/ATM00197/?$format=json",
+            "RES_DESC": "移動污染源空氣污染防制費收費統計-JSON",
+            "RES_DATE_UPDATE_META": "2017/11/18 06:22",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=28190&md5_url=12a084ae35eb980931f9e13741591a4b",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=28190&md5_url=12a084ae35eb980931f9e13741591a4b",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=28190&md5_url=12a084ae35eb980931f9e13741591a4b",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=28190&md5_url=12a084ae35eb980931f9e13741591a4b",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=28190&md5_url=12a084ae35eb980931f9e13741591a4b"
+        },
+        {
+            "SCHEMA": "廠商名稱(name)、年(year)、月(month)、車用汽油數量(公升)、車用柴油數量(公升)、空污費金額(元)",
+            "RES_FILETYPE": "XML",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "127",
+            "RES_URL": "http://opendata.epa.gov.tw/ws/Data/ATM00197/?$format=xml",
+            "RES_DESC": "移動污染源空氣污染防制費收費統計-XML",
+            "RES_DATE_UPDATE_META": "2017/11/18 06:22"
+        },
+        {
+            "SCHEMA": "廠商名稱(name)、年(year)、月(month)、車用汽油數量(公升)、車用柴油數量(公升)、空污費金額(元)",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "UTF-8",
+            "REC_COUNT": "127",
+            "RES_URL": "http://opendata.epa.gov.tw/ws/Data/ATM00197/?$format=csv",
+            "RES_DESC": "移動污染源空氣污染防制費收費統計-CSV",
+            "RES_DATE_UPDATE_META": "2017/11/18 06:22",
+            "CSV": "https://quality.data.gov.tw/dq_download_csv.php?nid=28190&md5_url=1587cadb33af0cbd6c60d72fe5b0e5c3",
+            "XLSX": "https://quality.data.gov.tw/dq_download_xlsx.php?nid=28190&md5_url=1587cadb33af0cbd6c60d72fe5b0e5c3",
+            "ODS": "https://quality.data.gov.tw/dq_download_ods.php?nid=28190&md5_url=1587cadb33af0cbd6c60d72fe5b0e5c3",
+            "XML": "https://quality.data.gov.tw/dq_download_xml.php?nid=28190&md5_url=1587cadb33af0cbd6c60d72fe5b0e5c3",
+            "JSON": "https://quality.data.gov.tw/dq_download_json.php?nid=28190&md5_url=1587cadb33af0cbd6c60d72fe5b0e5c3"
+        }
+    ]
+}

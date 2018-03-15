@@ -1,0 +1,37 @@
+{
+    "TITLE": "雲林縣106年2月火災人員死傷、財物損失表",
+    "NODE": "55502",
+    "DESC": "雲林縣106年2月火災人員死傷、財物損失表",
+    "SCHEMA": [
+        "公開類",
+        "",
+        "編製機關",
+        "雲林縣消防局火災調查科"
+    ],
+    "AGENCY": "雲林縣消防局",
+    "AGENCY_CONTACT": "鄭先生 (05-5325707@213)",
+    "UPDATE_FREQ": "不定期",
+    "LICENCE": "政府資料開放授權條款-第1版",
+    "CHARGE": "免費",
+    "DATE_PUBLISH": "2017/10/03",
+    "DATA_TYPE": "原始資料",
+    "DATE_UPDATE_META": "2017/10/03 06:42",
+    "KEYWORDS": [],
+    "CATEGORY": "其他",
+    "SERVICE_TYPE": "公共資訊",
+    "Stats": "瀏覽次數: 42 下載次數: 0 意見數: 0 ",
+    "VIEWS": "42",
+    "DOWNLOAD": "0",
+    "COMMENTS": "0",
+    "RESOURCE": [
+        {
+            "SCHEMA": "公開類、、編製機關、雲林縣消防局火災調查科",
+            "RES_FILETYPE": "CSV",
+            "RES_ENCODE": "BIG5",
+            "REC_COUNT": "26",
+            "RES_URL": "http://www.ylfire.gov.tw/upload/temp/20171003064055061.csv",
+            "RES_DESC": "",
+            "RES_DATE_UPDATE_META": "2017/10/02 06:41"
+        }
+    ]
+}
