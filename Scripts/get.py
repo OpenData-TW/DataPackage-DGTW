@@ -14,9 +14,8 @@ import pprint
 
 # get_node = 6179
 # node_list = [28387, 6179, 26870]
+node_list = [6157,6158,6159,6160,6161,6162,6163,6164,6165,6166,6167,6168,6169,6170,6171,6571]
 
-
-node_list = []
 # rename labels
 label_list = {
     '資料集描述': 'DESC',
@@ -32,6 +31,7 @@ label_list = {
     '關鍵字': 'KEYWORDS',
     '主題分類': 'CATEGORY',
     '服務分類': 'SERVICE_TYPE',
+    '相關網址': 'RELATED_URL',
     '備註': 'NOTES',
     '瀏覽次數': 'VIEWS',
     '下載次數': 'DOWNLOAD',
@@ -166,7 +166,7 @@ if len(sys.argv) == 2:
 elif len(sys.argv) == 3:
     get_json(int(sys.argv[1]), c=sys.argv[2])
 else:
-    pass
+    print('Node : ' + str(len(node_list)))
     for node_item in node_list:
         json_name = get_json(node_item)
         if os.path.exists(json_name):
