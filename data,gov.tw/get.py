@@ -14,7 +14,7 @@ import pprint
 
 # get_node = 6179
 # node_list = [28387, 6179, 26870]
-node_list = [6157,6158,6159,6160,6161,6162,6163,6164,6165,6166,6167,6168,6169,6170,6171,6571]
+node_list = [11271]
 
 # rename labels
 label_list = {
