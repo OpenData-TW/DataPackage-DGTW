@@ -1,10 +1,33 @@
-# 國發會開放資料平台
+# 臺南市開放資料平台
 
-- https://data.gov.tw
+- http://data.tainan.gov.tw/
+- ckan
 
+## 組織 (Agency)
+- http://data.tainan.gov.tw/organization
+- 28 個
 
+## 群組 (Categoty)
+- http://data.tainan.gov.tw/group
+- 11 個
 
 ## 詮釋資料 - metadata
+| 中文 | 轉換 | DP |
+| :---- | :---- | :---- |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 | 中文 | 轉換 | DP |
 | :---- | :---- | :---- |
