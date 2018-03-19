@@ -31,7 +31,7 @@ label_list = {
     '關鍵字': 'KEYWORDS',
     '主題分類': 'CATEGORY',
     '服務分類': 'SERVICE_TYPE',
-    '相關網址': 'RELATED_URL',
+    '相關網址': 'SOURCE_URL',
     '備註': 'NOTES',
     '瀏覽次數': 'VIEWS',
     '下載次數': 'DOWNLOAD',
