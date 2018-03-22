@@ -1,6 +1,8 @@
-# 國發會開放資料平台
+# 新竹縣政府開放資料平台
 
-- https://data.gov.tw
+- https://data.gov.tw/datasets/search?qs=dtid:22005
+- https://data.hsinchu.gov.tw/ 
+
 
 
 

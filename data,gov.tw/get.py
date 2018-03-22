@@ -10,11 +10,12 @@ import json
 import sys
 import os
 import pprint
-
+import node
 
 # get_node = 6179
 # node_list = [28387, 6179, 26870]
-node_list = [11271]
+
+node_list = node.node_list
 
 # rename labels
 label_list = {
@@ -56,14 +57,30 @@ def res_rename(label_name):
     except:
         return label_name
 
+# def get_dq(node_number):
+# 	res_donwnlaod = {}
+#     dq_url = 'https://quality.data.gov.tw/dq_event.php?nid=' + node_number
+#     reutrn res_donwnlaod
+
+def clean_name(title):
+    replace_list = {
+        '/': '_',
+        ':': '_',
+        '\t': '',
+        '>': '&gt;',
+        '<': '&lt;',
+    }
+    for i, k in replace_list.items():
+        title = title.replace(i, k)
+    return title
 
 def get_json(get_node, c=True):
     get_url = 'https://data.gov.tw/dataset/' + str(get_node)
 
     node_file = requests.get(get_url)
     node_file = BS4(node_file.content.decode('utf-8'), 'lxml')
-    json_title = node_file.find('h1', 'node-title').text.replace('/', '_').replace(':', '_')
-
+    json_title = node_file.find('h1', 'node-title').text
+    
     node_file = node_file.find('div', 'node-content')
 
     node_label = []
@@ -148,14 +165,20 @@ def get_json(get_node, c=True):
         res_matrix.append(res_temp)
 
     node_matrix['RESOURCE'] = res_matrix
+    json_title = clean_name(json_title)
+    json_file = str(get_node) + '. ' + node_matrix['AGENCY'] + '_' + json_title.strip() + '.json'
 
-    json_file = str(get_node) + '. ' + node_matrix['AGENCY'] + '_' + json_title + '.json'
+    # check resources status
+    # node_res_download = get_dq(node_matrix['NODE'])
+
+
+
     if c:
-        with open(json_file, 'w', encoding = 'utf-8') as j_file:
+        with open(json_file, 'w', encoding='utf-8') as j_file:
             json.dump(node_matrix, j_file, ensure_ascii=False, indent=4)
             return json_file
     else:
-        pprint.pprint(node_matrix, indent = 4)
+        pprint.pprint(node_matrix, indent=4)
 
 # main ----------------------------------------
 # get_json(node_list)

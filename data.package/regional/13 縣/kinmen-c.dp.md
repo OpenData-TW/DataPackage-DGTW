@@ -1,6 +1,8 @@
-# 國發會開放資料平台
+# 金門縣政府開放資料平台
 
-- https://data.gov.tw
+- https://data.gov.tw/datasets/search?qs=dtid:22024
+- http://data.kinmen.gov.tw/ 
+
 
 
 

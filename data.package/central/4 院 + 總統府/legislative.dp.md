@@ -1,6 +1,8 @@
-# 國發會開放資料平台
+# 立法院開放資料平台
 
-- https://data.gov.tw
+- https://data.gov.tw/datasets/search?qs=dtid:505
+- http://data.ly.gov.tw/
+
 
 
 

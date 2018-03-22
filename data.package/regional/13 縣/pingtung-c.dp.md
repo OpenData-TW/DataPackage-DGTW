@@ -1,6 +1,7 @@
-# 國發會開放資料平台
+# 屏東縣政府開放資料平台
 
-- https://data.gov.tw
+- https://data.gov.tw/datasets/search?qs=dtid:22019
+- https://www.pthg.gov.tw/Cus_OpenData_Default.aspx?n=481C53E05C1D2D97&sms=354B0B57F2762613 
 
 
 

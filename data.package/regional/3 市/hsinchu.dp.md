@@ -1,6 +1,9 @@
-# 國發會開放資料平台
+# 新竹市開放資料平台
 
-- https://data.gov.tw
+- http://opendata.hccg.gov.tw/ 
+- https://data.gov.tw/datasets/search?qs=dtid:22006
+
+
 
 
 

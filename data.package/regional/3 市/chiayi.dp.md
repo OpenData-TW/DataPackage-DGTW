@@ -1,6 +1,9 @@
-# 國發會開放資料平台
+# 嘉義市開放資料平台
 
-- https://data.gov.tw
+- https://data.chiayi.gov.tw/opendata/ 
+- https://data.gov.tw/datasets/search?qs=dtid:22014
+
+
 
 
 

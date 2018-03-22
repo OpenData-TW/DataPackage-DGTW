@@ -1,5 +1,6 @@
 # 臺南市開放資料平台
 
+- https://data.gov.tw/datasets/search?qs=dtid:22028
 - http://data.tainan.gov.tw/
 - ckan
 
