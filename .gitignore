@@ -3,6 +3,11 @@
 */.idea/*
 .idea/*
 Temp/*
+Keywords/*
+Datasets/*
+data.gov.tw/*
+data.pacjage/*
+data.*/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
